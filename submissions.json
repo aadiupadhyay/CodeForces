@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF80084887": {
+    "contest_id": 1353,
+    "language": "Python 3",
+    "path": "codeforces\\1353\\A.py",
+    "problem_index": "A",
+    "problem_name": "Most Unstable Array",
+    "problem_url": "https://codeforces.com/contest/1353/problem/A",
+    "submission_id": "CF80084887",
+    "submission_url": "https://codeforces.com/contest/1353/submission/80084887",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/14/2020 20:12"
+  },
   "CF80104622": {
     "contest_id": 1353,
     "language": "Python 3",

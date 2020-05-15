@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF80261165": {
+    "contest_id": 617,
+    "language": "Python 3",
+    "path": "codeforces\\617\\A.py",
+    "problem_index": "A",
+    "problem_name": "Elephant",
+    "problem_url": "https://codeforces.com/contest/617/problem/A",
+    "submission_id": "CF80261165",
+    "submission_url": "https://codeforces.com/contest/617/submission/80261165",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2020 01:48"
+  },
   "CF80261362": {
     "contest_id": 977,
     "language": "Python 3",

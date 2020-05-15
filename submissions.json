@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF80259909": {
+    "contest_id": 263,
+    "language": "Python 3",
+    "path": "codeforces\\263\\A.py",
+    "problem_index": "A",
+    "problem_name": "Beautiful Matrix",
+    "problem_url": "https://codeforces.com/contest/263/problem/A",
+    "submission_id": "CF80259909",
+    "submission_url": "https://codeforces.com/contest/263/submission/80259909",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2020 01:26"
+  },
   "CF80260292": {
     "contest_id": 266,
     "language": "Python 3",

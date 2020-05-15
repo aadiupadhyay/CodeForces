@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF80262754": {
+    "contest_id": 1342,
+    "language": "Python 3",
+    "path": "codeforces\\1342\\A.py",
+    "problem_index": "A",
+    "problem_name": "Road To Zero",
+    "problem_url": "https://codeforces.com/contest/1342/problem/A",
+    "submission_id": "CF80262754",
+    "submission_url": "https://codeforces.com/contest/1342/submission/80262754",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/16/2020 02:21"
+  },
   "CF80498168": {
     "contest_id": 1354,
     "language": "Python 3",

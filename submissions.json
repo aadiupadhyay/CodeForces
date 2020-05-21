@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF80880867": {
+    "contest_id": 467,
+    "language": "Python 3",
+    "path": "codeforces\\467\\A.py",
+    "problem_index": "A",
+    "problem_name": "George and Accommodation",
+    "problem_url": "https://codeforces.com/contest/467/problem/A",
+    "submission_id": "CF80880867",
+    "submission_url": "https://codeforces.com/contest/467/submission/80880867",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/22/2020 00:08"
+  },
   "CF80881866": {
     "contest_id": 58,
     "language": "Python 3",

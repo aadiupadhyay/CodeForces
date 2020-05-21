@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF80879942": {
+    "contest_id": 133,
+    "language": "Python 3",
+    "path": "codeforces\\133\\A.py",
+    "problem_index": "A",
+    "problem_name": "HQ9+",
+    "problem_url": "https://codeforces.com/contest/133/problem/A",
+    "submission_id": "CF80879942",
+    "submission_url": "https://codeforces.com/contest/133/submission/80879942",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "May/21/2020 23:54"
+  },
   "CF80880291": {
     "contest_id": 41,
     "language": "Python 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF80881866": {
+    "contest_id": 58,
+    "language": "Python 3",
+    "path": "codeforces\\58\\A.py",
+    "problem_index": "A",
+    "problem_name": "Chat room",
+    "problem_url": "https://codeforces.com/contest/58/problem/A",
+    "submission_id": "CF80881866",
+    "submission_url": "https://codeforces.com/contest/58/submission/80881866",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "May/22/2020 00:24"
+  },
   "CF80882639": {
     "contest_id": 580,
     "language": "Python 3",

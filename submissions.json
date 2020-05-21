@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF80880593": {
+    "contest_id": 59,
+    "language": "Python 3",
+    "path": "codeforces\\59\\A.py",
+    "problem_index": "A",
+    "problem_name": "Word",
+    "problem_url": "https://codeforces.com/contest/59/problem/A",
+    "submission_id": "CF80880593",
+    "submission_url": "https://codeforces.com/contest/59/submission/80880593",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/22/2020 00:04"
+  },
   "CF80880867": {
     "contest_id": 467,
     "language": "Python 3",

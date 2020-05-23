@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF81045060": {
+    "contest_id": 1030,
+    "language": "Python 3",
+    "path": "codeforces\\1030\\A.py",
+    "problem_index": "A",
+    "problem_name": "In Search of an Easy Problem",
+    "problem_url": "https://codeforces.com/contest/1030/problem/A",
+    "submission_id": "CF81045060",
+    "submission_url": "https://codeforces.com/contest/1030/submission/81045060",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/24/2020 01:22"
+  },
   "CF81167872": {
     "contest_id": 344,
     "language": "Python 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF81173816": {
+    "contest_id": 69,
+    "language": "Python 3",
+    "path": "codeforces\\69\\A.py",
+    "problem_index": "A",
+    "problem_name": "Young Physicist",
+    "problem_url": "https://codeforces.com/contest/69/problem/A",
+    "submission_id": "CF81173816",
+    "submission_url": "https://codeforces.com/contest/69/submission/81173816",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/24/2020 17:40"
+  },
   "CF81174152": {
     "contest_id": 200,
     "language": "Python 3",

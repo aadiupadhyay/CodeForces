@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF81167872": {
+    "contest_id": 344,
+    "language": "Python 3",
+    "path": "codeforces\\344\\A.py",
+    "problem_index": "A",
+    "problem_name": "Magnets",
+    "problem_url": "https://codeforces.com/contest/344/problem/A",
+    "submission_id": "CF81167872",
+    "submission_url": "https://codeforces.com/contest/344/submission/81167872",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/24/2020 16:18"
+  },
   "CF81169910": {
     "contest_id": 486,
     "language": "Python 3",

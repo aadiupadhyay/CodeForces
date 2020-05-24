@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF81171032": {
+    "contest_id": 405,
+    "language": "Python 3",
+    "path": "codeforces\\405\\A.py",
+    "problem_index": "A",
+    "problem_name": "Gravity Flip",
+    "problem_url": "https://codeforces.com/contest/405/problem/A",
+    "submission_id": "CF81171032",
+    "submission_url": "https://codeforces.com/contest/405/submission/81171032",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "May/24/2020 17:02"
+  },
   "CF81171602": {
     "contest_id": 61,
     "language": "Python 3",

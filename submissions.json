@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF81552601": {
+    "contest_id": 1358,
+    "language": "Python 3",
+    "path": "codeforces\\1358\\C.py",
+    "problem_index": "C",
+    "problem_name": "Celex Update",
+    "problem_url": "https://codeforces.com/contest/1358/problem/C",
+    "submission_id": "CF81552601",
+    "submission_url": "https://codeforces.com/contest/1358/submission/81552601",
+    "tags": [
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/26/2020 23:27"
+  },
   "CF81590797": {
     "contest_id": 723,
     "language": "Python 3",

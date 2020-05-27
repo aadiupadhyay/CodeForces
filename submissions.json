@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF81592305": {
+    "contest_id": 432,
+    "language": "Python 3",
+    "path": "codeforces\\432\\A.py",
+    "problem_index": "A",
+    "problem_name": "Choosing Teams",
+    "problem_url": "https://codeforces.com/contest/432/problem/A",
+    "submission_id": "CF81592305",
+    "submission_url": "https://codeforces.com/contest/432/submission/81592305",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/27/2020 12:53"
+  },
   "CF81595812": {
     "contest_id": 509,
     "language": "Python 3",

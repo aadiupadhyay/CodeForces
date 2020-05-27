@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF81598283": {
+    "contest_id": 758,
+    "language": "Python 3",
+    "path": "codeforces\\758\\A.py",
+    "problem_index": "A",
+    "problem_name": "Holiday Of Equality",
+    "problem_url": "https://codeforces.com/contest/758/problem/A",
+    "submission_id": "CF81598283",
+    "submission_url": "https://codeforces.com/contest/758/submission/81598283",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/27/2020 14:05"
+  },
   "CF81598913": {
     "contest_id": 749,
     "language": "Python 3",

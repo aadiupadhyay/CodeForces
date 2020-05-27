@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF81595812": {
+    "contest_id": 509,
+    "language": "Python 3",
+    "path": "codeforces\\509\\A.py",
+    "problem_index": "A",
+    "problem_name": "Maximum in Table",
+    "problem_url": "https://codeforces.com/contest/509/problem/A",
+    "submission_id": "CF81595812",
+    "submission_url": "https://codeforces.com/contest/509/submission/81595812",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/27/2020 13:38"
+  },
   "CF81597762": {
     "contest_id": 1348,
     "language": "Python 3",

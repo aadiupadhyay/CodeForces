@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF81599626": {
+    "contest_id": 707,
+    "language": "Python 3",
+    "path": "codeforces\\707\\A.py",
+    "problem_index": "A",
+    "problem_name": "Brain's Photos",
+    "problem_url": "https://codeforces.com/contest/707/problem/A",
+    "submission_id": "CF81599626",
+    "submission_url": "https://codeforces.com/contest/707/submission/81599626",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/27/2020 14:21"
+  },
   "CF81600845": {
     "contest_id": 1294,
     "language": "Python 3",

@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF81591537": {
+    "contest_id": 427,
+    "language": "Python 3",
+    "path": "codeforces\\427\\A.py",
+    "problem_index": "A",
+    "problem_name": "Police Recruits",
+    "problem_url": "https://codeforces.com/contest/427/problem/A",
+    "submission_id": "CF81591537",
+    "submission_url": "https://codeforces.com/contest/427/submission/81591537",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/27/2020 12:43"
+  },
   "CF81591889": {
     "contest_id": 703,
     "language": "Python 3",

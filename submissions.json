@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF82580814": {
+    "contest_id": 46,
+    "language": "Python 3",
+    "path": "codeforces\\46\\A.py",
+    "problem_index": "A",
+    "problem_name": "Ball Game",
+    "problem_url": "https://codeforces.com/contest/46/problem/A",
+    "submission_id": "CF82580814",
+    "submission_url": "https://codeforces.com/contest/46/submission/82580814",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/05/2020 03:41"
+  },
   "CF82659508": {
     "contest_id": 1146,
     "language": "Python 3",

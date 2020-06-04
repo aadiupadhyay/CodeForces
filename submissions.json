@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF82576647": {
+    "contest_id": 25,
+    "language": "Python 3",
+    "path": "codeforces\\25\\B.py",
+    "problem_index": "B",
+    "problem_name": "Phone numbers",
+    "problem_url": "https://codeforces.com/contest/25/problem/B",
+    "submission_id": "CF82576647",
+    "submission_url": "https://codeforces.com/contest/25/submission/82576647",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/05/2020 01:52"
+  },
   "CF82576990": {
     "contest_id": 25,
     "language": "Python 3",

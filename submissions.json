@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF82579871": {
+    "contest_id": 45,
+    "language": "Python 3",
+    "path": "codeforces\\45\\A.py",
+    "problem_index": "A",
+    "problem_name": "Codecraft III",
+    "problem_url": "https://codeforces.com/contest/45/problem/A",
+    "submission_id": "CF82579871",
+    "submission_url": "https://codeforces.com/contest/45/submission/82579871",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jun/05/2020 03:13"
+  },
   "CF82580814": {
     "contest_id": 46,
     "language": "Python 3",

@@ -1,4 +1,20 @@
 {
+  "AC14012450": {
+    "contest_id": "abc169",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc169\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Div Game",
+    "problem_url": "https://atcoder.jp/contests/abc169/tasks/abc169_d",
+    "submission_id": "AC14012450",
+    "submission_url": "https://atcoder.jp/contests/abc169/submissions/14012450",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/04/2020 23:49"
+  },
   "AC14076016": {
     "contest_id": "abc167",
     "language": "Python (3.8.2)",

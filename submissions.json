@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF82575069": {
+    "contest_id": 1165,
+    "language": "Python 3",
+    "path": "codeforces\\1165\\A.py",
+    "problem_index": "A",
+    "problem_name": "Remainder",
+    "problem_url": "https://codeforces.com/contest/1165/problem/A",
+    "submission_id": "CF82575069",
+    "submission_url": "https://codeforces.com/contest/1165/submission/82575069",
+    "tags": [
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/05/2020 01:23"
+  },
   "CF82576647": {
     "contest_id": 25,
     "language": "Python 3",

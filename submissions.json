@@ -1,4 +1,20 @@
 {
+  "AC14076028": {
+    "contest_id": "abc167",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc167\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Registration",
+    "problem_url": "https://atcoder.jp/contests/abc167/tasks/abc167_a",
+    "submission_id": "AC14076028",
+    "submission_url": "https://atcoder.jp/contests/abc167/submissions/14076028",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/07/2020 01:21"
+  },
   "AC14103103": {
     "contest_id": "abc138",
     "language": "Python3 (3.4.3)",

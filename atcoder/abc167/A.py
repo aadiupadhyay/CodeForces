@@ -1,6 +1,11 @@
 s=input()
 t=input()
-if s==t[:len(s)]:
+c=0
+for i in range(len(s)):
+  if s[i]!=t[i]:
+    c=1
+    break
+if c==0:
   print("Yes")
 else:
   print("No")

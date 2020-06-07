@@ -1,4 +1,20 @@
 {
+  "AC14103103": {
+    "contest_id": "abc138",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc138\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Red or Not",
+    "problem_url": "https://atcoder.jp/contests/abc138/tasks/abc138_a",
+    "submission_id": "AC14103103",
+    "submission_url": "https://atcoder.jp/contests/abc138/submissions/14103103",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/08/2020 02:12"
+  },
   "AC14103113": {
     "contest_id": "abc138",
     "language": "Python3 (3.4.3)",

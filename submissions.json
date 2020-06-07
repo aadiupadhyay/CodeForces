@@ -1,4 +1,20 @@
 {
+  "AC14103113": {
+    "contest_id": "abc138",
+    "language": "Python3 (3.4.3)",
+    "path": "atcoder\\abc138\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Resistors in Parallel",
+    "problem_url": "https://atcoder.jp/contests/abc138/tasks/abc138_b",
+    "submission_id": "AC14103113",
+    "submission_url": "https://atcoder.jp/contests/abc138/submissions/14103113",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/08/2020 02:14"
+  },
   "AC14354666": {
     "contest_id": "abc170",
     "language": "Python (3.8.2)",

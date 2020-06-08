@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF83166071": {
+    "contest_id": 266,
+    "language": "Python 3",
+    "path": "codeforces\\266\\B.py",
+    "problem_index": "B",
+    "problem_name": "Queue at the School",
+    "problem_url": "https://codeforces.com/contest/266/problem/B",
+    "submission_id": "CF83166071",
+    "submission_url": "https://codeforces.com/contest/266/submission/83166071",
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "implementation",
+      "shortest paths",
+      "*800"
+    ],
+    "timestamp": "Jun/09/2020 00:26"
+  },
   "CF83324836": {
     "contest_id": 131,
     "language": "Python 3",

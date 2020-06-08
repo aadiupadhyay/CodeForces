@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF83165237": {
+    "contest_id": 110,
+    "language": "Python 3",
+    "path": "codeforces\\110\\A.py",
+    "problem_index": "A",
+    "problem_name": "Nearly Lucky Number",
+    "problem_url": "https://codeforces.com/contest/110/problem/A",
+    "submission_id": "CF83165237",
+    "submission_url": "https://codeforces.com/contest/110/submission/83165237",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/09/2020 00:13"
+  },
   "CF83165712": {
     "contest_id": 122,
     "language": "Python 3",

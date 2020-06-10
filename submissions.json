@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF83324836": {
+    "contest_id": 131,
+    "language": "Python 3",
+    "path": "codeforces\\131\\B.py",
+    "problem_index": "B",
+    "problem_name": "Opposites Attract",
+    "problem_url": "https://codeforces.com/contest/131/problem/B",
+    "submission_id": "CF83324836",
+    "submission_url": "https://codeforces.com/contest/131/submission/83324836",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jun/10/2020 23:05"
+  },
   "CF83325253": {
     "contest_id": 122,
     "language": "Python 3",

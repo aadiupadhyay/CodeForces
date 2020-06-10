@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF83325253": {
+    "contest_id": 122,
+    "language": "Python 3",
+    "path": "codeforces\\122\\B.py",
+    "problem_index": "B",
+    "problem_name": "Lucky Substring",
+    "problem_url": "https://codeforces.com/contest/122/problem/B",
+    "submission_id": "CF83325253",
+    "submission_url": "https://codeforces.com/contest/122/submission/83325253",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/10/2020 23:12"
+  },
   "CF83326806": {
     "contest_id": 1296,
     "language": "Python 3",

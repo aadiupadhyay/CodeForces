@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF83474920": {
+    "contest_id": 349,
+    "language": "Python 3",
+    "path": "codeforces\\349\\A.py",
+    "problem_index": "A",
+    "problem_name": "Cinema Line",
+    "problem_url": "https://codeforces.com/contest/349/problem/A",
+    "submission_id": "CF83474920",
+    "submission_url": "https://codeforces.com/contest/349/submission/83474920",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/12/2020 00:13"
+  },
   "CF83554357": {
     "contest_id": 1269,
     "language": "Python 3",

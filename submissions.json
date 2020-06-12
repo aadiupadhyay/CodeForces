@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF83554357": {
+    "contest_id": 1269,
+    "language": "Python 3",
+    "path": "codeforces\\1269\\A.py",
+    "problem_index": "A",
+    "problem_name": "Equation",
+    "problem_url": "https://codeforces.com/contest/1269/problem/A",
+    "submission_id": "CF83554357",
+    "submission_url": "https://codeforces.com/contest/1269/submission/83554357",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/12/2020 23:49"
+  },
   "CF83692237": {
     "contest_id": 144,
     "language": "Python 3",

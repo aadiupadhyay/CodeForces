@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF83697348": {
+    "contest_id": 155,
+    "language": "Python 3",
+    "path": "codeforces\\155\\A.py",
+    "problem_index": "A",
+    "problem_name": "I_love_\\%username\\%",
+    "problem_url": "https://codeforces.com/contest/155/problem/A",
+    "submission_id": "CF83697348",
+    "submission_url": "https://codeforces.com/contest/155/submission/83697348",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Jun/14/2020 01:35"
+  },
   "CF83697959": {
     "contest_id": 1311,
     "language": "Python 3",

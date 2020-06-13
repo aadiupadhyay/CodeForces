@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF83696867": {
+    "contest_id": 750,
+    "language": "Python 3",
+    "path": "codeforces\\750\\A.py",
+    "problem_index": "A",
+    "problem_name": "New Year and Hurry",
+    "problem_url": "https://codeforces.com/contest/750/problem/A",
+    "submission_id": "CF83696867",
+    "submission_url": "https://codeforces.com/contest/750/submission/83696867",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/14/2020 01:26"
+  },
   "CF83697348": {
     "contest_id": 155,
     "language": "Python 3",

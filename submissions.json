@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF83696524": {
+    "contest_id": 732,
+    "language": "Python 3",
+    "path": "codeforces\\732\\A.py",
+    "problem_index": "A",
+    "problem_name": "Buy a Shovel",
+    "problem_url": "https://codeforces.com/contest/732/problem/A",
+    "submission_id": "CF83696524",
+    "submission_url": "https://codeforces.com/contest/732/submission/83696524",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/14/2020 01:21"
+  },
   "CF83696867": {
     "contest_id": 750,
     "language": "Python 3",

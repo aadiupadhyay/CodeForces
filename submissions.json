@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF83774042": {
+    "contest_id": 705,
+    "language": "Python 3",
+    "path": "codeforces\\705\\A.py",
+    "problem_index": "A",
+    "problem_name": "Hulk",
+    "problem_url": "https://codeforces.com/contest/705/problem/A",
+    "submission_id": "CF83774042",
+    "submission_url": "https://codeforces.com/contest/705/submission/83774042",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/14/2020 23:48"
+  },
   "CF83938292": {
     "contest_id": 1367,
     "language": "Python 3",

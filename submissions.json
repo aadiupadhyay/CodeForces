@@ -1,4 +1,20 @@
 {
+  "AC14354666": {
+    "contest_id": "abc170",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc170\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Five Variables",
+    "problem_url": "https://atcoder.jp/contests/abc170/tasks/abc170_a",
+    "submission_id": "AC14354666",
+    "submission_url": "https://atcoder.jp/contests/abc170/submissions/14354666",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/14/2020 19:06"
+  },
   "AC14359642": {
     "contest_id": "abc170",
     "language": "Python (3.8.2)",

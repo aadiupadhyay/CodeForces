@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84106973": {
+    "contest_id": 1327,
+    "language": "PyPy 3",
+    "path": "codeforces\\1327\\A.py",
+    "problem_index": "A",
+    "problem_name": "Sum of Odd Integers",
+    "problem_url": "https://codeforces.com/contest/1327/problem/A",
+    "submission_id": "CF84106973",
+    "submission_url": "https://codeforces.com/contest/1327/submission/84106973",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/18/2020 00:48"
+  },
   "CF84108592": {
     "contest_id": 935,
     "language": "Python 3",

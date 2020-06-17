@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84072854": {
+    "contest_id": 230,
+    "language": "Python 3",
+    "path": "codeforces\\230\\B.py",
+    "problem_index": "B",
+    "problem_name": "T-primes",
+    "problem_url": "https://codeforces.com/contest/230/problem/B",
+    "submission_id": "CF84072854",
+    "submission_url": "https://codeforces.com/contest/230/submission/84072854",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Jun/17/2020 18:13"
+  },
   "CF84095892": {
     "contest_id": 1097,
     "language": "Python 3",

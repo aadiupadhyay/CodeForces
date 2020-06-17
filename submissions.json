@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84108592": {
+    "contest_id": 935,
+    "language": "Python 3",
+    "path": "codeforces\\935\\A.py",
+    "problem_index": "A",
+    "problem_name": "Fafa and his Company",
+    "problem_url": "https://codeforces.com/contest/935/problem/A",
+    "submission_id": "CF84108592",
+    "submission_url": "https://codeforces.com/contest/935/submission/84108592",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/18/2020 01:13"
+  },
   "CF84109744": {
     "contest_id": 492,
     "language": "Python 3",

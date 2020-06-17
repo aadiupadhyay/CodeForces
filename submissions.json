@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84109744": {
+    "contest_id": 492,
+    "language": "Python 3",
+    "path": "codeforces\\492\\A.py",
+    "problem_index": "A",
+    "problem_name": "Vanya and Cubes",
+    "problem_url": "https://codeforces.com/contest/492/problem/A",
+    "submission_id": "CF84109744",
+    "submission_url": "https://codeforces.com/contest/492/submission/84109744",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/18/2020 01:35"
+  },
   "CF84110076": {
     "contest_id": 519,
     "language": "Python 3",

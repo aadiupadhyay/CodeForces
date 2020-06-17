@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84100192": {
+    "contest_id": 785,
+    "language": "Python 3",
+    "path": "codeforces\\785\\A.py",
+    "problem_index": "A",
+    "problem_name": "Anton and Polyhedrons",
+    "problem_url": "https://codeforces.com/contest/785/problem/A",
+    "submission_id": "CF84100192",
+    "submission_url": "https://codeforces.com/contest/785/submission/84100192",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/17/2020 23:18"
+  },
   "CF84100515": {
     "contest_id": 228,
     "language": "Python 3",

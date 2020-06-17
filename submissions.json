@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84110377": {
+    "contest_id": 706,
+    "language": "Python 3",
+    "path": "codeforces\\706\\B.py",
+    "problem_index": "B",
+    "problem_name": "Interesting drink",
+    "problem_url": "https://codeforces.com/contest/706/problem/B",
+    "submission_id": "CF84110377",
+    "submission_url": "https://codeforces.com/contest/706/submission/84110377",
+    "tags": [
+      "binary search",
+      "dp",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/18/2020 01:48"
+  },
   "CF84110819": {
     "contest_id": 584,
     "language": "Python 3",

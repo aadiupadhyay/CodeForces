@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84110076": {
+    "contest_id": 519,
+    "language": "Python 3",
+    "path": "codeforces\\519\\B.py",
+    "problem_index": "B",
+    "problem_name": "A and B and Compilation Errors",
+    "problem_url": "https://codeforces.com/contest/519/problem/B",
+    "submission_id": "CF84110076",
+    "submission_url": "https://codeforces.com/contest/519/submission/84110076",
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jun/18/2020 01:42"
+  },
   "CF84110107": {
     "contest_id": 519,
     "language": "PyPy 3",

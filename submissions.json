@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84096548": {
+    "contest_id": 1335,
+    "language": "Python 3",
+    "path": "codeforces\\1335\\B.py",
+    "problem_index": "B",
+    "problem_name": "Construct the String",
+    "problem_url": "https://codeforces.com/contest/1335/problem/B",
+    "submission_id": "CF84096548",
+    "submission_url": "https://codeforces.com/contest/1335/submission/84096548",
+    "tags": [
+      "constructive algorithms",
+      "*900"
+    ],
+    "timestamp": "Jun/17/2020 22:33"
+  },
   "CF84097230": {
     "contest_id": 337,
     "language": "Python 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84099528": {
+    "contest_id": 443,
+    "language": "Python 3",
+    "path": "codeforces\\443\\A.py",
+    "problem_index": "A",
+    "problem_name": "Anton and Letters",
+    "problem_url": "https://codeforces.com/contest/443/problem/A",
+    "submission_id": "CF84099528",
+    "submission_url": "https://codeforces.com/contest/443/submission/84099528",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/17/2020 23:09"
+  },
   "CF84100192": {
     "contest_id": 785,
     "language": "Python 3",

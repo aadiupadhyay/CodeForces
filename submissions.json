@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84095892": {
+    "contest_id": 1097,
+    "language": "Python 3",
+    "path": "codeforces\\1097\\A.py",
+    "problem_index": "A",
+    "problem_name": "Gennady and a Card Game",
+    "problem_url": "https://codeforces.com/contest/1097/problem/A",
+    "submission_id": "CF84095892",
+    "submission_url": "https://codeforces.com/contest/1097/submission/84095892",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/17/2020 22:25"
+  },
   "CF84096548": {
     "contest_id": 1335,
     "language": "Python 3",

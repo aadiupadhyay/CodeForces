@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84276872": {
+    "contest_id": 1337,
+    "language": "PyPy 3",
+    "path": "codeforces\\1337\\B.py",
+    "problem_index": "B",
+    "problem_name": "Kana and Dragon Quest game",
+    "problem_url": "https://codeforces.com/contest/1337/problem/B",
+    "submission_id": "CF84276872",
+    "submission_url": "https://codeforces.com/contest/1337/submission/84276872",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/19/2020 02:54"
+  },
   "CF84361713": {
     "contest_id": 1368,
     "language": "PyPy 3",

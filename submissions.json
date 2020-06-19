@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84364702": {
+    "contest_id": 1352,
+    "language": "PyPy 3",
+    "path": "codeforces\\1352\\B.py",
+    "problem_index": "B",
+    "problem_name": "Same Parity Summands",
+    "problem_url": "https://codeforces.com/contest/1352/problem/B",
+    "submission_id": "CF84364702",
+    "submission_url": "https://codeforces.com/contest/1352/submission/84364702",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jun/20/2020 02:07"
+  },
   "CF84365763": {
     "contest_id": 1352,
     "language": "Python 3",

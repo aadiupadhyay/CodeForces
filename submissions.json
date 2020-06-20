@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84516227": {
+    "contest_id": 1370,
+    "language": "Python 3",
+    "path": "codeforces\\1370\\B.py",
+    "problem_index": "B",
+    "problem_name": "GCD Compression",
+    "problem_url": "https://codeforces.com/contest/1370/problem/B",
+    "submission_id": "CF84516227",
+    "submission_url": "https://codeforces.com/contest/1370/submission/84516227",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Jun/20/2020 23:38"
+  },
   "CF84518002": {
     "contest_id": 1368,
     "language": "Python 3",

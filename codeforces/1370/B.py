@@ -1,48 +1,54 @@
-from sys  import stdin,stdout
-from collections  import *
-from math import gcd,floor,ceil
-st=lambda:list(stdin.readline().strip())
-li=lambda:list(map(int,stdin.readline().split()))
-mp=lambda:map(int,stdin.readline().split())
-inp=lambda:int(stdin.readline())
-pr=lambda n: stdout.write(str(n)+"\n")
-
-mod=1000000007
-INF=float('inf')
-
 def solve():
-    n=inp()
-    l=li()
-    even=[]
-    odd=[]
+    n=int(input())
+    l=list(map(int,input().split()))
+    odd={}
+    even={}
+    oddc,evenc=0,0
     for i in range(len(l)):
-        if l[i]%2:
-            odd.append(i+1)
+ 
+        if l[i]&1:
+            if oddc==0:
+                odd[i+1]=0
+                oddc=1
+            else:
+                odd[i+1]=l[i]
         else:
-            even.append(i+1)
-    if even and odd:
-        if len(even)%2==0 and len(odd)%2==0:
-            even.pop()
-            even.pop()
-        else:
-            even.pop()
-            odd.pop()
-
-    elif even:
-        even.pop()
-        even.pop()
-    else:
-        odd.pop()
-        odd.pop()
-    #print(even,odd)
-    for i in range(0,len(even)-1,2):
-        print(even[i],even[i+1])
-    for i in range(0,len(odd)-1,2):
-        print(odd[i],odd[i+1])
-    #print()
-
-        
-            
+            if evenc==0:
+                even[i+1]=0
+                evenc=1
+            else:
+                even[i+1]=l[i]
+ 
     
-for _ in range(inp()):
+    x=list(odd.keys())
+    y=list(even.keys())
+    
+ 
+    a,b=len(x),len(y)
+ 
+    if a&1:
+        x=x[1:]
+        y=y[1:]
+    else:
+        if len(x)>0:
+            x=x[2:]
+        else:
+            y=y[2:]
+ 
+ 
+    for i in range(0,len(y)-1,2):
+        f,g=y[i],y[i+1]
+        print(min(f,g),max(f,g))
+        
+ 
+    for j in range(0,len(x)-1,2):
+        f,g=x[j],x[j+1]
+        print(min(f,g),max(f,g))
+        
+ 
+        
+ 
+    
+for _ in range(int(input())):
+ 
     solve()

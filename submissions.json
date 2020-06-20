@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84527426": {
+    "contest_id": 1303,
+    "language": "Python 3",
+    "path": "codeforces\\1303\\A.py",
+    "problem_index": "A",
+    "problem_name": "Erasing Zeroes",
+    "problem_url": "https://codeforces.com/contest/1303/problem/A",
+    "submission_id": "CF84527426",
+    "submission_url": "https://codeforces.com/contest/1303/submission/84527426",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/21/2020 01:34"
+  },
   "CF84530060": {
     "contest_id": 1335,
     "language": "Python 3",

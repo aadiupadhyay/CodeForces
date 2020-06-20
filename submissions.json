@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84398346": {
+    "contest_id": 540,
+    "language": "Python 3",
+    "path": "codeforces\\540\\A.py",
+    "problem_index": "A",
+    "problem_name": "Combination Lock",
+    "problem_url": "https://codeforces.com/contest/540/problem/A",
+    "submission_id": "CF84398346",
+    "submission_url": "https://codeforces.com/contest/540/submission/84398346",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/20/2020 14:38"
+  },
   "CF84438855": {
     "contest_id": 1370,
     "language": "Python 3",

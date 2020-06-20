@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84530378": {
+    "contest_id": 1335,
+    "language": "Python 3",
+    "path": "codeforces\\1335\\A.py",
+    "problem_index": "A",
+    "problem_name": "Candies and Two Sisters",
+    "problem_url": "https://codeforces.com/contest/1335/problem/A",
+    "submission_id": "CF84530378",
+    "submission_url": "https://codeforces.com/contest/1335/submission/84530378",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/21/2020 02:22"
+  },
   "CF84609063": {
     "contest_id": 588,
     "language": "Python 3",

@@ -1,4 +1,20 @@
 {
+  "AC14510131": {
+    "contest_id": "abc166",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc166\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Trick or Treat",
+    "problem_url": "https://atcoder.jp/contests/abc166/tasks/abc166_b",
+    "submission_id": "AC14510131",
+    "submission_url": "https://atcoder.jp/contests/abc166/submissions/14510131",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/21/2020 01:52"
+  },
   "AC14528537": {
     "contest_id": "abc171",
     "language": "Python (3.8.2)",

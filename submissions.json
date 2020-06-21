@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84616102": {
+    "contest_id": 124,
+    "language": "Python 3",
+    "path": "codeforces\\124\\A.py",
+    "problem_index": "A",
+    "problem_name": "The number of positions",
+    "problem_url": "https://codeforces.com/contest/124/problem/A",
+    "submission_id": "CF84616102",
+    "submission_url": "https://codeforces.com/contest/124/submission/84616102",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/22/2020 02:06"
+  },
   "CF84616717": {
     "contest_id": 577,
     "language": "Python 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84613481": {
+    "contest_id": 978,
+    "language": "Python 3",
+    "path": "codeforces\\978\\B.py",
+    "problem_index": "B",
+    "problem_name": "File Name",
+    "problem_url": "https://codeforces.com/contest/978/problem/B",
+    "submission_id": "CF84613481",
+    "submission_url": "https://codeforces.com/contest/978/submission/84613481",
+    "tags": [
+      "greedy",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/22/2020 01:07"
+  },
   "CF84614822": {
     "contest_id": 1342,
     "language": "Python 3",

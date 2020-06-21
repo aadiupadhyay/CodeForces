@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84613162": {
+    "contest_id": 1095,
+    "language": "Python 3",
+    "path": "codeforces\\1095\\A.py",
+    "problem_index": "A",
+    "problem_name": "Repeating Cipher",
+    "problem_url": "https://codeforces.com/contest/1095/problem/A",
+    "submission_id": "CF84613162",
+    "submission_url": "https://codeforces.com/contest/1095/submission/84613162",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/22/2020 01:00"
+  },
   "CF84613481": {
     "contest_id": 978,
     "language": "Python 3",

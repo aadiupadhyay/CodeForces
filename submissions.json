@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84615733": {
+    "contest_id": 1350,
+    "language": "Python 3",
+    "path": "codeforces\\1350\\A.py",
+    "problem_index": "A",
+    "problem_name": "Orac and Factors",
+    "problem_url": "https://codeforces.com/contest/1350/problem/A",
+    "submission_id": "CF84615733",
+    "submission_url": "https://codeforces.com/contest/1350/submission/84615733",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/22/2020 01:56"
+  },
   "CF84616102": {
     "contest_id": 124,
     "language": "Python 3",

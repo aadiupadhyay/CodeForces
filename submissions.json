@@ -1,4 +1,20 @@
 {
+  "AC14528537": {
+    "contest_id": "abc171",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc171\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "\u03b1lphabet",
+    "problem_url": "https://atcoder.jp/contests/abc171/tasks/abc171_a",
+    "submission_id": "AC14528537",
+    "submission_url": "https://atcoder.jp/contests/abc171/submissions/14528537",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/21/2020 17:31"
+  },
   "AC14534190": {
     "contest_id": "abc171",
     "language": "Python (3.8.2)",

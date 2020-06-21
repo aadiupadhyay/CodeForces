@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84609063": {
+    "contest_id": 588,
+    "language": "Python 3",
+    "path": "codeforces\\588\\A.py",
+    "problem_index": "A",
+    "problem_name": "Duff and Meat",
+    "problem_url": "https://codeforces.com/contest/588/problem/A",
+    "submission_id": "CF84609063",
+    "submission_url": "https://codeforces.com/contest/588/submission/84609063",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Jun/21/2020 23:51"
+  },
   "CF84613162": {
     "contest_id": 1095,
     "language": "Python 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84616717": {
+    "contest_id": 577,
+    "language": "Python 3",
+    "path": "codeforces\\577\\A.py",
+    "problem_index": "A",
+    "problem_name": "Multiplication Table",
+    "problem_url": "https://codeforces.com/contest/577/problem/A",
+    "submission_id": "CF84616717",
+    "submission_url": "https://codeforces.com/contest/577/submission/84616717",
+    "tags": [
+      "implementation",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Jun/22/2020 02:22"
+  },
   "CF84764163": {
     "contest_id": 1369,
     "language": "Python 3",

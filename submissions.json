@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84764163": {
+    "contest_id": 1369,
+    "language": "Python 3",
+    "path": "codeforces\\1369\\A.py",
+    "problem_index": "A",
+    "problem_name": "FashionabLee",
+    "problem_url": "https://codeforces.com/contest/1369/problem/A",
+    "submission_id": "CF84764163",
+    "submission_url": "https://codeforces.com/contest/1369/submission/84764163",
+    "tags": [
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/23/2020 19:46"
+  },
   "CF84825880": {
     "contest_id": 1369,
     "language": "Python 3",

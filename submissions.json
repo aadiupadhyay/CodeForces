@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84825880": {
+    "contest_id": 1369,
+    "language": "Python 3",
+    "path": "codeforces\\1369\\B.py",
+    "problem_index": "B",
+    "problem_name": "AccurateLee",
+    "problem_url": "https://codeforces.com/contest/1369/problem/B",
+    "submission_id": "CF84825880",
+    "submission_url": "https://codeforces.com/contest/1369/submission/84825880",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Jun/23/2020 23:18"
+  },
   "CF84829637": {
     "contest_id": 1369,
     "language": "Python 3",

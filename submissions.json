@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84927235": {
+    "contest_id": 702,
+    "language": "Python 3",
+    "path": "codeforces\\702\\A.py",
+    "problem_index": "A",
+    "problem_name": "Maximum Increase",
+    "problem_url": "https://codeforces.com/contest/702/problem/A",
+    "submission_id": "CF84927235",
+    "submission_url": "https://codeforces.com/contest/702/submission/84927235",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/25/2020 03:21"
+  },
   "CF84927302": {
     "contest_id": 702,
     "language": "PyPy 3",

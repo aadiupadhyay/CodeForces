@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84926468": {
+    "contest_id": 1326,
+    "language": "Python 3",
+    "path": "codeforces\\1326\\A.py",
+    "problem_index": "A",
+    "problem_name": "Bad Ugly Numbers",
+    "problem_url": "https://codeforces.com/contest/1326/problem/A",
+    "submission_id": "CF84926468",
+    "submission_url": "https://codeforces.com/contest/1326/submission/84926468",
+    "tags": [
+      "constructive algorithms",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Jun/25/2020 02:57"
+  },
   "CF84927235": {
     "contest_id": 702,
     "language": "Python 3",

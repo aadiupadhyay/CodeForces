@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF84921517": {
+    "contest_id": 670,
+    "language": "Python 3",
+    "path": "codeforces\\670\\A.py",
+    "problem_index": "A",
+    "problem_name": "Holidays",
+    "problem_url": "https://codeforces.com/contest/670/problem/A",
+    "submission_id": "CF84921517",
+    "submission_url": "https://codeforces.com/contest/670/submission/84921517",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/25/2020 00:57"
+  },
   "CF84925798": {
     "contest_id": 742,
     "language": "Python 3",

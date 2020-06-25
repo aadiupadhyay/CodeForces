@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85066304": {
+    "contest_id": 472,
+    "language": "PyPy 3",
+    "path": "codeforces\\472\\A.py",
+    "problem_index": "A",
+    "problem_name": "Design Tutorial: Learn from Math",
+    "problem_url": "https://codeforces.com/contest/472/problem/A",
+    "submission_id": "CF85066304",
+    "submission_url": "https://codeforces.com/contest/472/submission/85066304",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Jun/26/2020 00:15"
+  },
   "CF85066725": {
     "contest_id": 510,
     "language": "Python 3",

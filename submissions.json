@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85069992": {
+    "contest_id": 4,
+    "language": "Python 3",
+    "path": "codeforces\\4\\C.py",
+    "problem_index": "C",
+    "problem_name": "Registration System",
+    "problem_url": "https://codeforces.com/contest/4/problem/C",
+    "submission_id": "CF85069992",
+    "submission_url": "https://codeforces.com/contest/4/submission/85069992",
+    "tags": [
+      "data structures",
+      "hashing",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jun/26/2020 01:10"
+  },
   "CF85070745": {
     "contest_id": 141,
     "language": "Python 3",

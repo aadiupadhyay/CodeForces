@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85151278": {
+    "contest_id": 1373,
+    "language": "Python 3",
+    "path": "codeforces\\1373\\B.py",
+    "problem_index": "B",
+    "problem_name": "01 Game",
+    "problem_url": "https://codeforces.com/contest/1373/problem/B",
+    "submission_id": "CF85151278",
+    "submission_url": "https://codeforces.com/contest/1373/submission/85151278",
+    "tags": [
+      "games",
+      "*900"
+    ],
+    "timestamp": "Jun/26/2020 23:02"
+  },
   "CF85255993": {
     "contest_id": 1186,
     "language": "Python 3",

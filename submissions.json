@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85359687": {
+    "contest_id": 1374,
+    "language": "Python 3",
+    "path": "codeforces\\1374\\C.py",
+    "problem_index": "C",
+    "problem_name": "Move Brackets",
+    "problem_url": "https://codeforces.com/contest/1374/problem/C",
+    "submission_id": "CF85359687",
+    "submission_url": "https://codeforces.com/contest/1374/submission/85359687",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Jun/28/2020 21:20"
+  },
   "CF85394384": {
     "contest_id": 1374,
     "language": "Python 3",

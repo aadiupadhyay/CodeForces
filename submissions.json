@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85394384": {
+    "contest_id": 1374,
+    "language": "Python 3",
+    "path": "codeforces\\1374\\E1.py",
+    "problem_index": "E1",
+    "problem_name": "Reading Books (easy version)",
+    "problem_url": "https://codeforces.com/contest/1374/problem/E1",
+    "submission_id": "CF85394384",
+    "submission_url": "https://codeforces.com/contest/1374/submission/85394384",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Jun/28/2020 23:12"
+  },
   "CF85400909": {
     "contest_id": 451,
     "language": "Python 3",

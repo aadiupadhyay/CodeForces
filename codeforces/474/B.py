@@ -2,16 +2,16 @@ from sys  import stdin,stdout
 import bisect 
 def st():
     return list(stdin.readline())
- 
+
 def inp():
     return int(stdin.readline())
- 
+
 def li():
     return list(map(int,stdin.readline().split()))
- 
+
 def mp():
     return map(int,stdin.readline().split())
- 
+
 n=inp()
 l=li()
 m=inp()
@@ -24,3 +24,4 @@ for i in l:
 for i in k:
     a=bisect.bisect_left(x,i)+1
     print(a)
+    

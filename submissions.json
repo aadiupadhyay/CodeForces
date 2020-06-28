@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85257650": {
+    "contest_id": 474,
+    "language": "Python 3",
+    "path": "codeforces\\474\\B.py",
+    "problem_index": "B",
+    "problem_name": "Worms",
+    "problem_url": "https://codeforces.com/contest/474/problem/B",
+    "submission_id": "CF85257650",
+    "submission_url": "https://codeforces.com/contest/474/submission/85257650",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jun/28/2020 10:22"
+  },
   "CF85258357": {
     "contest_id": 474,
     "language": "Python 3",

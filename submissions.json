@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85256675": {
+    "contest_id": 474,
+    "language": "Python 3",
+    "path": "codeforces\\474\\A.py",
+    "problem_index": "A",
+    "problem_name": "Keyboard",
+    "problem_url": "https://codeforces.com/contest/474/problem/A",
+    "submission_id": "CF85256675",
+    "submission_url": "https://codeforces.com/contest/474/submission/85256675",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jun/28/2020 09:57"
+  },
   "CF85257650": {
     "contest_id": 474,
     "language": "Python 3",

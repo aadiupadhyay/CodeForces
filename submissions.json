@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85481506": {
+    "contest_id": 456,
+    "language": "Python 3",
+    "path": "codeforces\\456\\A.py",
+    "problem_index": "A",
+    "problem_name": "Laptops",
+    "problem_url": "https://codeforces.com/contest/456/problem/A",
+    "submission_id": "CF85481506",
+    "submission_url": "https://codeforces.com/contest/456/submission/85481506",
+    "tags": [
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jun/29/2020 23:02"
+  },
   "CF85481689": {
     "contest_id": 1339,
     "language": "Python 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85564628": {
+    "contest_id": 499,
+    "language": "Python 3",
+    "path": "codeforces\\499\\B.py",
+    "problem_index": "B",
+    "problem_name": "Lecture",
+    "problem_url": "https://codeforces.com/contest/499/problem/B",
+    "submission_id": "CF85564628",
+    "submission_url": "https://codeforces.com/contest/499/submission/85564628",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Jun/30/2020 22:56"
+  },
   "CF85567359": {
     "contest_id": 499,
     "language": "Python 3",

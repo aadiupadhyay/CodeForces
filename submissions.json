@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85567867": {
+    "contest_id": 977,
+    "language": "Python 3",
+    "path": "codeforces\\977\\B.py",
+    "problem_index": "B",
+    "problem_name": "Two-gram",
+    "problem_url": "https://codeforces.com/contest/977/problem/B",
+    "submission_id": "CF85567867",
+    "submission_url": "https://codeforces.com/contest/977/submission/85567867",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jun/30/2020 23:39"
+  },
   "CF85570365": {
     "contest_id": 977,
     "language": "Python 3",

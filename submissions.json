@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85571548": {
+    "contest_id": 978,
+    "language": "Python 3",
+    "path": "codeforces\\978\\A.py",
+    "problem_index": "A",
+    "problem_name": "Remove Duplicates",
+    "problem_url": "https://codeforces.com/contest/978/problem/A",
+    "submission_id": "CF85571548",
+    "submission_url": "https://codeforces.com/contest/978/submission/85571548",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/01/2020 00:38"
+  },
   "CF85573649": {
     "contest_id": 978,
     "language": "Python 3",

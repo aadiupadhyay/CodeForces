@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85567359": {
+    "contest_id": 499,
+    "language": "Python 3",
+    "path": "codeforces\\499\\A.py",
+    "problem_index": "A",
+    "problem_name": "Watching a movie",
+    "problem_url": "https://codeforces.com/contest/499/problem/A",
+    "submission_id": "CF85567359",
+    "submission_url": "https://codeforces.com/contest/499/submission/85567359",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/30/2020 23:32"
+  },
   "CF85567867": {
     "contest_id": 977,
     "language": "Python 3",

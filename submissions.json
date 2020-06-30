@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85513627": {
+    "contest_id": 1345,
+    "language": "Python 3",
+    "path": "codeforces\\1345\\A.py",
+    "problem_index": "A",
+    "problem_name": "Puzzle Pieces",
+    "problem_url": "https://codeforces.com/contest/1345/problem/A",
+    "submission_id": "CF85513627",
+    "submission_url": "https://codeforces.com/contest/1345/submission/85513627",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/30/2020 12:13"
+  },
   "CF85524890": {
     "contest_id": 1374,
     "language": "Python 3",

@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85573649": {
+    "contest_id": 978,
+    "language": "Python 3",
+    "path": "codeforces\\978\\C.py",
+    "problem_index": "C",
+    "problem_name": "Letters",
+    "problem_url": "https://codeforces.com/contest/978/problem/C",
+    "submission_id": "CF85573649",
+    "submission_url": "https://codeforces.com/contest/978/submission/85573649",
+    "tags": [
+      "binary search",
+      "implementation",
+      "two pointers",
+      "*1000"
+    ],
+    "timestamp": "Jul/01/2020 01:15"
+  },
   "CF85636591": {
     "contest_id": 1371,
     "language": "Python 3",

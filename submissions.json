@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85536753": {
+    "contest_id": 731,
+    "language": "Python 3",
+    "path": "codeforces\\731\\A.py",
+    "problem_index": "A",
+    "problem_name": "Night at the Museum",
+    "problem_url": "https://codeforces.com/contest/731/problem/A",
+    "submission_id": "CF85536753",
+    "submission_url": "https://codeforces.com/contest/731/submission/85536753",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/30/2020 17:25"
+  },
   "CF85538346": {
     "contest_id": 550,
     "language": "Python 3",

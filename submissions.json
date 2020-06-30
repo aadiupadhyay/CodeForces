@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85570365": {
+    "contest_id": 977,
+    "language": "Python 3",
+    "path": "codeforces\\977\\C.py",
+    "problem_index": "C",
+    "problem_name": "Less or Equal",
+    "problem_url": "https://codeforces.com/contest/977/problem/C",
+    "submission_id": "CF85570365",
+    "submission_url": "https://codeforces.com/contest/977/submission/85570365",
+    "tags": [
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jul/01/2020 00:19"
+  },
   "CF85571548": {
     "contest_id": 978,
     "language": "Python 3",

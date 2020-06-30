@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85531316": {
+    "contest_id": 734,
+    "language": "Python 3",
+    "path": "codeforces\\734\\B.py",
+    "problem_index": "B",
+    "problem_name": "Anton and Digits",
+    "problem_url": "https://codeforces.com/contest/734/problem/B",
+    "submission_id": "CF85531316",
+    "submission_url": "https://codeforces.com/contest/734/submission/85531316",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/30/2020 16:18"
+  },
   "CF85533265": {
     "contest_id": 365,
     "language": "Python 3",

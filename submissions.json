@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85714959": {
+    "contest_id": 268,
+    "language": "Python 3",
+    "path": "codeforces\\268\\B.py",
+    "problem_index": "B",
+    "problem_name": "Buttons",
+    "problem_url": "https://codeforces.com/contest/268/problem/B",
+    "submission_id": "CF85714959",
+    "submission_url": "https://codeforces.com/contest/268/submission/85714959",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jul/02/2020 01:01"
+  },
   "CF85717071": {
     "contest_id": 467,
     "language": "Python 3",

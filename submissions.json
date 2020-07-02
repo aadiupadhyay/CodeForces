@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85757511": {
+    "contest_id": 1352,
+    "language": "Python 3",
+    "path": "codeforces\\1352\\D.py",
+    "problem_index": "D",
+    "problem_name": "Alice, Bob and Candies",
+    "problem_url": "https://codeforces.com/contest/1352/problem/D",
+    "submission_id": "CF85757511",
+    "submission_url": "https://codeforces.com/contest/1352/submission/85757511",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jul/02/2020 15:13"
+  },
   "CF85758917": {
     "contest_id": 131,
     "language": "Python 3",

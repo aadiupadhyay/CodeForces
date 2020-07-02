@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85745407": {
+    "contest_id": 80,
+    "language": "Python 3",
+    "path": "codeforces\\80\\A.py",
+    "problem_index": "A",
+    "problem_name": "Panoramix's Prediction",
+    "problem_url": "https://codeforces.com/contest/80/problem/A",
+    "submission_id": "CF85745407",
+    "submission_url": "https://codeforces.com/contest/80/submission/85745407",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Jul/02/2020 12:28"
+  },
   "CF85749000": {
     "contest_id": 988,
     "language": "Python 3",

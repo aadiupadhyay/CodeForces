@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85802690": {
+    "contest_id": 1291,
+    "language": "Python 3",
+    "path": "codeforces\\1291\\A.py",
+    "problem_index": "A",
+    "problem_name": "Even But Not Even",
+    "problem_url": "https://codeforces.com/contest/1291/problem/A",
+    "submission_id": "CF85802690",
+    "submission_url": "https://codeforces.com/contest/1291/submission/85802690",
+    "tags": [
+      "greedy",
+      "math",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jul/03/2020 00:33"
+  },
   "CF85807019": {
     "contest_id": 2,
     "language": "Python 3",

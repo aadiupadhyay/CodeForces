@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85937255": {
+    "contest_id": 1375,
+    "language": "Python 3",
+    "path": "codeforces\\1375\\A.py",
+    "problem_index": "A",
+    "problem_name": "Sign Flipping",
+    "problem_url": "https://codeforces.com/contest/1375/problem/A",
+    "submission_id": "CF85937255",
+    "submission_url": "https://codeforces.com/contest/1375/submission/85937255",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jul/04/2020 20:25"
+  },
   "CF85998883": {
     "contest_id": 1375,
     "language": "Python 3",

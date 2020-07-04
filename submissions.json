@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF85998883": {
+    "contest_id": 1375,
+    "language": "Python 3",
+    "path": "codeforces\\1375\\C.py",
+    "problem_index": "C",
+    "problem_name": "Element Extermination",
+    "problem_url": "https://codeforces.com/contest/1375/problem/C",
+    "submission_id": "CF85998883",
+    "submission_url": "https://codeforces.com/contest/1375/submission/85998883",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Jul/04/2020 23:19"
+  },
   "CF86047087": {
     "contest_id": 1375,
     "language": "Python 3",

@@ -1,4 +1,20 @@
 {
+  "AC14975537": {
+    "contest_id": "abc173",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc173\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Judge Status Summary",
+    "problem_url": "https://atcoder.jp/contests/abc173/tasks/abc173_b",
+    "submission_id": "AC14975537",
+    "submission_url": "https://atcoder.jp/contests/abc173/submissions/14975537",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/05/2020 17:36"
+  },
   "AC15357142": {
     "contest_id": "aising2020",
     "language": "Python (3.8.2)",

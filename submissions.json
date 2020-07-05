@@ -1,4 +1,20 @@
 {
+  "AC14965419": {
+    "contest_id": "abc173",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc173\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Payment",
+    "problem_url": "https://atcoder.jp/contests/abc173/tasks/abc173_a",
+    "submission_id": "AC14965419",
+    "submission_url": "https://atcoder.jp/contests/abc173/submissions/14965419",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/05/2020 17:32"
+  },
   "AC14975537": {
     "contest_id": "abc173",
     "language": "Python (3.8.2)",

@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86154848": {
+    "contest_id": 1003,
+    "language": "Python 3",
+    "path": "codeforces\\1003\\B.py",
+    "problem_index": "B",
+    "problem_name": "Binary String Constructing",
+    "problem_url": "https://codeforces.com/contest/1003/problem/B",
+    "submission_id": "CF86154848",
+    "submission_url": "https://codeforces.com/contest/1003/submission/86154848",
+    "tags": [
+      "constructive algorithms",
+      "*1300"
+    ],
+    "timestamp": "Jul/07/2020 01:32"
+  },
   "CF86155133": {
     "contest_id": 999,
     "language": "Python 3",

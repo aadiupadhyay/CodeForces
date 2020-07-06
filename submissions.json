@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86155133": {
+    "contest_id": 999,
+    "language": "Python 3",
+    "path": "codeforces\\999\\C.py",
+    "problem_index": "C",
+    "problem_name": "Alphabetic Removals",
+    "problem_url": "https://codeforces.com/contest/999/problem/C",
+    "submission_id": "CF86155133",
+    "submission_url": "https://codeforces.com/contest/999/submission/86155133",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/07/2020 01:39"
+  },
   "CF86221094": {
     "contest_id": 1003,
     "language": "Python 3",

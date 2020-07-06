@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86144442": {
+    "contest_id": 999,
+    "language": "Python 3",
+    "path": "codeforces\\999\\B.py",
+    "problem_index": "B",
+    "problem_name": "Reversing Encryption",
+    "problem_url": "https://codeforces.com/contest/999/problem/B",
+    "submission_id": "CF86144442",
+    "submission_url": "https://codeforces.com/contest/999/submission/86144442",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jul/06/2020 22:27"
+  },
   "CF86149134": {
     "contest_id": 1003,
     "language": "Python 3",

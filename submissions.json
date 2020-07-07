@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86221094": {
+    "contest_id": 1003,
+    "language": "Python 3",
+    "path": "codeforces\\1003\\C.py",
+    "problem_index": "C",
+    "problem_name": "Intense Heat",
+    "problem_url": "https://codeforces.com/contest/1003/problem/C",
+    "submission_id": "CF86221094",
+    "submission_url": "https://codeforces.com/contest/1003/submission/86221094",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jul/07/2020 22:55"
+  },
   "CF86223600": {
     "contest_id": 1005,
     "language": "Python 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86270649": {
+    "contest_id": 1029,
+    "language": "Python 3",
+    "path": "codeforces\\1029\\A.py",
+    "problem_index": "A",
+    "problem_name": "Many Equal Substrings",
+    "problem_url": "https://codeforces.com/contest/1029/problem/A",
+    "submission_id": "CF86270649",
+    "submission_url": "https://codeforces.com/contest/1029/submission/86270649",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Jul/08/2020 17:16"
+  },
   "CF86271294": {
     "contest_id": 914,
     "language": "Python 3",

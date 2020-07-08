@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86294747": {
+    "contest_id": 1077,
+    "language": "Python 3",
+    "path": "codeforces\\1077\\B.py",
+    "problem_index": "B",
+    "problem_name": "Disturbed People",
+    "problem_url": "https://codeforces.com/contest/1077/problem/B",
+    "submission_id": "CF86294747",
+    "submission_url": "https://codeforces.com/contest/1077/submission/86294747",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Jul/08/2020 22:43"
+  },
   "CF86299892": {
     "contest_id": 1077,
     "language": "Python 3",

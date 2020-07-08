@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86271294": {
+    "contest_id": 914,
+    "language": "Python 3",
+    "path": "codeforces\\914\\A.py",
+    "problem_index": "A",
+    "problem_name": "Perfect Squares",
+    "problem_url": "https://codeforces.com/contest/914/problem/A",
+    "submission_id": "CF86271294",
+    "submission_url": "https://codeforces.com/contest/914/submission/86271294",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/08/2020 17:24"
+  },
   "CF86294747": {
     "contest_id": 1077,
     "language": "Python 3",

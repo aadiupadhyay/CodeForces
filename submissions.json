@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86264446": {
+    "contest_id": 1015,
+    "language": "Python 3",
+    "path": "codeforces\\1015\\B.py",
+    "problem_index": "B",
+    "problem_name": "Obtaining the String",
+    "problem_url": "https://codeforces.com/contest/1015/problem/B",
+    "submission_id": "CF86264446",
+    "submission_url": "https://codeforces.com/contest/1015/submission/86264446",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/08/2020 15:43"
+  },
   "CF86265370": {
     "contest_id": 1015,
     "language": "Python 3",

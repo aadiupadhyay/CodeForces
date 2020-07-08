@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86265370": {
+    "contest_id": 1015,
+    "language": "Python 3",
+    "path": "codeforces\\1015\\C.py",
+    "problem_index": "C",
+    "problem_name": "Songs Compression",
+    "problem_url": "https://codeforces.com/contest/1015/problem/C",
+    "submission_id": "CF86265370",
+    "submission_url": "https://codeforces.com/contest/1015/submission/86265370",
+    "tags": [
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jul/08/2020 15:57"
+  },
   "CF86270649": {
     "contest_id": 1029,
     "language": "Python 3",

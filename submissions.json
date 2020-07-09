@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86382110": {
+    "contest_id": 1295,
+    "language": "Python 3",
+    "path": "codeforces\\1295\\A.py",
+    "problem_index": "A",
+    "problem_name": "Display The Number",
+    "problem_url": "https://codeforces.com/contest/1295/problem/A",
+    "submission_id": "CF86382110",
+    "submission_url": "https://codeforces.com/contest/1295/submission/86382110",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Jul/10/2020 02:16"
+  },
   "CF86382809": {
     "contest_id": 299,
     "language": "Python 3",

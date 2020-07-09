@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86369196": {
+    "contest_id": 149,
+    "language": "Python 3",
+    "path": "codeforces\\149\\A.py",
+    "problem_index": "A",
+    "problem_name": "Business trip",
+    "problem_url": "https://codeforces.com/contest/149/problem/A",
+    "submission_id": "CF86369196",
+    "submission_url": "https://codeforces.com/contest/149/submission/86369196",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jul/09/2020 22:19"
+  },
   "CF86369298": {
     "contest_id": 822,
     "language": "Python 3",

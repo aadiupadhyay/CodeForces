@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86375072": {
+    "contest_id": 1324,
+    "language": "Python 3",
+    "path": "codeforces\\1324\\B.py",
+    "problem_index": "B",
+    "problem_name": "Yet Another Palindrome Problem",
+    "problem_url": "https://codeforces.com/contest/1324/problem/B",
+    "submission_id": "CF86375072",
+    "submission_url": "https://codeforces.com/contest/1324/submission/86375072",
+    "tags": [
+      "brute force",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Jul/09/2020 23:45"
+  },
   "CF86377685": {
     "contest_id": 1326,
     "language": "Python 3",

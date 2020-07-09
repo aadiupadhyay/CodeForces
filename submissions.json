@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86332944": {
+    "contest_id": 214,
+    "language": "Python 3",
+    "path": "codeforces\\214\\A.py",
+    "problem_index": "A",
+    "problem_name": "System of Equations",
+    "problem_url": "https://codeforces.com/contest/214/problem/A",
+    "submission_id": "CF86332944",
+    "submission_url": "https://codeforces.com/contest/214/submission/86332944",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Jul/09/2020 14:05"
+  },
   "CF86335943": {
     "contest_id": 1141,
     "language": "Python 3",

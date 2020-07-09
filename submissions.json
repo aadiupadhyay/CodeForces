@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86335943": {
+    "contest_id": 1141,
+    "language": "Python 3",
+    "path": "codeforces\\1141\\A.py",
+    "problem_index": "A",
+    "problem_name": "Game 23",
+    "problem_url": "https://codeforces.com/contest/1141/problem/A",
+    "submission_id": "CF86335943",
+    "submission_url": "https://codeforces.com/contest/1141/submission/86335943",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jul/09/2020 14:51"
+  },
   "CF86368285": {
     "contest_id": 208,
     "language": "Python 3",

@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86420392": {
+    "contest_id": 1321,
+    "language": "Python 3",
+    "path": "codeforces\\1321\\A.py",
+    "problem_index": "A",
+    "problem_name": "Contest for Robots",
+    "problem_url": "https://codeforces.com/contest/1321/problem/A",
+    "submission_id": "CF86420392",
+    "submission_url": "https://codeforces.com/contest/1321/submission/86420392",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Jul/10/2020 16:33"
+  },
   "CF86453206": {
     "contest_id": 1312,
     "language": "Python 3",

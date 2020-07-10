@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86454577": {
+    "contest_id": 1300,
+    "language": "Python 3",
+    "path": "codeforces\\1300\\A.py",
+    "problem_index": "A",
+    "problem_name": "Non-zero",
+    "problem_url": "https://codeforces.com/contest/1300/problem/A",
+    "submission_id": "CF86454577",
+    "submission_url": "https://codeforces.com/contest/1300/submission/86454577",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/11/2020 00:25"
+  },
   "CF86526689": {
     "contest_id": 1372,
     "language": "Python 3",

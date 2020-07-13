@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86768813": {
+    "contest_id": 1380,
+    "language": "Python 3",
+    "path": "codeforces\\1380\\A.py",
+    "problem_index": "A",
+    "problem_name": "Three Indices",
+    "problem_url": "https://codeforces.com/contest/1380/problem/A",
+    "submission_id": "CF86768813",
+    "submission_url": "https://codeforces.com/contest/1380/submission/86768813",
+    "tags": [
+      "brute force",
+      "data structures",
+      "*900"
+    ],
+    "timestamp": "Jul/13/2020 22:40"
+  },
   "CF86770373": {
     "contest_id": 1279,
     "language": "Python 3",

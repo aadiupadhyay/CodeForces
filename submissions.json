@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86772276": {
+    "contest_id": 1277,
+    "language": "Python 3",
+    "path": "codeforces\\1277\\A.py",
+    "problem_index": "A",
+    "problem_name": "Happy Birthday, Polycarp!",
+    "problem_url": "https://codeforces.com/contest/1277/problem/A",
+    "submission_id": "CF86772276",
+    "submission_url": "https://codeforces.com/contest/1277/submission/86772276",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jul/13/2020 23:31"
+  },
   "CF86773609": {
     "contest_id": 1272,
     "language": "Python 3",

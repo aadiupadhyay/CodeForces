@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86777152": {
+    "contest_id": 1140,
+    "language": "Python 3",
+    "path": "codeforces\\1140\\A.py",
+    "problem_index": "A",
+    "problem_name": "Detective Book",
+    "problem_url": "https://codeforces.com/contest/1140/problem/A",
+    "submission_id": "CF86777152",
+    "submission_url": "https://codeforces.com/contest/1140/submission/86777152",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jul/14/2020 00:34"
+  },
   "CF86801749": {
     "contest_id": 1351,
     "language": "Python 3",

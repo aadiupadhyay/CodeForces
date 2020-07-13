@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86771809": {
+    "contest_id": 1278,
+    "language": "Python 3",
+    "path": "codeforces\\1278\\A.py",
+    "problem_index": "A",
+    "problem_name": "Shuffle Hashing",
+    "problem_url": "https://codeforces.com/contest/1278/problem/A",
+    "submission_id": "CF86771809",
+    "submission_url": "https://codeforces.com/contest/1278/submission/86771809",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Jul/13/2020 23:24"
+  },
   "CF86772276": {
     "contest_id": 1277,
     "language": "Python 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86819892": {
+    "contest_id": 1287,
+    "language": "Python 3",
+    "path": "codeforces\\1287\\A.py",
+    "problem_index": "A",
+    "problem_name": "Angry Students",
+    "problem_url": "https://codeforces.com/contest/1287/problem/A",
+    "submission_id": "CF86819892",
+    "submission_url": "https://codeforces.com/contest/1287/submission/86819892",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/14/2020 15:49"
+  },
   "CF86833855": {
     "contest_id": 1285,
     "language": "Python 3",

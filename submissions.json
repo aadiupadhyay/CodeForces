@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86804677": {
+    "contest_id": 1315,
+    "language": "Python 3",
+    "path": "codeforces\\1315\\A.py",
+    "problem_index": "A",
+    "problem_name": "Dead Pixel",
+    "problem_url": "https://codeforces.com/contest/1315/problem/A",
+    "submission_id": "CF86804677",
+    "submission_url": "https://codeforces.com/contest/1315/submission/86804677",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/14/2020 12:25"
+  },
   "CF86805741": {
     "contest_id": 1312,
     "language": "Python 3",

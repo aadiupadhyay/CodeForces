@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86818865": {
+    "contest_id": 1307,
+    "language": "Python 3",
+    "path": "codeforces\\1307\\A.py",
+    "problem_index": "A",
+    "problem_name": "Cow and Haybales",
+    "problem_url": "https://codeforces.com/contest/1307/problem/A",
+    "submission_id": "CF86818865",
+    "submission_url": "https://codeforces.com/contest/1307/submission/86818865",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/14/2020 15:35"
+  },
   "CF86819892": {
     "contest_id": 1287,
     "language": "Python 3",

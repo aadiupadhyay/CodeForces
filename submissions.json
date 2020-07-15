@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86896387": {
+    "contest_id": 1194,
+    "language": "Python 3",
+    "path": "codeforces\\1194\\A.py",
+    "problem_index": "A",
+    "problem_name": "Remove a Progression",
+    "problem_url": "https://codeforces.com/contest/1194/problem/A",
+    "submission_id": "CF86896387",
+    "submission_url": "https://codeforces.com/contest/1194/submission/86896387",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/15/2020 14:11"
+  },
   "CF86897016": {
     "contest_id": 1206,
     "language": "Python 3",

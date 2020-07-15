@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF86887905": {
+    "contest_id": 1216,
+    "language": "Python 3",
+    "path": "codeforces\\1216\\A.py",
+    "problem_index": "A",
+    "problem_name": "Prefixes",
+    "problem_url": "https://codeforces.com/contest/1216/problem/A",
+    "submission_id": "CF86887905",
+    "submission_url": "https://codeforces.com/contest/1216/submission/86887905",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jul/15/2020 12:16"
+  },
   "CF86896327": {
     "contest_id": 219,
     "language": "Python 3",

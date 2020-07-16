@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87025815": {
+    "contest_id": 1225,
+    "language": "Python 3",
+    "path": "codeforces\\1225\\A.py",
+    "problem_index": "A",
+    "problem_name": "Forgetting Things",
+    "problem_url": "https://codeforces.com/contest/1225/problem/A",
+    "submission_id": "CF87025815",
+    "submission_url": "https://codeforces.com/contest/1225/submission/87025815",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/17/2020 02:46"
+  },
   "CF87026342": {
     "contest_id": 913,
     "language": "Python 3",

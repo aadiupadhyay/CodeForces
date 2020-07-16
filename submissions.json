@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87024214": {
+    "contest_id": 1238,
+    "language": "Python 3",
+    "path": "codeforces\\1238\\A.py",
+    "problem_index": "A",
+    "problem_name": "Prime Subtraction",
+    "problem_url": "https://codeforces.com/contest/1238/problem/A",
+    "submission_id": "CF87024214",
+    "submission_url": "https://codeforces.com/contest/1238/submission/87024214",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Jul/17/2020 02:09"
+  },
   "CF87025815": {
     "contest_id": 1225,
     "language": "Python 3",

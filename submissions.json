@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87023955": {
+    "contest_id": 320,
+    "language": "PyPy 3",
+    "path": "codeforces\\320\\A.py",
+    "problem_index": "A",
+    "problem_name": "Magic Numbers",
+    "problem_url": "https://codeforces.com/contest/320/problem/A",
+    "submission_id": "CF87023955",
+    "submission_url": "https://codeforces.com/contest/320/submission/87023955",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Jul/17/2020 02:03"
+  },
   "CF87023973": {
     "contest_id": 320,
     "language": "Python 3",

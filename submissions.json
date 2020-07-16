@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87026342": {
+    "contest_id": 913,
+    "language": "Python 3",
+    "path": "codeforces\\913\\A.py",
+    "problem_index": "A",
+    "problem_name": "Modular Exponentiation",
+    "problem_url": "https://codeforces.com/contest/913/problem/A",
+    "submission_id": "CF87026342",
+    "submission_url": "https://codeforces.com/contest/913/submission/87026342",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/17/2020 03:01"
+  },
   "CF87055784": {
     "contest_id": 981,
     "language": "Python 3",

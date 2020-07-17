@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87055784": {
+    "contest_id": 981,
+    "language": "Python 3",
+    "path": "codeforces\\981\\A.py",
+    "problem_index": "A",
+    "problem_name": "Antipalindrome",
+    "problem_url": "https://codeforces.com/contest/981/problem/A",
+    "submission_id": "CF87055784",
+    "submission_url": "https://codeforces.com/contest/981/submission/87055784",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jul/17/2020 14:33"
+  },
   "CF87103851": {
     "contest_id": 1385,
     "language": "Python 3",

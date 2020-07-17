@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87164117": {
+    "contest_id": 1385,
+    "language": "Python 3",
+    "path": "codeforces\\1385\\C.py",
+    "problem_index": "C",
+    "problem_name": "Make It Good",
+    "problem_url": "https://codeforces.com/contest/1385/problem/C",
+    "submission_id": "CF87164117",
+    "submission_url": "https://codeforces.com/contest/1385/submission/87164117",
+    "tags": [
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Jul/17/2020 22:40"
+  },
   "CF87256957": {
     "contest_id": 1169,
     "language": "Python 3",

@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87103851": {
+    "contest_id": 1385,
+    "language": "Python 3",
+    "path": "codeforces\\1385\\A.py",
+    "problem_index": "A",
+    "problem_name": "Three Pairwise Maximums",
+    "problem_url": "https://codeforces.com/contest/1385/problem/A",
+    "submission_id": "CF87103851",
+    "submission_url": "https://codeforces.com/contest/1385/submission/87103851",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/17/2020 20:31"
+  },
   "CF87106390": {
     "contest_id": 1385,
     "language": "Python 3",

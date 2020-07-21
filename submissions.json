@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87498658": {
+    "contest_id": 1141,
+    "language": "Python 3",
+    "path": "codeforces\\1141\\B.py",
+    "problem_index": "B",
+    "problem_name": "Maximal Continuous Rest",
+    "problem_url": "https://codeforces.com/contest/1141/problem/B",
+    "submission_id": "CF87498658",
+    "submission_url": "https://codeforces.com/contest/1141/submission/87498658",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jul/21/2020 15:01"
+  },
   "CF87499450": {
     "contest_id": 621,
     "language": "Python 3",

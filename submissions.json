@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87500747": {
+    "contest_id": 598,
+    "language": "Python 3",
+    "path": "codeforces\\598\\A.py",
+    "problem_index": "A",
+    "problem_name": "Tricky Sum",
+    "problem_url": "https://codeforces.com/contest/598/problem/A",
+    "submission_id": "CF87500747",
+    "submission_url": "https://codeforces.com/contest/598/submission/87500747",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/21/2020 15:25"
+  },
   "CF87529349": {
     "contest_id": 1382,
     "language": "Python 3",

@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87599528": {
+    "contest_id": 1144,
+    "language": "Python 3",
+    "path": "codeforces\\1144\\B.py",
+    "problem_index": "B",
+    "problem_name": "Parity Alternated Deletions",
+    "problem_url": "https://codeforces.com/contest/1144/problem/B",
+    "submission_id": "CF87599528",
+    "submission_url": "https://codeforces.com/contest/1144/submission/87599528",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jul/21/2020 23:13"
+  },
   "CF87708221": {
     "contest_id": 1381,
     "language": "Python 3",

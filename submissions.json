@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87495355": {
+    "contest_id": 1163,
+    "language": "Python 3",
+    "path": "codeforces\\1163\\A.py",
+    "problem_index": "A",
+    "problem_name": "Eating Soup",
+    "problem_url": "https://codeforces.com/contest/1163/problem/A",
+    "submission_id": "CF87495355",
+    "submission_url": "https://codeforces.com/contest/1163/submission/87495355",
+    "tags": [
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/21/2020 14:22"
+  },
   "CF87497092": {
     "contest_id": 519,
     "language": "Python 3",

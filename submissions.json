@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87499450": {
+    "contest_id": 621,
+    "language": "Python 3",
+    "path": "codeforces\\621\\A.py",
+    "problem_index": "A",
+    "problem_name": "Wet Shark and Odd and Even",
+    "problem_url": "https://codeforces.com/contest/621/problem/A",
+    "submission_id": "CF87499450",
+    "submission_url": "https://codeforces.com/contest/621/submission/87499450",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jul/21/2020 15:10"
+  },
   "CF87500747": {
     "contest_id": 598,
     "language": "Python 3",

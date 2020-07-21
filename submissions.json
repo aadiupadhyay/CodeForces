@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87497838": {
+    "contest_id": 276,
+    "language": "Python 3",
+    "path": "codeforces\\276\\A.py",
+    "problem_index": "A",
+    "problem_name": "Lunch Rush",
+    "problem_url": "https://codeforces.com/contest/276/problem/A",
+    "submission_id": "CF87497838",
+    "submission_url": "https://codeforces.com/contest/276/submission/87497838",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jul/21/2020 14:51"
+  },
   "CF87498658": {
     "contest_id": 1141,
     "language": "Python 3",

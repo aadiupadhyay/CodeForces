@@ -1,4 +1,20 @@
 {
+  "AC15358177": {
+    "contest_id": "abc149",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc149\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Greedy Takahashi",
+    "problem_url": "https://atcoder.jp/contests/abc149/tasks/abc149_b",
+    "submission_id": "AC15358177",
+    "submission_url": "https://atcoder.jp/contests/abc149/submissions/15358177",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/22/2020 12:44"
+  },
   "AC15358495": {
     "contest_id": "abc159",
     "language": "Python (3.8.2)",

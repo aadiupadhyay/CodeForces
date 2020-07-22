@@ -1,24 +1,24 @@
 from sys  import stdin,stdout
- 
+
 import bisect
- 
+
 import math
- 
+
 def st():
     return list(stdin.readline().strip())
- 
+
 def inp():
     return int(stdin.readline())
- 
+
 def li():
     return list(map(int,stdin.readline().split()))
- 
+
 def mp():
     return map(int,stdin.readline().split())
- 
+
 def pr(n):
     stdout.write(str(n)+"\n")
- 
+
 def soe(limit):
     l=[1]*(limit+1)
     prime=[]
@@ -26,12 +26,12 @@ def soe(limit):
         if l[i]:
             for j in range(i*i,limit+1,i):
                 l[j]=0
- 
+
     for i in range(2,limit+1):
         if l[i]:
             prime.append(i)
     return prime
- 
+
 def segsoe(low,high):
     limit=int(high**0.5)+1
     prime=soe(limit)
@@ -49,7 +49,7 @@ def segsoe(low,high):
         if not l[i-low]:
             if i!=1:
                 print(i)
- 
+
 def power(a,n):
     r=1
     while n:
@@ -58,28 +58,40 @@ def power(a,n):
         a*=a
         n=n>>1
     return r
- 
- 
+
+
 def solve():
     n=inp()
     a=input()
     b=input()
-    a+='0'
-    b+='0'
+    j=n-1
     x=[]
-    for i in range(n):
-        if a[i]!=a[i+1]:
-            x.append(i+1)
-
-    for i in range(n-1,-1,-1):
-        if b[i]!=b[i+1]:
-            x.append(i+1)
-
-    print(len(x),*x)
-   
-                
-                
+    if a==b:
+        print(0)
+        return
+    while j>=0:
+        if a[j]==b[j]:
+            j-=1
             
+        elif a[0]!=b[j]:
+            x.append(j+1)
+            p=''
+            for i  in range(j+1):
+                if a[i]=='1':
+                    p+='0'
+                else:
+                    p+='1'
+            a=p[::-1]+a[j:]
+            j-=1
+        else:
+            x.append(1)
+            if a[0]=='1':
+                a='0'+a[1:]
+            else:
+                a='1'+a[1:]
+ 
+    print(len(x),*x)
  
 for _ in range(inp()):
     solve()
+    

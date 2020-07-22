@@ -1,4 +1,20 @@
 {
+  "AC15357974": {
+    "contest_id": "abc149",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc149\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Strings",
+    "problem_url": "https://atcoder.jp/contests/abc149/tasks/abc149_a",
+    "submission_id": "AC15357974",
+    "submission_url": "https://atcoder.jp/contests/abc149/submissions/15357974",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/22/2020 12:29"
+  },
   "AC15358097": {
     "contest_id": "abc149",
     "language": "Python (3.8.2)",

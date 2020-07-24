@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87838877": {
+    "contest_id": 1080,
+    "language": "Python 3",
+    "path": "codeforces\\1080\\B.py",
+    "problem_index": "B",
+    "problem_name": "Margarite and the best present",
+    "problem_url": "https://codeforces.com/contest/1080/problem/B",
+    "submission_id": "CF87838877",
+    "submission_url": "https://codeforces.com/contest/1080/submission/87838877",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/24/2020 13:15"
+  },
   "CF87846871": {
     "contest_id": 148,
     "language": "Python 3",

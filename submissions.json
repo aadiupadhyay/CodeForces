@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87832437": {
+    "contest_id": 1373,
+    "language": "Python 3",
+    "path": "codeforces\\1373\\C.py",
+    "problem_index": "C",
+    "problem_name": "Pluses and Minuses",
+    "problem_url": "https://codeforces.com/contest/1373/problem/C",
+    "submission_id": "CF87832437",
+    "submission_url": "https://codeforces.com/contest/1373/submission/87832437",
+    "tags": [
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jul/24/2020 11:53"
+  },
   "CF87833580": {
     "contest_id": 1107,
     "language": "Python 3",

@@ -1,43 +1,29 @@
-from sys  import stdin,stdout
-
-st=lambda:list(stdin.readline().strip())
-li=lambda:list(map(int,stdin.readline().split()))
-mp=lambda:map(int,stdin.readline().split())
-inp=lambda:int(stdin.readline())
-pr=lambda n: stdout.write(str(n)+"\n")
-
-mod=1000000007
-INF=float('inf')
-
-def solve():
-    n,k=mp()
-    l=li()
-    o,e=0,0
-    for i in l:
-        o+=i%2
-        e+=i%2==0
-    if o==0:
-        pr('No')
-        return
-    
-    if k%2==0:
-        
-        for i in range(1,e+1,2):
-            if k-i <=o:
-                pr('Yes')
-                return
-        pr('No')
+t=int(input())
+for i in range(t):
+    n,x=input().split()
+    n=int(n)
+    x=int(x)
+    b=list(map(int,input().split()))
+    p=0
+    q=0
+    for j in range(n):
+        if b[j]%2==0:
+            p+=1
+        else:
+            q+=1
+    if q==0:
+        print("No")
+    elif p==0:
+        if x%2==0:
+            print("No")
+        else:
+            print("Yes")
+    elif x<q:
+        print("Yes")
     else:
-        for i in range(0,e+1,2):
-            if k-i <=o:
-                pr('Yes')
-                return
-        pr('No')
-    
-            
-
-
-
-for _ in range(inp()):
-
-    solve()
+        if q%2==0:
+            q=q-1
+        if x<=(q+p):
+            print("Yes")
+        else:
+            print("No")

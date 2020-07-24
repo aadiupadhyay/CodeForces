@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87858824": {
+    "contest_id": 1270,
+    "language": "Python 3",
+    "path": "codeforces\\1270\\A.py",
+    "problem_index": "A",
+    "problem_name": "Card Game",
+    "problem_url": "https://codeforces.com/contest/1270/problem/A",
+    "submission_id": "CF87858824",
+    "submission_url": "https://codeforces.com/contest/1270/submission/87858824",
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/24/2020 17:38"
+  },
   "CF87862673": {
     "contest_id": 1270,
     "language": "Python 3",

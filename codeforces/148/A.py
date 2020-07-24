@@ -1,0 +1,23 @@
+k=int(input())
+l=int(input())
+m=int(input())
+n=int(input())
+d=int(input())
+x=[0]*(d+1)
+i=k
+while i<=d:
+    x[i]=1
+    i+=k
+i=l
+while i<=d:
+    x[i]=1
+    i+=l
+i=m
+while i<=d:
+    x[i]=1
+    i+=m
+i=n
+while i<=d:
+    x[i]=1
+    i+=n
+print(x.count(1))

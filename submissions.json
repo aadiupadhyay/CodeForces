@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF87836343": {
+    "contest_id": 805,
+    "language": "Python 3",
+    "path": "codeforces\\805\\B.py",
+    "problem_index": "B",
+    "problem_name": "3-palindrome",
+    "problem_url": "https://codeforces.com/contest/805/problem/B",
+    "submission_id": "CF87836343",
+    "submission_url": "https://codeforces.com/contest/805/submission/87836343",
+    "tags": [
+      "constructive algorithms",
+      "*1000"
+    ],
+    "timestamp": "Jul/24/2020 12:44"
+  },
   "CF87838877": {
     "contest_id": 1080,
     "language": "Python 3",

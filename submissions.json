@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88052100": {
+    "contest_id": 595,
+    "language": "Python 3",
+    "path": "codeforces\\595\\A.py",
+    "problem_index": "A",
+    "problem_name": "Vitaly and Night",
+    "problem_url": "https://codeforces.com/contest/595/problem/A",
+    "submission_id": "CF88052100",
+    "submission_url": "https://codeforces.com/contest/595/submission/88052100",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/26/2020 17:17"
+  },
   "CF88052683": {
     "contest_id": 629,
     "language": "Python 3",

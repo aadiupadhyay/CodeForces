@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88052683": {
+    "contest_id": 629,
+    "language": "Python 3",
+    "path": "codeforces\\629\\A.py",
+    "problem_index": "A",
+    "problem_name": "Far Relative\u2019s Birthday Cake",
+    "problem_url": "https://codeforces.com/contest/629/problem/A",
+    "submission_id": "CF88052683",
+    "submission_url": "https://codeforces.com/contest/629/submission/88052683",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/26/2020 17:27"
+  },
   "CF88054056": {
     "contest_id": 676,
     "language": "Python 3",

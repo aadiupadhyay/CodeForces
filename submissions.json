@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88071002": {
+    "contest_id": 1088,
+    "language": "PyPy 3",
+    "path": "codeforces\\1088\\A.py",
+    "problem_index": "A",
+    "problem_name": "Ehab and another construction problem",
+    "problem_url": "https://codeforces.com/contest/1088/problem/A",
+    "submission_id": "CF88071002",
+    "submission_url": "https://codeforces.com/contest/1088/submission/88071002",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Jul/26/2020 21:35"
+  },
   "CF88071720": {
     "contest_id": 899,
     "language": "PyPy 3",

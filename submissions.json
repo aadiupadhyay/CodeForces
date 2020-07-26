@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88045759": {
+    "contest_id": 11,
+    "language": "Python 3",
+    "path": "codeforces\\11\\A.py",
+    "problem_index": "A",
+    "problem_name": "Increasing Sequence",
+    "problem_url": "https://codeforces.com/contest/11/problem/A",
+    "submission_id": "CF88045759",
+    "submission_url": "https://codeforces.com/contest/11/submission/88045759",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/26/2020 15:33"
+  },
   "CF88046960": {
     "contest_id": 199,
     "language": "Python 3",

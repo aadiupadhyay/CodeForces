@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88046960": {
+    "contest_id": 199,
+    "language": "Python 3",
+    "path": "codeforces\\199\\A.py",
+    "problem_index": "A",
+    "problem_name": "Hexadecimal's theorem",
+    "problem_url": "https://codeforces.com/contest/199/problem/A",
+    "submission_id": "CF88046960",
+    "submission_url": "https://codeforces.com/contest/199/submission/88046960",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Jul/26/2020 15:53"
+  },
   "CF88047933": {
     "contest_id": 246,
     "language": "Python 3",

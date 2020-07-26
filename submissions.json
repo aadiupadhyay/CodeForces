@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88048124": {
+    "contest_id": 361,
+    "language": "Python 3",
+    "path": "codeforces\\361\\A.py",
+    "problem_index": "A",
+    "problem_name": "Levko and Table",
+    "problem_url": "https://codeforces.com/contest/361/problem/A",
+    "submission_id": "CF88048124",
+    "submission_url": "https://codeforces.com/contest/361/submission/88048124",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/26/2020 16:12"
+  },
   "CF88050715": {
     "contest_id": 421,
     "language": "Python 3",

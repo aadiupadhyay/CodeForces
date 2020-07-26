@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88054056": {
+    "contest_id": 676,
+    "language": "Python 3",
+    "path": "codeforces\\676\\A.py",
+    "problem_index": "A",
+    "problem_name": "Nicholas and Permutation",
+    "problem_url": "https://codeforces.com/contest/676/problem/A",
+    "submission_id": "CF88054056",
+    "submission_url": "https://codeforces.com/contest/676/submission/88054056",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/26/2020 17:48"
+  },
   "CF88054379": {
     "contest_id": 680,
     "language": "Python 3",

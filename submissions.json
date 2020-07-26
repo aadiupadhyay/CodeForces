@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88054379": {
+    "contest_id": 680,
+    "language": "Python 3",
+    "path": "codeforces\\680\\A.py",
+    "problem_index": "A",
+    "problem_name": "Bear and Five Cards",
+    "problem_url": "https://codeforces.com/contest/680/problem/A",
+    "submission_id": "CF88054379",
+    "submission_url": "https://codeforces.com/contest/680/submission/88054379",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/26/2020 17:53"
+  },
   "CF88057145": {
     "contest_id": 686,
     "language": "Python 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88050715": {
+    "contest_id": 421,
+    "language": "Python 3",
+    "path": "codeforces\\421\\A.py",
+    "problem_index": "A",
+    "problem_name": "Pasha and Hamsters",
+    "problem_url": "https://codeforces.com/contest/421/problem/A",
+    "submission_id": "CF88050715",
+    "submission_url": "https://codeforces.com/contest/421/submission/88050715",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/26/2020 16:55"
+  },
   "CF88051768": {
     "contest_id": 513,
     "language": "Python 3",

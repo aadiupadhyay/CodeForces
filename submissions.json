@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88047933": {
+    "contest_id": 246,
+    "language": "Python 3",
+    "path": "codeforces\\246\\A.py",
+    "problem_index": "A",
+    "problem_name": "Buggy Sorting",
+    "problem_url": "https://codeforces.com/contest/246/problem/A",
+    "submission_id": "CF88047933",
+    "submission_url": "https://codeforces.com/contest/246/submission/88047933",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jul/26/2020 16:09"
+  },
   "CF88048124": {
     "contest_id": 361,
     "language": "Python 3",

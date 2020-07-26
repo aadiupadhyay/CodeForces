@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88061821": {
+    "contest_id": 814,
+    "language": "Python 3",
+    "path": "codeforces\\814\\A.py",
+    "problem_index": "A",
+    "problem_name": "An abandoned sentiment from past",
+    "problem_url": "https://codeforces.com/contest/814/problem/A",
+    "submission_id": "CF88061821",
+    "submission_url": "https://codeforces.com/contest/814/submission/88061821",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jul/26/2020 19:36"
+  },
   "CF88064663": {
     "contest_id": 854,
     "language": "Python 3",

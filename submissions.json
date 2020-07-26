@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88060444": {
+    "contest_id": 801,
+    "language": "Python 3",
+    "path": "codeforces\\801\\B.py",
+    "problem_index": "B",
+    "problem_name": "Valued Keys",
+    "problem_url": "https://codeforces.com/contest/801/problem/B",
+    "submission_id": "CF88060444",
+    "submission_url": "https://codeforces.com/contest/801/submission/88060444",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jul/26/2020 19:19"
+  },
   "CF88061821": {
     "contest_id": 814,
     "language": "Python 3",

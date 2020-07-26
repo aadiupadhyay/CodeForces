@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88064663": {
+    "contest_id": 854,
+    "language": "Python 3",
+    "path": "codeforces\\854\\A.py",
+    "problem_index": "A",
+    "problem_name": "Fraction",
+    "problem_url": "https://codeforces.com/contest/854/problem/A",
+    "submission_id": "CF88064663",
+    "submission_url": "https://codeforces.com/contest/854/submission/88064663",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/26/2020 20:11"
+  },
   "CF88066464": {
     "contest_id": 1305,
     "language": "Python 3",

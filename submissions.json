@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88075147": {
+    "contest_id": 151,
+    "language": "PyPy 3",
+    "path": "codeforces\\151\\A.py",
+    "problem_index": "A",
+    "problem_name": "Soft Drinking",
+    "problem_url": "https://codeforces.com/contest/151/problem/A",
+    "submission_id": "CF88075147",
+    "submission_url": "https://codeforces.com/contest/151/submission/88075147",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/26/2020 22:41"
+  },
   "CF88075780": {
     "contest_id": 38,
     "language": "PyPy 3",

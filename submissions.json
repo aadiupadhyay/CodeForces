@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88059077": {
+    "contest_id": 764,
+    "language": "Python 3",
+    "path": "codeforces\\764\\B.py",
+    "problem_index": "B",
+    "problem_name": "Timofey and cubes",
+    "problem_url": "https://codeforces.com/contest/764/problem/B",
+    "submission_id": "CF88059077",
+    "submission_url": "https://codeforces.com/contest/764/submission/88059077",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jul/26/2020 19:01"
+  },
   "CF88059828": {
     "contest_id": 768,
     "language": "Python 3",

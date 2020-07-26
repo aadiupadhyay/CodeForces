@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88059828": {
+    "contest_id": 768,
+    "language": "Python 3",
+    "path": "codeforces\\768\\A.py",
+    "problem_index": "A",
+    "problem_name": "Oath of the Night's Watch",
+    "problem_url": "https://codeforces.com/contest/768/problem/A",
+    "submission_id": "CF88059828",
+    "submission_url": "https://codeforces.com/contest/768/submission/88059828",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jul/26/2020 19:11"
+  },
   "CF88060444": {
     "contest_id": 801,
     "language": "Python 3",

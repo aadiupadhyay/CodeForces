@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88112382": {
+    "contest_id": 1382,
+    "language": "PyPy 3",
+    "path": "codeforces\\1382\\C2.py",
+    "problem_index": "C2",
+    "problem_name": "Prefix Flip (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1382/problem/C2",
+    "submission_id": "CF88112382",
+    "submission_url": "https://codeforces.com/contest/1382/submission/88112382",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "implementation",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Jul/27/2020 14:38"
+  },
   "CF88112443": {
     "contest_id": 1382,
     "language": "PyPy 3",

@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88203813": {
+    "contest_id": 1256,
+    "language": "PyPy 3",
+    "path": "codeforces\\1256\\D.py",
+    "problem_index": "D",
+    "problem_name": "Binary String Minimizing",
+    "problem_url": "https://codeforces.com/contest/1256/problem/D",
+    "submission_id": "CF88203813",
+    "submission_url": "https://codeforces.com/contest/1256/submission/88203813",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Jul/28/2020 18:07"
+  },
   "CF88207755": {
     "contest_id": 192,
     "language": "PyPy 3",

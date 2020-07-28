@@ -1,4 +1,20 @@
 {
+  "AC15512032": {
+    "contest_id": "abc043",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc043\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Unhappy Hacking (ABC Edit)",
+    "problem_url": "https://atcoder.jp/contests/abc043/tasks/abc043_b",
+    "submission_id": "AC15512032",
+    "submission_url": "https://atcoder.jp/contests/abc043/submissions/15512032",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/29/2020 01:44"
+  },
   "AC15512051": {
     "contest_id": "abc043",
     "language": "Python (3.8.2)",

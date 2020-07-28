@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88185088": {
+    "contest_id": 1382,
+    "language": "PyPy 3",
+    "path": "codeforces\\1382\\D.py",
+    "problem_index": "D",
+    "problem_name": "Unmerge",
+    "problem_url": "https://codeforces.com/contest/1382/problem/D",
+    "submission_id": "CF88185088",
+    "submission_url": "https://codeforces.com/contest/1382/submission/88185088",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "Jul/28/2020 13:50"
+  },
   "CF88198687": {
     "contest_id": 1256,
     "language": "PyPy 3",

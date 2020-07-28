@@ -1,4 +1,20 @@
 {
+  "AC15511729": {
+    "contest_id": "abc042",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc042\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Iroha and Haiku (ABC Edition)",
+    "problem_url": "https://atcoder.jp/contests/abc042/tasks/abc042_a",
+    "submission_id": "AC15511729",
+    "submission_url": "https://atcoder.jp/contests/abc042/submissions/15511729",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/29/2020 00:41"
+  },
   "AC15511740": {
     "contest_id": "abc042",
     "language": "Python (3.8.2)",

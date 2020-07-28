@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88207755": {
+    "contest_id": 192,
+    "language": "PyPy 3",
+    "path": "codeforces\\192\\A.py",
+    "problem_index": "A",
+    "problem_name": "Funky Numbers",
+    "problem_url": "https://codeforces.com/contest/192/problem/A",
+    "submission_id": "CF88207755",
+    "submission_url": "https://codeforces.com/contest/192/submission/88207755",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jul/28/2020 19:00"
+  },
   "CF88208764": {
     "contest_id": 1061,
     "language": "PyPy 3",

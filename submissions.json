@@ -1,4 +1,20 @@
 {
+  "AC15511956": {
+    "contest_id": "abc042",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc042\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Iroha and a Grid",
+    "problem_url": "https://atcoder.jp/contests/abc042/tasks/arc058_b",
+    "submission_id": "AC15511956",
+    "submission_url": "https://atcoder.jp/contests/abc042/submissions/15511956",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jul/29/2020 01:26"
+  },
   "AC15512019": {
     "contest_id": "abc043",
     "language": "Python (3.8.2)",

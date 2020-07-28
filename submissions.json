@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88228717": {
+    "contest_id": 1253,
+    "language": "PyPy 3",
+    "path": "codeforces\\1253\\C.py",
+    "problem_index": "C",
+    "problem_name": "Sweets Eating",
+    "problem_url": "https://codeforces.com/contest/1253/problem/C",
+    "submission_id": "CF88228717",
+    "submission_url": "https://codeforces.com/contest/1253/submission/88228717",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Jul/28/2020 23:37"
+  },
   "CF88266645": {
     "contest_id": 1177,
     "language": "PyPy 3",

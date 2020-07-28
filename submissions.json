@@ -1,4 +1,20 @@
 {
+  "AC15511740": {
+    "contest_id": "abc042",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc042\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Iroha Loves Strings (ABC Edition)",
+    "problem_url": "https://atcoder.jp/contests/abc042/tasks/abc042_b",
+    "submission_id": "AC15511740",
+    "submission_url": "https://atcoder.jp/contests/abc042/submissions/15511740",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/29/2020 00:43"
+  },
   "AC15511818": {
     "contest_id": "abc042",
     "language": "Python (3.8.2)",

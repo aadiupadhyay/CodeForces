@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88215375": {
+    "contest_id": 1253,
+    "language": "PyPy 3",
+    "path": "codeforces\\1253\\B.py",
+    "problem_index": "B",
+    "problem_name": "Silly Mistake",
+    "problem_url": "https://codeforces.com/contest/1253/problem/B",
+    "submission_id": "CF88215375",
+    "submission_url": "https://codeforces.com/contest/1253/submission/88215375",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jul/28/2020 20:31"
+  },
   "CF88228717": {
     "contest_id": 1253,
     "language": "PyPy 3",

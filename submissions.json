@@ -1,4 +1,20 @@
 {
+  "AC15512019": {
+    "contest_id": "abc043",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc043\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Children and Candies (ABC Edit)",
+    "problem_url": "https://atcoder.jp/contests/abc043/tasks/abc043_a",
+    "submission_id": "AC15512019",
+    "submission_url": "https://atcoder.jp/contests/abc043/submissions/15512019",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/29/2020 01:40"
+  },
   "AC15512032": {
     "contest_id": "abc043",
     "language": "Python (3.8.2)",

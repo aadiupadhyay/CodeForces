@@ -2071,6 +2071,20 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88268523": {
+    "contest_id": 1331,
+    "language": "Python 3",
+    "path": "codeforces\\1331\\D.py",
+    "problem_index": "D",
+    "problem_name": "Again?",
+    "problem_url": "https://codeforces.com/contest/1331/problem/D",
+    "submission_id": "CF88268523",
+    "submission_url": "https://codeforces.com/contest/1331/submission/88268523",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Jul/29/2020 14:26"
+  },
   "CF88271143": {
     "contest_id": 1355,
     "language": "Python 3",

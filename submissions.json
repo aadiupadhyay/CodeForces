@@ -1,4 +1,20 @@
 {
+  "AC15518255": {
+    "contest_id": "abc126",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc126\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Changing a Character",
+    "problem_url": "https://atcoder.jp/contests/abc126/tasks/abc126_a",
+    "submission_id": "AC15518255",
+    "submission_url": "https://atcoder.jp/contests/abc126/submissions/15518255",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/29/2020 13:06"
+  },
   "AC15518466": {
     "contest_id": "abc126",
     "language": "Python (3.8.2)",

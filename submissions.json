@@ -1,4 +1,20 @@
 {
+  "AC15517808": {
+    "contest_id": "abc044",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc044\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Beautiful Strings",
+    "problem_url": "https://atcoder.jp/contests/abc044/tasks/abc044_b",
+    "submission_id": "AC15517808",
+    "submission_url": "https://atcoder.jp/contests/abc044/submissions/15517808",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/29/2020 12:42"
+  },
   "AC15517876": {
     "contest_id": "abc044",
     "language": "Python (3.8.2)",

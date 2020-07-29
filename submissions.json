@@ -1,4 +1,20 @@
 {
+  "AC15518466": {
+    "contest_id": "abc126",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc126\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "YYMM or MMYY",
+    "problem_url": "https://atcoder.jp/contests/abc126/tasks/abc126_b",
+    "submission_id": "AC15518466",
+    "submission_url": "https://atcoder.jp/contests/abc126/submissions/15518466",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/29/2020 13:19"
+  },
   "AC15527673": {
     "contest_id": "abc045",
     "language": "Python (3.8.2)",

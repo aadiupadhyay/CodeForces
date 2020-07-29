@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88271143": {
+    "contest_id": 1355,
+    "language": "Python 3",
+    "path": "codeforces\\1355\\A.py",
+    "problem_index": "A",
+    "problem_name": "Sequence with Digits",
+    "problem_url": "https://codeforces.com/contest/1355/problem/A",
+    "submission_id": "CF88271143",
+    "submission_url": "https://codeforces.com/contest/1355/submission/88271143",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jul/29/2020 14:58"
+  },
   "CF88274176": {
     "contest_id": 1355,
     "language": "Python 3",

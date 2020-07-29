@@ -1,4 +1,20 @@
 {
+  "AC15527673": {
+    "contest_id": "abc045",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc045\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Trapezoids",
+    "problem_url": "https://atcoder.jp/contests/abc045/tasks/abc045_a",
+    "submission_id": "AC15527673",
+    "submission_url": "https://atcoder.jp/contests/abc045/submissions/15527673",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/29/2020 23:41"
+  },
   "AC15527708": {
     "contest_id": "abc045",
     "language": "Python (3.8.2)",

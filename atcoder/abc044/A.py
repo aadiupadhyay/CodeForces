@@ -1,0 +1,6 @@
+n=int(input())
+k=int(input())
+x=int(input())
+y=int(input())
+a=x*(min(n,k))+y*(n-min(n,k))
+print(a)

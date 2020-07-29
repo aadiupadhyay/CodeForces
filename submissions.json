@@ -1,4 +1,20 @@
 {
+  "AC15517876": {
+    "contest_id": "abc044",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc044\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Tak and Hotels (ABC Edit)",
+    "problem_url": "https://atcoder.jp/contests/abc044/tasks/abc044_a",
+    "submission_id": "AC15517876",
+    "submission_url": "https://atcoder.jp/contests/abc044/submissions/15517876",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/29/2020 12:46"
+  },
   "AC15518024": {
     "contest_id": "abc044",
     "language": "Python (3.8.2)",

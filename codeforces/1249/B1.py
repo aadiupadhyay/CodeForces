@@ -67,20 +67,23 @@ def power(a,n):
     
 def solve():
     n=inp()
+    d={}
     l=li()
     l=[0]+l
-    i=1
-    x=[]
+    x={}
+    for i in range(1,n+1):
+        d[i]=l[i]
     for i in range(1,n+1):
         j=i
-        c=0
-        while l[j]!=i:
-            j=l[j]
+        c=1
+        while d[j]!=i:
+            j=d[j]
             c+=1
-        x.append(c+1)
+        x[i]=c
         
-    print(*x)
-            
+    print(*list(x.values()))
+    
+ 
     
 for _ in range(inp()):
     solve()

@@ -1,4 +1,20 @@
 {
+  "AC15527869": {
+    "contest_id": "abc045",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc045\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Many Formulas",
+    "problem_url": "https://atcoder.jp/contests/abc045/tasks/arc061_a",
+    "submission_id": "AC15527869",
+    "submission_url": "https://atcoder.jp/contests/abc045/submissions/15527869",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jul/30/2020 00:15"
+  },
   "AC15536775": {
     "contest_id": "abc046",
     "language": "Python (3.8.2)",

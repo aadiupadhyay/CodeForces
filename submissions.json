@@ -1,4 +1,20 @@
 {
+  "AC15536814": {
+    "contest_id": "abc046",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc046\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Painting Balls with AtCoDeer",
+    "problem_url": "https://atcoder.jp/contests/abc046/tasks/abc046_b",
+    "submission_id": "AC15536814",
+    "submission_url": "https://atcoder.jp/contests/abc046/submissions/15536814",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/30/2020 16:35"
+  },
   "AC15536861": {
     "contest_id": "abc046",
     "language": "Python (3.8.2)",

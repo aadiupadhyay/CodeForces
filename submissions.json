@@ -1,4 +1,20 @@
 {
+  "AC15536775": {
+    "contest_id": "abc046",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc046\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "AtCoDeer and Paint Cans",
+    "problem_url": "https://atcoder.jp/contests/abc046/tasks/abc046_a",
+    "submission_id": "AC15536775",
+    "submission_url": "https://atcoder.jp/contests/abc046/submissions/15536775",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/30/2020 16:31"
+  },
   "AC15536814": {
     "contest_id": "abc046",
     "language": "Python (3.8.2)",

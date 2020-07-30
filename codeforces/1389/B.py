@@ -1,73 +1,66 @@
+#from __future__ import print_function
+mod=int(1e9+7)
+#import resource
+#resource.setrlimit(resource.RLIMIT_STACK, [0x100000000, resource.RLIM_INFINITY])
+#import threading
+#threading.stack_size(2**25)
+#import sys
+#sys.setrecursionlimit(10**5)
+#fact=[1]
+#for i in range(1,100001):
+#    fact.append((fact[-1]*i)%mod)
+#ifact=[0]*100001
+#ifact[100000]=pow(fact[100000],mod-2,mod)
+#for i in range(100000,0,-1):
+#    ifact[i-1]=(i*ifact[i])%mod
+#from random import randint as rn
 from sys  import stdin,stdout
-
 import bisect
-
+from bisect import bisect_left as bl              #c++ lowerbound bl(array,element)
+from bisect import bisect_right as br             #c++ upperbound
+import itertools
+import collections
 import math
+import heapq
+from types import GeneratorType
+def bootstrap(f, stack=[]):
+    def wrappedfunc(*args, **kwargs):
+        if stack:
+            return f(*args, **kwargs)
+        else:
+            to = f(*args, **kwargs)
+            while True:
+                if type(to) is GeneratorType:
+                    stack.append(to)
+                    to = next(to)
+                else:
+                    stack.pop()
+                    if not stack:
+                        break
+                    to = stack[-1].send(to)
+            return to
+    return wrappedfunc
 
-def st():
-    return list(stdin.readline().strip())
+def modinv(n,p):
+    return pow(n,p-2,p)
+def ncr(n,r,p):                        #for using this uncomment the lines calculating fact and ifact
+    t=((fact[n])*((ifact[r]*ifact[n-r])%p))%p
+    return t
+def GCD(x,y):
+    while(y):
+        x, y = y, x % y
+    return x
+def ain():                           #takes array as input
+    return list(map(int,sin().split()))
+def sin():
+    return input()
+range=xrange
+intmax=10**18
+"""*******************************************************"""
 
-def inp():
-    return int(stdin.readline())
-
-def li():
-    return list(map(int,stdin.readline().split()))
-
-def mp():
-    return map(int,stdin.readline().split())
-
-def pr(n):
-    stdout.write(str(n)+"\n")
-
-def soe(limit):
-    l=[1]*(limit+1)
-    prime=[]
-    for i in range(2,limit+1):
-        if l[i]:
-            for j in range(i*i,limit+1,i):
-                l[j]=0
-
-    for i in range(2,limit+1):
-        if l[i]:
-            prime.append(i)
-    return prime
-
-def segsoe(low,high):
-    limit=int(high**0.5)+1
-    prime=soe(limit)
-    n=high-low+1
-    l=[0]*(n+1)
-    for i in range(len(prime)):
-        lowlimit=(low//prime[i])*prime[i]
-        if lowlimit<low:
-            lowlimit+=prime[i]
-        if lowlimit==prime[i]:
-            lowlimit+=prime[i]
-        for j in range(lowlimit,high+1,prime[i]):
-            l[j-low]=1
-    for i in range(low,high+1):
-        if not l[i-low]:
-            if i!=1:
-                print(i)
-                
-def gcd(a,b):
-    while b:
-        a,b=b,a%b
-    return a
-
-def power(a,n):
-    r=1
-    while n:
-        if n&1:
-            r=(r*a)
-        a*=a
-        n=n>>1
-    return r
-
-    
 def solve():
-    n,k,z=mp()
-    l=li()
+    n,k,z=map(int,input().split())
+    l=ain()
     ans=float('-inf')
     pre=[0]
     for i in range(n):
@@ -85,9 +78,60 @@ def solve():
         ans=max(ans,s)
         
     print(ans)
-        
-        
+
+######## Python 2 and 3 footer by Pajenegod and c1729
+py2 = round(0.5)
+if py2:
+    from future_builtins import ascii, filter, hex, map, oct, zip
+    range = xrange
+ 
+import os, sys
+from io import IOBase, BytesIO
+ 
+BUFSIZE = 8192
+class FastIO(BytesIO):
+    newlines = 0
+    def __init__(self, file):
+        self._file = file
+        self._fd = file.fileno()
+        self.writable = "x" in file.mode or "w" in file.mode
+        self.write = super(FastIO, self).write if self.writable else None
+ 
+    def _fill(self):
+        s = os.read(self._fd, max(os.fstat(self._fd).st_size, BUFSIZE))
+        self.seek((self.tell(), self.seek(0,2), super(FastIO, self).write(s))[0])
+        return s
+    def read(self):
+        while self._fill(): pass
+        return super(FastIO,self).read()
+ 
+    def readline(self):
+        while self.newlines == 0:
+            s = self._fill(); self.newlines = s.count(b"\n") + (not s)
+        self.newlines -= 1
+        return super(FastIO, self).readline()
+ 
+    def flush(self):
+        if self.writable:
+            os.write(self._fd, self.getvalue())
+            self.truncate(0), self.seek(0)
+ 
+class IOWrapper(IOBase):
+    def __init__(self, file):
+        self.buffer = FastIO(file)
+        self.flush = self.buffer.flush
+        self.writable = self.buffer.writable
+        if py2:
+            self.write = self.buffer.write
+            self.read = self.buffer.read
+            self.readline = self.buffer.readline
+        else:
+            self.write = lambda s:self.buffer.write(s.encode('ascii'))
+            self.read = lambda:self.buffer.read().decode('ascii')
+            self.readline = lambda:self.buffer.readline().decode('ascii')
+ 
+sys.stdin, sys.stdout = IOWrapper(sys.stdin), IOWrapper(sys.stdout)
+input = lambda: sys.stdin.readline().rstrip('\r\n')
     
-for _ in range(inp()):
+for _ in range(int(input())):
     solve()
-    

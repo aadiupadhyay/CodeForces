@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88428831": {
+    "contest_id": 1277,
+    "language": "PyPy 3",
+    "path": "codeforces\\1277\\B.py",
+    "problem_index": "B",
+    "problem_name": "Make Them Odd",
+    "problem_url": "https://codeforces.com/contest/1277/problem/B",
+    "submission_id": "CF88428831",
+    "submission_url": "https://codeforces.com/contest/1277/submission/88428831",
+    "tags": [
+      "greedy",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Jul/30/2020 16:04"
+  },
   "CF88497809": {
     "contest_id": 1388,
     "language": "PyPy 3",

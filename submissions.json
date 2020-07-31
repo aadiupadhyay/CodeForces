@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88614945": {
+    "contest_id": 1118,
+    "language": "PyPy 3",
+    "path": "codeforces\\1118\\A.py",
+    "problem_index": "A",
+    "problem_name": "Water Buying",
+    "problem_url": "https://codeforces.com/contest/1118/problem/A",
+    "submission_id": "CF88614945",
+    "submission_url": "https://codeforces.com/contest/1118/submission/88614945",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/31/2020 23:34"
+  },
   "CF88616977": {
     "contest_id": 1118,
     "language": "PyPy 3",

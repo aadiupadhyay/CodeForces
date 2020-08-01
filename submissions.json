@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88683594": {
+    "contest_id": 1004,
+    "language": "PyPy 3",
+    "path": "codeforces\\1004\\A.py",
+    "problem_index": "A",
+    "problem_name": "Sonya and Hotels",
+    "problem_url": "https://codeforces.com/contest/1004/problem/A",
+    "submission_id": "CF88683594",
+    "submission_url": "https://codeforces.com/contest/1004/submission/88683594",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Aug/01/2020 22:47"
+  },
   "CF88684128": {
     "contest_id": 26,
     "language": "PyPy 3",

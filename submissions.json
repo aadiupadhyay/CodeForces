@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88690659": {
+    "contest_id": 776,
+    "language": "PyPy 3",
+    "path": "codeforces\\776\\B.py",
+    "problem_index": "B",
+    "problem_name": "Sherlock and his girlfriend",
+    "problem_url": "https://codeforces.com/contest/776/problem/B",
+    "submission_id": "CF88690659",
+    "submission_url": "https://codeforces.com/contest/776/submission/88690659",
+    "tags": [
+      "constructive algorithms",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Aug/02/2020 01:12"
+  },
   "CF88691538": {
     "contest_id": 17,
     "language": "PyPy 3",

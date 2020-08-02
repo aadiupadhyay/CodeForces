@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88756476": {
+    "contest_id": 1183,
+    "language": "PyPy 3",
+    "path": "codeforces\\1183\\B.py",
+    "problem_index": "B",
+    "problem_name": "Equalize Prices",
+    "problem_url": "https://codeforces.com/contest/1183/problem/B",
+    "submission_id": "CF88756476",
+    "submission_url": "https://codeforces.com/contest/1183/submission/88756476",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Aug/03/2020 00:39"
+  },
   "CF88758022": {
     "contest_id": 1183,
     "language": "PyPy 3",

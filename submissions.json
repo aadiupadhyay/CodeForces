@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88861553": {
+    "contest_id": 115,
+    "language": "Python 3",
+    "path": "codeforces\\115\\A.py",
+    "problem_index": "A",
+    "problem_name": "Party",
+    "problem_url": "https://codeforces.com/contest/115/problem/A",
+    "submission_id": "CF88861553",
+    "submission_url": "https://codeforces.com/contest/115/submission/88861553",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*900"
+    ],
+    "timestamp": "Aug/04/2020 15:47"
+  },
   "CF88862283": {
     "contest_id": 893,
     "language": "Python 3",

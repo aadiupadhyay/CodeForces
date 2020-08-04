@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88862283": {
+    "contest_id": 893,
+    "language": "Python 3",
+    "path": "codeforces\\893\\C.py",
+    "problem_index": "C",
+    "problem_name": "Rumor",
+    "problem_url": "https://codeforces.com/contest/893/problem/C",
+    "submission_id": "CF88862283",
+    "submission_url": "https://codeforces.com/contest/893/submission/88862283",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Aug/04/2020 15:59"
+  },
   "CF88864609": {
     "contest_id": 862,
     "language": "Python 3",

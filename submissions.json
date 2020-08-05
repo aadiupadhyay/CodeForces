@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF89070629": {
+    "contest_id": 1025,
+    "language": "PyPy 3",
+    "path": "codeforces\\1025\\B.py",
+    "problem_index": "B",
+    "problem_name": "Weakened Common Divisor",
+    "problem_url": "https://codeforces.com/contest/1025/problem/B",
+    "submission_id": "CF89070629",
+    "submission_url": "https://codeforces.com/contest/1025/submission/89070629",
+    "tags": [
+      "brute force",
+      "greedy",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Aug/06/2020 01:57"
+  },
   "CF89100971": {
     "contest_id": 1005,
     "language": "PyPy 3",

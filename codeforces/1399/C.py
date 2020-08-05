@@ -4,7 +4,7 @@ import bisect
 
 import math
 
-from collections import deque,Counter
+from collections import deque
 
 mod=10**9 +7 
 
@@ -98,32 +98,34 @@ def power(a,n):
         a*=a
         n=n>>1
     return r
-
-def issum(l,x):
-    c=0
-    i=0
-    j=len(l)-1
-    while i<j:
-        a=l[i]+l[j]
-        if a>x:
-            j-=1
-        elif a<x:
-            i+=1
-        else:
-            c+=1
-            i+=1
-            j-=1
-    return c
-    
     
 def solve():
     n=inp()
-    l=li()
     ans=0
-    l.sort()
+    l=li()
     for i in range(2,101):
-        ans=max(ans,issum(l,i))
+        c=0
+        visited=[False for i in range(n)]
+        for j in range(n):
+            if not visited[j]:
+                for k  in range(n):
+                    if not visited[k]:
+                        if k!=j:
+                            if l[k]+l[j]==i:
+                                c+=1
+                                visited[j]=True
+                                visited[k]=True
+                                break
+            if not visited[j]:
+                visited[j]=True
+
+        ans=max(c,ans)
     pr(ans)
+                            
+            
+                
+                
+                
 
 for _ in range(inp()):
     solve()

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF89069420": {
+    "contest_id": 75,
+    "language": "PyPy 3",
+    "path": "codeforces\\75\\C.py",
+    "problem_index": "C",
+    "problem_name": "Modified GCD",
+    "problem_url": "https://codeforces.com/contest/75/problem/C",
+    "submission_id": "CF89069420",
+    "submission_url": "https://codeforces.com/contest/75/submission/89069420",
+    "tags": [
+      "binary search",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Aug/06/2020 01:33"
+  },
   "CF89070629": {
     "contest_id": 1025,
     "language": "PyPy 3",

@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF89061064": {
+    "contest_id": 1399,
+    "language": "PyPy 3",
+    "path": "codeforces\\1399\\D.py",
+    "problem_index": "D",
+    "problem_name": "Binary String To Subsequences",
+    "problem_url": "https://codeforces.com/contest/1399/problem/D",
+    "submission_id": "CF89061064",
+    "submission_url": "https://codeforces.com/contest/1399/submission/89061064",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Aug/05/2020 23:29"
+  },
   "CF89069420": {
     "contest_id": 75,
     "language": "PyPy 3",

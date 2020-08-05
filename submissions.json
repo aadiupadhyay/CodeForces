@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF88929906": {
+    "contest_id": 1020,
+    "language": "Python 3",
+    "path": "codeforces\\1020\\B.py",
+    "problem_index": "B",
+    "problem_name": "Badge",
+    "problem_url": "https://codeforces.com/contest/1020/problem/B",
+    "submission_id": "CF88929906",
+    "submission_url": "https://codeforces.com/contest/1020/submission/88929906",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "*1000"
+    ],
+    "timestamp": "Aug/05/2020 14:16"
+  },
   "CF88931139": {
     "contest_id": 500,
     "language": "Python 3",

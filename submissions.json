@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF89121497": {
+    "contest_id": 870,
+    "language": "PyPy 3",
+    "path": "codeforces\\870\\A.py",
+    "problem_index": "A",
+    "problem_name": "Search for Pretty Integers",
+    "problem_url": "https://codeforces.com/contest/870/problem/A",
+    "submission_id": "CF89121497",
+    "submission_url": "https://codeforces.com/contest/870/submission/89121497",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Aug/06/2020 18:12"
+  },
   "CF89121818": {
     "contest_id": 841,
     "language": "PyPy 3",

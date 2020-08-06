@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF89121445": {
+    "contest_id": 918,
+    "language": "PyPy 3",
+    "path": "codeforces\\918\\B.py",
+    "problem_index": "B",
+    "problem_name": "Radio Station",
+    "problem_url": "https://codeforces.com/contest/918/problem/B",
+    "submission_id": "CF89121445",
+    "submission_url": "https://codeforces.com/contest/918/submission/89121445",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Aug/06/2020 18:11"
+  },
   "CF89121497": {
     "contest_id": 870,
     "language": "PyPy 3",

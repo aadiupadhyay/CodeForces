@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF89234658": {
+    "contest_id": 1393,
+    "language": "PyPy 3",
+    "path": "codeforces\\1393\\A.py",
+    "problem_index": "A",
+    "problem_name": "Rainbow Dash, Fluttershy and Chess Coloring",
+    "problem_url": "https://codeforces.com/contest/1393/problem/A",
+    "submission_id": "CF89234658",
+    "submission_url": "https://codeforces.com/contest/1393/submission/89234658",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/07/2020 20:38"
+  },
   "CF89365227": {
     "contest_id": 1157,
     "language": "PyPy 3",

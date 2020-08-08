@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF89365227": {
+    "contest_id": 1157,
+    "language": "PyPy 3",
+    "path": "codeforces\\1157\\B.py",
+    "problem_index": "B",
+    "problem_name": "Long Number",
+    "problem_url": "https://codeforces.com/contest/1157/problem/B",
+    "submission_id": "CF89365227",
+    "submission_url": "https://codeforces.com/contest/1157/submission/89365227",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Aug/09/2020 03:56"
+  },
   "CF89409919": {
     "contest_id": 1391,
     "language": "PyPy 3",

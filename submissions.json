@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF89425464": {
+    "contest_id": 1391,
+    "language": "PyPy 3",
+    "path": "codeforces\\1391\\B.py",
+    "problem_index": "B",
+    "problem_name": "Fix You",
+    "problem_url": "https://codeforces.com/contest/1391/problem/B",
+    "submission_id": "CF89425464",
+    "submission_url": "https://codeforces.com/contest/1391/submission/89425464",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/09/2020 20:23"
+  },
   "CF89456101": {
     "contest_id": 1391,
     "language": "PyPy 3",

@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF89515425": {
+    "contest_id": 1157,
+    "language": "PyPy 3",
+    "path": "codeforces\\1157\\C2.py",
+    "problem_index": "C2",
+    "problem_name": "Increasing Subsequence (hard version)",
+    "problem_url": "https://codeforces.com/contest/1157/problem/C2",
+    "submission_id": "CF89515425",
+    "submission_url": "https://codeforces.com/contest/1157/submission/89515425",
+    "tags": [
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Aug/10/2020 19:26"
+  },
   "CF89515473": {
     "contest_id": 1157,
     "language": "PyPy 3",

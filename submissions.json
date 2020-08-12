@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF89668356": {
+    "contest_id": 1395,
+    "language": "Python 3",
+    "path": "codeforces\\1395\\A.py",
+    "problem_index": "A",
+    "problem_name": "Boboniu Likes to Color Balls",
+    "problem_url": "https://codeforces.com/contest/1395/problem/A",
+    "submission_id": "CF89668356",
+    "submission_url": "https://codeforces.com/contest/1395/submission/89668356",
+    "tags": [
+      "brute force",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Aug/12/2020 20:20"
+  },
   "CF89718147": {
     "contest_id": 1395,
     "language": "Python 3",

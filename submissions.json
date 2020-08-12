@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF89745665": {
+    "contest_id": 1092,
+    "language": "Python 3",
+    "path": "codeforces\\1092\\A.py",
+    "problem_index": "A",
+    "problem_name": "Uniform String",
+    "problem_url": "https://codeforces.com/contest/1092/problem/A",
+    "submission_id": "CF89745665",
+    "submission_url": "https://codeforces.com/contest/1092/submission/89745665",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/13/2020 03:06"
+  },
   "CF89827340": {
     "contest_id": 1353,
     "language": "Python 3",

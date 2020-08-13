@@ -1,31 +1,23 @@
 
-import sys
-import heapq as hq
+import heapq
  
-readline = sys.stdin.readline
-readall = sys.stdin.read
-ns = lambda: readline().rstrip()
-ni = lambda: int(readline().rstrip())
-nm = lambda: map(int, readline().split())
-nl = lambda: list(map(int, readline().split()))
-prn = lambda x: print(*x, sep='\n')
+for _ in range(int(input())):
+    n = int(input())
+    a = [0] * n
  
+    h = [(-n, (0, n-1))]
  
-def solve():
-    n = ni()
-    a = [0]*n
-    q = [(-n, 0, n-1)]
-    for i in range(n):
-        v, l, r = hq.heappop(q)
-        m = (l + r)//2
-        a[m] = i + 1
-        hq.heappush(q, (-(m-l), l, m-1))
-        hq.heappush(q, (-(r-m), m+1, r))
+    i = 1
+ 
+    while i <= n:
+        s, (l, r) = heapq.heappop(h)
+        mid = (l+r) // 2
+ 
+        a[mid] = i
+ 
+        heapq.heappush(h, (-((mid-1) - l), (l, mid-1)))
+        heapq.heappush(h, (-(r - (mid+1)), (mid+1, r)))
+ 
+        i += 1
+ 
     print(*a)
- 
- 
-# solve()
- 
-T = ni()
-for _ in range(T):
-    solve()

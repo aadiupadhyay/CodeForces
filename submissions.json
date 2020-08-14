@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF89972159": {
+    "contest_id": 1113,
+    "language": "PyPy 3",
+    "path": "codeforces\\1113\\A.py",
+    "problem_index": "A",
+    "problem_name": "Sasha and His Trip",
+    "problem_url": "https://codeforces.com/contest/1113/problem/A",
+    "submission_id": "CF89972159",
+    "submission_url": "https://codeforces.com/contest/1113/submission/89972159",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Aug/15/2020 01:59"
+  },
   "CF90031216": {
     "contest_id": 208,
     "language": "PyPy 3",

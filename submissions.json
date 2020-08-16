@@ -1,4 +1,20 @@
 {
+  "AC15994201": {
+    "contest_id": "abc048",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc048\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Boxes and Candies",
+    "problem_url": "https://atcoder.jp/contests/abc048/tasks/arc064_a",
+    "submission_id": "AC15994201",
+    "submission_url": "https://atcoder.jp/contests/abc048/submissions/15994201",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/17/2020 01:40"
+  },
   "AC16030759": {
     "contest_id": "abc153",
     "language": "Python (3.8.2)",

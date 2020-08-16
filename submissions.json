@@ -1,4 +1,20 @@
 {
+  "AC15993987": {
+    "contest_id": "abc048",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc048\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Between a and b ...",
+    "problem_url": "https://atcoder.jp/contests/abc048/tasks/abc048_b",
+    "submission_id": "AC15993987",
+    "submission_url": "https://atcoder.jp/contests/abc048/submissions/15993987",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/17/2020 00:53"
+  },
   "AC15994176": {
     "contest_id": "abc048",
     "language": "Python (3.8.2)",

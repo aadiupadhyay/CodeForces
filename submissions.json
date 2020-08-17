@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF90257825": {
+    "contest_id": 1392,
+    "language": "PyPy 3",
+    "path": "codeforces\\1392\\D.py",
+    "problem_index": "D",
+    "problem_name": "Omkar and Bed Wars",
+    "problem_url": "https://codeforces.com/contest/1392/problem/D",
+    "submission_id": "CF90257825",
+    "submission_url": "https://codeforces.com/contest/1392/submission/90257825",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Aug/18/2020 00:27"
+  },
   "CF90575700": {
     "contest_id": 1401,
     "language": "PyPy 3",

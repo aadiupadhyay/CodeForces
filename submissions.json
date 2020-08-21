@@ -1,4 +1,20 @@
 {
+  "AC16082965": {
+    "contest_id": "abc146",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc146\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "ROT N",
+    "problem_url": "https://atcoder.jp/contests/abc146/tasks/abc146_b",
+    "submission_id": "AC16082965",
+    "submission_url": "https://atcoder.jp/contests/abc146/submissions/16082965",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/22/2020 01:02"
+  },
   "AC16105400": {
     "contest_id": "abc176",
     "language": "PyPy3 (7.3.0)",

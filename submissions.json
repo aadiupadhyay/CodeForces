@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF90575700": {
+    "contest_id": 1401,
+    "language": "PyPy 3",
+    "path": "codeforces\\1401\\A.py",
+    "problem_index": "A",
+    "problem_name": "Distance and Axis",
+    "problem_url": "https://codeforces.com/contest/1401/problem/A",
+    "submission_id": "CF90575700",
+    "submission_url": "https://codeforces.com/contest/1401/submission/90575700",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Aug/21/2020 20:49"
+  },
   "CF90602319": {
     "contest_id": 1401,
     "language": "PyPy 3",

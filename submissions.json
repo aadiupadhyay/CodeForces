@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF90711275": {
+    "contest_id": 1296,
+    "language": "Python 3",
+    "path": "codeforces\\1296\\A.py",
+    "problem_index": "A",
+    "problem_name": "Array with Odd Sum",
+    "problem_url": "https://codeforces.com/contest/1296/problem/A",
+    "submission_id": "CF90711275",
+    "submission_url": "https://codeforces.com/contest/1296/submission/90711275",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/23/2020 00:06"
+  },
   "CF90923007": {
     "contest_id": 1400,
     "language": "Python 3",

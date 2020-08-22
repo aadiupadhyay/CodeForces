@@ -1,4 +1,20 @@
 {
+  "AC16163847": {
+    "contest_id": "abc050",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc050\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Addition and Subtraction Easy",
+    "problem_url": "https://atcoder.jp/contests/abc050/tasks/abc050_a",
+    "submission_id": "AC16163847",
+    "submission_url": "https://atcoder.jp/contests/abc050/submissions/16163847",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/22/2020 23:40"
+  },
   "AC16163986": {
     "contest_id": "abc050",
     "language": "Python (3.8.2)",

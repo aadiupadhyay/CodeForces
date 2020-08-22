@@ -1,22 +1,22 @@
 import sys,bisect
- 
+
 from sys  import stdin,stdout
- 
+
 from bisect import bisect_left,bisect_right,bisect,insort,insort_left,insort_right
- 
+
 from math import gcd,ceil,floor,sqrt
- 
+
 from collections import Counter,defaultdict,deque,OrderedDict
- 
+
 from queue import Queue,PriorityQueue
- 
+
 from string import ascii_lowercase
- 
+
 sys.setrecursionlimit(10**6)
 INF = float('inf')
 MOD = 998244353
 mod = 10**9+7
- 
+
 def isPrime(n):
     
     if (n <= 1) :return False
@@ -26,20 +26,20 @@ def isPrime(n):
         if (n%i==0 or n%(i+2)==0):
             return False
     return True
- 
- 
+
+
 def st():
     return list(stdin.readline().strip())
- 
+
 def inp():
     return int(stdin.readline())
- 
+
 def li():
     return list(map(int,stdin.readline().split()))
- 
+
 def mp():
     return map(int,stdin.readline().split())
- 
+
 def pr(n):
     stdout.write(str(n)+"\n")
     
@@ -54,8 +54,8 @@ def DFS(dictionary,vertex,visited):
                 print(i)
                 visited[i]=True
                 stack.append(i)
- 
- 
+
+
 def BFS(dictionary, vertex,visited):
     visited[vertex]=True
     q=deque()
@@ -67,10 +67,10 @@ def BFS(dictionary, vertex,visited):
                 visited[i]=True
                 q.append(i)
                 print(i)
- 
+
                 
- 
- 
+
+
 def soe(limit):
     l=[1]*(limit+1)
     l[0]=0
@@ -85,7 +85,7 @@ def soe(limit):
         if l[i]:
             prime.append(i)
     return prime
- 
+
 def segsoe(low,high):
     limit=int(high**0.5)+1
     prime=soe(limit)
@@ -109,7 +109,7 @@ def gcd(a,b):
         a=a%b
         b,a=a,b
     return a
- 
+
 def power(a,n):
     r=1
     while n:
@@ -126,12 +126,12 @@ def solve():
         pr('Yes')
     else:
         pr('No')
- 
+
     
- 
- 
- 
- 
+
+
+
+
 for _ in range(1):
     solve()
     

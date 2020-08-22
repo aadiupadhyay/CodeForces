@@ -1,4 +1,20 @@
 {
+  "AC16152592": {
+    "contest_id": "abc176",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc176\\E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Bomber",
+    "problem_url": "https://atcoder.jp/contests/abc176/tasks/abc176_e",
+    "submission_id": "AC16152592",
+    "submission_url": "https://atcoder.jp/contests/abc176/submissions/16152592",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Aug/22/2020 19:17"
+  },
   "AC16152836": {
     "contest_id": "abc176",
     "language": "Python (3.8.2)",

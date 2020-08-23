@@ -1,4 +1,20 @@
 {
+  "AC16190722": {
+    "contest_id": "panasonic2020",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\panasonic2020\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Sqrt Inequality",
+    "problem_url": "https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_c",
+    "submission_id": "AC16190722",
+    "submission_url": "https://atcoder.jp/contests/panasonic2020/submissions/16190722",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/24/2020 01:54"
+  },
   "AC16306646": {
     "contest_id": "abc177",
     "language": "Python (3.8.2)",

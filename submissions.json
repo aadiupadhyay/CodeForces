@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF90923007": {
+    "contest_id": 1400,
+    "language": "Python 3",
+    "path": "codeforces\\1400\\A.py",
+    "problem_index": "A",
+    "problem_name": "String Similarity",
+    "problem_url": "https://codeforces.com/contest/1400/problem/A",
+    "submission_id": "CF90923007",
+    "submission_url": "https://codeforces.com/contest/1400/submission/90923007",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Aug/25/2020 20:20"
+  },
   "CF90992275": {
     "contest_id": 1400,
     "language": "Python 3",

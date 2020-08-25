@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91000659": {
+    "contest_id": 1400,
+    "language": "Python 3",
+    "path": "codeforces\\1400\\B.py",
+    "problem_index": "B",
+    "problem_name": "RPG Protagonist",
+    "problem_url": "https://codeforces.com/contest/1400/problem/B",
+    "submission_id": "CF91000659",
+    "submission_url": "https://codeforces.com/contest/1400/submission/91000659",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Aug/26/2020 01:31"
+  },
   "CF91084383": {
     "contest_id": 681,
     "language": "Python 3",

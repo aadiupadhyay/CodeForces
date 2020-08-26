@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91091704": {
+    "contest_id": 681,
+    "language": "Python 3",
+    "path": "codeforces\\681\\A.py",
+    "problem_index": "A",
+    "problem_name": "A Good Contest",
+    "problem_url": "https://codeforces.com/contest/681/problem/A",
+    "submission_id": "CF91091704",
+    "submission_url": "https://codeforces.com/contest/681/submission/91091704",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/27/2020 02:55"
+  },
   "CF91092404": {
     "contest_id": 1400,
     "language": "PyPy 3",

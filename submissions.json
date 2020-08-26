@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91091551": {
+    "contest_id": 681,
+    "language": "Python 3",
+    "path": "codeforces\\681\\B.py",
+    "problem_index": "B",
+    "problem_name": "Economy Game",
+    "problem_url": "https://codeforces.com/contest/681/problem/B",
+    "submission_id": "CF91091551",
+    "submission_url": "https://codeforces.com/contest/681/submission/91091551",
+    "tags": [
+      "brute force",
+      "*1300"
+    ],
+    "timestamp": "Aug/27/2020 02:50"
+  },
   "CF91091704": {
     "contest_id": 681,
     "language": "Python 3",

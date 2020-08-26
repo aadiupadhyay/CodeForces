@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91084383": {
+    "contest_id": 681,
+    "language": "Python 3",
+    "path": "codeforces\\681\\C.py",
+    "problem_index": "C",
+    "problem_name": "Heap Operations",
+    "problem_url": "https://codeforces.com/contest/681/problem/C",
+    "submission_id": "CF91084383",
+    "submission_url": "https://codeforces.com/contest/681/submission/91084383",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Aug/27/2020 00:06"
+  },
   "CF91091551": {
     "contest_id": 681,
     "language": "Python 3",

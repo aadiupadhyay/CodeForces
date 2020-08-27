@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91131512": {
+    "contest_id": 910,
+    "language": "Python 3",
+    "path": "codeforces\\910\\A.py",
+    "problem_index": "A",
+    "problem_name": "The Way to Home",
+    "problem_url": "https://codeforces.com/contest/910/problem/A",
+    "submission_id": "CF91131512",
+    "submission_url": "https://codeforces.com/contest/910/submission/91131512",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/27/2020 17:44"
+  },
   "CF91133128": {
     "contest_id": 1057,
     "language": "Python 3",

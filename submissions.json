@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91120296": {
+    "contest_id": 1167,
+    "language": "Python 3",
+    "path": "codeforces\\1167\\C.py",
+    "problem_index": "C",
+    "problem_name": "News Distribution",
+    "problem_url": "https://codeforces.com/contest/1167/problem/C",
+    "submission_id": "CF91120296",
+    "submission_url": "https://codeforces.com/contest/1167/submission/91120296",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1400"
+    ],
+    "timestamp": "Aug/27/2020 14:59"
+  },
   "CF91121537": {
     "contest_id": 1167,
     "language": "Python 3",

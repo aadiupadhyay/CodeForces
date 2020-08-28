@@ -1,5 +1,3 @@
-#aadiupadhyay
-
 from collections import deque
 
 def valid(x,y):
@@ -8,7 +6,6 @@ def valid(x,y):
     if v[x][y]:
         return False
     return True
-
 
 dx=[-1,1,-1,1,1,-1,0,0]
 dy=[1,-1,-1,1,0,0,-1,-1]

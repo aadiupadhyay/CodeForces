@@ -1,20 +1,12 @@
-
-from math import gcd,ceil,floor,sqrt
- 
- 
+from math import floor, ceil
 def solve():
     n=int(input())
     l=list(map(int,input().split()))
     l.sort()
     x=l[-1]
     a=n-1
-    c=1
-    b=1
-    prev=1
-    while b<x:
-        prev=c
-        c+=1
-        b=pow(c,a)
+    prev=floor(x**(1/a))
+    c=ceil(x**(1/a))
     ans1=0
     ans2=0
     for i in range(n):
@@ -23,8 +15,8 @@ def solve():
     print(min(ans1,ans2))
         
         
- 
- 
+
+
 for _ in range(1):
     solve()
  

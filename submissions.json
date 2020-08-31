@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91482148": {
+    "contest_id": 344,
+    "language": "Python 3",
+    "path": "codeforces\\344\\B.py",
+    "problem_index": "B",
+    "problem_name": "Simple Molecules",
+    "problem_url": "https://codeforces.com/contest/344/problem/B",
+    "submission_id": "CF91482148",
+    "submission_url": "https://codeforces.com/contest/344/submission/91482148",
+    "tags": [
+      "brute force",
+      "graphs",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Aug/31/2020 16:07"
+  },
   "CF91483890": {
     "contest_id": 1304,
     "language": "Python 3",

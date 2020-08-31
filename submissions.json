@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91484958": {
+    "contest_id": 300,
+    "language": "Python 3",
+    "path": "codeforces\\300\\A.py",
+    "problem_index": "A",
+    "problem_name": "Array",
+    "problem_url": "https://codeforces.com/contest/300/problem/A",
+    "submission_id": "CF91484958",
+    "submission_url": "https://codeforces.com/contest/300/submission/91484958",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Aug/31/2020 16:47"
+  },
   "CF91514058": {
     "contest_id": 158,
     "language": "Python 3",

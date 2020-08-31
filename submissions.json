@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91479078": {
+    "contest_id": 292,
+    "language": "Python 3",
+    "path": "codeforces\\292\\B.py",
+    "problem_index": "B",
+    "problem_name": "Network Topology",
+    "problem_url": "https://codeforces.com/contest/292/problem/B",
+    "submission_id": "CF91479078",
+    "submission_url": "https://codeforces.com/contest/292/submission/91479078",
+    "tags": [
+      "graphs",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Aug/31/2020 15:23"
+  },
   "CF91482148": {
     "contest_id": 344,
     "language": "Python 3",

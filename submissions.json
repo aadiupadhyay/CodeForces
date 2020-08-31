@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91518284": {
+    "contest_id": 355,
+    "language": "Python 3",
+    "path": "codeforces\\355\\A.py",
+    "problem_index": "A",
+    "problem_name": "Vasya and Digital Root",
+    "problem_url": "https://codeforces.com/contest/355/problem/A",
+    "submission_id": "CF91518284",
+    "submission_url": "https://codeforces.com/contest/355/submission/91518284",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Sep/01/2020 00:17"
+  },
   "CF91599884": {
     "contest_id": 1220,
     "language": "Python 3",

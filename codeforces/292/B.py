@@ -18,12 +18,12 @@ for i in d:
        
 if c==(n-1) and star==1:
     print('star topology')
- 
+
 elif one==2 and  two==(n-2):
     print('bus topology')
- 
+
 elif two==n:
     print('ring topology')
 else:
     print('unknown topology')
- 
+

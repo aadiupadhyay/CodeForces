@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91599884": {
+    "contest_id": 1220,
+    "language": "Python 3",
+    "path": "codeforces\\1220\\A.py",
+    "problem_index": "A",
+    "problem_name": "Cards",
+    "problem_url": "https://codeforces.com/contest/1220/problem/A",
+    "submission_id": "CF91599884",
+    "submission_url": "https://codeforces.com/contest/1220/submission/91599884",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/02/2020 02:45"
+  },
   "CF91617394": {
     "contest_id": 75,
     "language": "Python 3",

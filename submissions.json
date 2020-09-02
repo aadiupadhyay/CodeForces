@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91632789": {
+    "contest_id": 330,
+    "language": "PyPy 3",
+    "path": "codeforces\\330\\A.py",
+    "problem_index": "A",
+    "problem_name": "Cakeminator",
+    "problem_url": "https://codeforces.com/contest/330/problem/A",
+    "submission_id": "CF91632789",
+    "submission_url": "https://codeforces.com/contest/330/submission/91632789",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/02/2020 16:16"
+  },
   "CF91633846": {
     "contest_id": 260,
     "language": "PyPy 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91618166": {
+    "contest_id": 869,
+    "language": "PyPy 3",
+    "path": "codeforces\\869\\A.py",
+    "problem_index": "A",
+    "problem_name": "The Artful Expedient",
+    "problem_url": "https://codeforces.com/contest/869/problem/A",
+    "submission_id": "CF91618166",
+    "submission_url": "https://codeforces.com/contest/869/submission/91618166",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Sep/02/2020 12:17"
+  },
   "CF91624964": {
     "contest_id": 459,
     "language": "PyPy 3",

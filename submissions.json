@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91631165": {
+    "contest_id": 439,
+    "language": "PyPy 3",
+    "path": "codeforces\\439\\A.py",
+    "problem_index": "A",
+    "problem_name": "Devu, the Singer and Churu, the Joker",
+    "problem_url": "https://codeforces.com/contest/439/problem/A",
+    "submission_id": "CF91631165",
+    "submission_url": "https://codeforces.com/contest/439/submission/91631165",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Sep/02/2020 15:50"
+  },
   "CF91631950": {
     "contest_id": 462,
     "language": "PyPy 3",

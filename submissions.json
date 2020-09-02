@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91633846": {
+    "contest_id": 260,
+    "language": "PyPy 3",
+    "path": "codeforces\\260\\A.py",
+    "problem_index": "A",
+    "problem_name": "Adding Digits",
+    "problem_url": "https://codeforces.com/contest/260/problem/A",
+    "submission_id": "CF91633846",
+    "submission_url": "https://codeforces.com/contest/260/submission/91633846",
+    "tags": [
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Sep/02/2020 16:32"
+  },
   "CF91635288": {
     "contest_id": 385,
     "language": "PyPy 3",

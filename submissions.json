@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91851736": {
+    "contest_id": 1409,
+    "language": "Python 3",
+    "path": "codeforces\\1409\\B.py",
+    "problem_index": "B",
+    "problem_name": "Minimum Product",
+    "problem_url": "https://codeforces.com/contest/1409/problem/B",
+    "submission_id": "CF91851736",
+    "submission_url": "https://codeforces.com/contest/1409/submission/91851736",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Sep/04/2020 21:14"
+  },
   "CF91890259": {
     "contest_id": 1409,
     "language": "Python 3",

@@ -1,4 +1,20 @@
 {
+  "AC16497304": {
+    "contest_id": "abc064",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc064\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "RGB Cards",
+    "problem_url": "https://atcoder.jp/contests/abc064/tasks/abc064_a",
+    "submission_id": "AC16497304",
+    "submission_url": "https://atcoder.jp/contests/abc064/submissions/16497304",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/04/2020 12:07"
+  },
   "AC16497324": {
     "contest_id": "abc064",
     "language": "Python (3.8.2)",

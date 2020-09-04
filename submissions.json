@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91814938": {
+    "contest_id": 1409,
+    "language": "Python 3",
+    "path": "codeforces\\1409\\A.py",
+    "problem_index": "A",
+    "problem_name": "Yet Another Two Integers Problem",
+    "problem_url": "https://codeforces.com/contest/1409/problem/A",
+    "submission_id": "CF91814938",
+    "submission_url": "https://codeforces.com/contest/1409/submission/91814938",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/04/2020 20:15"
+  },
   "CF91851736": {
     "contest_id": 1409,
     "language": "Python 3",

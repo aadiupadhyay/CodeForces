@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF91970989": {
+    "contest_id": 510,
+    "language": "Python 3",
+    "path": "codeforces\\510\\B.py",
+    "problem_index": "B",
+    "problem_name": "Fox And Two Dots",
+    "problem_url": "https://codeforces.com/contest/510/problem/B",
+    "submission_id": "CF91970989",
+    "submission_url": "https://codeforces.com/contest/510/submission/91970989",
+    "tags": [
+      "dfs and similar",
+      "*1500"
+    ],
+    "timestamp": "Sep/06/2020 02:25"
+  },
   "CF92029576": {
     "contest_id": 1405,
     "language": "Python 3",

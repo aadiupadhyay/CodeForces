@@ -2071,6 +2071,26 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF92086896": {
+    "contest_id": 1405,
+    "language": "Python 3",
+    "path": "codeforces\\1405\\D.py",
+    "problem_index": "D",
+    "problem_name": "Tree Tag",
+    "problem_url": "https://codeforces.com/contest/1405/problem/D",
+    "submission_id": "CF92086896",
+    "submission_url": "https://codeforces.com/contest/1405/submission/92086896",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "games",
+      "strings",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Sep/07/2020 00:59"
+  },
   "CF92087592": {
     "contest_id": 1405,
     "language": "Python 3",

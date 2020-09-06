@@ -1,4 +1,6 @@
-
+from __future__ import print_function
+range = xrange
+input = raw_input
 
 def Diameter(x):
     v[x]=True

@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF92029576": {
+    "contest_id": 1405,
+    "language": "Python 3",
+    "path": "codeforces\\1405\\A.py",
+    "problem_index": "A",
+    "problem_name": "Permutation Forgery",
+    "problem_url": "https://codeforces.com/contest/1405/problem/A",
+    "submission_id": "CF92029576",
+    "submission_url": "https://codeforces.com/contest/1405/submission/92029576",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Sep/06/2020 20:13"
+  },
   "CF92050661": {
     "contest_id": 1405,
     "language": "Python 3",

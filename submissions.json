@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF92303711": {
+    "contest_id": 1407,
+    "language": "PyPy 3",
+    "path": "codeforces\\1407\\A.py",
+    "problem_index": "A",
+    "problem_name": "Ahahahahahahahaha",
+    "problem_url": "https://codeforces.com/contest/1407/problem/A",
+    "submission_id": "CF92303711",
+    "submission_url": "https://codeforces.com/contest/1407/submission/92303711",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Sep/09/2020 02:37"
+  },
   "CF92378259": {
     "contest_id": 378,
     "language": "Python 3",

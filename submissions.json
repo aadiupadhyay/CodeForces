@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF92380174": {
+    "contest_id": 233,
+    "language": "Python 3",
+    "path": "codeforces\\233\\A.py",
+    "problem_index": "A",
+    "problem_name": "Perfect Permutation",
+    "problem_url": "https://codeforces.com/contest/233/problem/A",
+    "submission_id": "CF92380174",
+    "submission_url": "https://codeforces.com/contest/233/submission/92380174",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/10/2020 00:19"
+  },
   "CF92381049": {
     "contest_id": 496,
     "language": "Python 3",

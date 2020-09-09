@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF92378259": {
+    "contest_id": 378,
+    "language": "Python 3",
+    "path": "codeforces\\378\\A.py",
+    "problem_index": "A",
+    "problem_name": "Playing with Dice",
+    "problem_url": "https://codeforces.com/contest/378/problem/A",
+    "submission_id": "CF92378259",
+    "submission_url": "https://codeforces.com/contest/378/submission/92378259",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Sep/09/2020 23:45"
+  },
   "CF92379739": {
     "contest_id": 447,
     "language": "Python 3",

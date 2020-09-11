@@ -2071,6 +2071,25 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF92479619": {
+    "contest_id": 522,
+    "language": "Python 3",
+    "path": "codeforces\\522\\A.py",
+    "problem_index": "A",
+    "problem_name": "Reposts",
+    "problem_url": "https://codeforces.com/contest/522/problem/A",
+    "submission_id": "CF92479619",
+    "submission_url": "https://codeforces.com/contest/522/submission/92479619",
+    "tags": [
+      "*special problem",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*1200"
+    ],
+    "timestamp": "Sep/11/2020 13:38"
+  },
   "CF92485211": {
     "contest_id": 217,
     "language": "Python 3",

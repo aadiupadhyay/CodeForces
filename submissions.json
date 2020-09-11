@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF92485211": {
+    "contest_id": 217,
+    "language": "Python 3",
+    "path": "codeforces\\217\\A.py",
+    "problem_index": "A",
+    "problem_name": "Ice Skating",
+    "problem_url": "https://codeforces.com/contest/217/problem/A",
+    "submission_id": "CF92485211",
+    "submission_url": "https://codeforces.com/contest/217/submission/92485211",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1200"
+    ],
+    "timestamp": "Sep/11/2020 15:17"
+  },
   "CF92529375": {
     "contest_id": 710,
     "language": "Python 3",

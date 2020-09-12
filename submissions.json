@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF92667306": {
+    "contest_id": 1110,
+    "language": "PyPy 3",
+    "path": "codeforces\\1110\\A.py",
+    "problem_index": "A",
+    "problem_name": "Parity",
+    "problem_url": "https://codeforces.com/contest/1110/problem/A",
+    "submission_id": "CF92667306",
+    "submission_url": "https://codeforces.com/contest/1110/submission/92667306",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Sep/13/2020 02:54"
+  },
   "CF92748742": {
     "contest_id": 1379,
     "language": "PyPy 3",

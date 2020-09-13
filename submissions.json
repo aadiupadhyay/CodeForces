@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF92749219": {
+    "contest_id": 1379,
+    "language": "PyPy 3",
+    "path": "codeforces\\1379\\B.py",
+    "problem_index": "B",
+    "problem_name": "Dubious Cyrpto",
+    "problem_url": "https://codeforces.com/contest/1379/problem/B",
+    "submission_id": "CF92749219",
+    "submission_url": "https://codeforces.com/contest/1379/submission/92749219",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Sep/14/2020 02:14"
+  },
   "CF92775200": {
     "contest_id": 255,
     "language": "PyPy 3",

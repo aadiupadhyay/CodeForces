@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF92775837": {
+    "contest_id": 1144,
+    "language": "PyPy 3",
+    "path": "codeforces\\1144\\C.py",
+    "problem_index": "C",
+    "problem_name": "Two Shuffled Sequences",
+    "problem_url": "https://codeforces.com/contest/1144/problem/C",
+    "submission_id": "CF92775837",
+    "submission_url": "https://codeforces.com/contest/1144/submission/92775837",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Sep/14/2020 14:59"
+  },
   "CF92776122": {
     "contest_id": 630,
     "language": "PyPy 3",

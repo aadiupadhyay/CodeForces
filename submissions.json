@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF92928612": {
+    "contest_id": 165,
+    "language": "Python 3",
+    "path": "codeforces\\165\\A.py",
+    "problem_index": "A",
+    "problem_name": "Supercentral Point",
+    "problem_url": "https://codeforces.com/contest/165/problem/A",
+    "submission_id": "CF92928612",
+    "submission_url": "https://codeforces.com/contest/165/submission/92928612",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Sep/16/2020 00:12"
+  },
   "CF92929185": {
     "contest_id": 262,
     "language": "Python 3",

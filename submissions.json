@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF92925648": {
+    "contest_id": 1285,
+    "language": "Python 3",
+    "path": "codeforces\\1285\\B.py",
+    "problem_index": "B",
+    "problem_name": "Just Eat It!",
+    "problem_url": "https://codeforces.com/contest/1285/problem/B",
+    "submission_id": "CF92925648",
+    "submission_url": "https://codeforces.com/contest/1285/submission/92925648",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Sep/15/2020 23:21"
+  },
   "CF92926284": {
     "contest_id": 441,
     "language": "Python 3",

@@ -1,4 +1,20 @@
 {
+  "AC16827389": {
+    "contest_id": "dp",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\dp\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Frog 2",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_b",
+    "submission_id": "AC16827389",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/16827389",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/18/2020 23:01"
+  },
   "AC16828196": {
     "contest_id": "dp",
     "language": "PyPy3 (7.3.0)",

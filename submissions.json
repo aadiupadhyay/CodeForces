@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF93146856": {
+    "contest_id": 1363,
+    "language": "PyPy 3",
+    "path": "codeforces\\1363\\B.py",
+    "problem_index": "B",
+    "problem_name": "Subsequence Hate",
+    "problem_url": "https://codeforces.com/contest/1363/problem/B",
+    "submission_id": "CF93146856",
+    "submission_url": "https://codeforces.com/contest/1363/submission/93146856",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Sep/19/2020 00:51"
+  },
   "CF93216419": {
     "contest_id": 1419,
     "language": "PyPy 3",

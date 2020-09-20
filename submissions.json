@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF93366433": {
+    "contest_id": 977,
+    "language": "PyPy 3",
+    "path": "codeforces\\977\\D.py",
+    "problem_index": "D",
+    "problem_name": "Divide by three, multiply by two",
+    "problem_url": "https://codeforces.com/contest/977/problem/D",
+    "submission_id": "CF93366433",
+    "submission_url": "https://codeforces.com/contest/977/submission/93366433",
+    "tags": [
+      "dfs and similar",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Sep/21/2020 02:24"
+  },
   "CF93390934": {
     "contest_id": 977,
     "language": "PyPy 3",

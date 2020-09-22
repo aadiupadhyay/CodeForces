@@ -1,4 +1,20 @@
 {
+  "AC16962682": {
+    "contest_id": "dp",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\dp\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Vacation",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_c",
+    "submission_id": "AC16962682",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/16962682",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/23/2020 00:14"
+  },
   "AC16963052": {
     "contest_id": "dp",
     "language": "PyPy3 (7.3.0)",

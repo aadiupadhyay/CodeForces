@@ -1,4 +1,20 @@
 {
+  "AC16962329": {
+    "contest_id": "dp",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\dp\\E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Knapsack 2",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_e",
+    "submission_id": "AC16962329",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/16962329",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/22/2020 23:23"
+  },
   "AC16962560": {
     "contest_id": "dp",
     "language": "PyPy3 (7.3.0)",

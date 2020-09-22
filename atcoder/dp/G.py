@@ -10,8 +10,6 @@ pr=lambda n: stdout.write(str(n)+"\n")
 sys.setrecursionlimit(10**6)
 mod=1000000007
 def DFS(p):
-    if v[p]:
-        return L[p]
     v[p]=True
     for i in d[p]:
         if not v[i]:

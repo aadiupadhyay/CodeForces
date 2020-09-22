@@ -1,4 +1,20 @@
 {
+  "AC16963052": {
+    "contest_id": "dp",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\dp\\G.py",
+    "platform": "AtCoder",
+    "problem_index": "G",
+    "problem_name": "Longest Path",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_g",
+    "submission_id": "AC16963052",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/16963052",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/23/2020 01:30"
+  },
   "AC16963070": {
     "contest_id": "dp",
     "language": "PyPy3 (7.3.0)",

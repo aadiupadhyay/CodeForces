@@ -45,3 +45,4 @@ else:
         n=par[n]
     ans.append(1)
     print(*reversed(ans))
+    

@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF93596850": {
+    "contest_id": 1313,
+    "language": "Python 3",
+    "path": "codeforces\\1313\\A.py",
+    "problem_index": "A",
+    "problem_name": "Fast Food Restaurant",
+    "problem_url": "https://codeforces.com/contest/1313/problem/A",
+    "submission_id": "CF93596850",
+    "submission_url": "https://codeforces.com/contest/1313/submission/93596850",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Sep/24/2020 02:58"
+  },
   "CF93620350": {
     "contest_id": 501,
     "language": "Python 3",

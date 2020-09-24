@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF93731949": {
+    "contest_id": 9,
+    "language": "PyPy 3",
+    "path": "codeforces\\9\\A.py",
+    "problem_index": "A",
+    "problem_name": "Die Roll",
+    "problem_url": "https://codeforces.com/contest/9/problem/A",
+    "submission_id": "CF93731949",
+    "submission_url": "https://codeforces.com/contest/9/submission/93731949",
+    "tags": [
+      "math",
+      "probabilities",
+      "*800"
+    ],
+    "timestamp": "Sep/25/2020 01:42"
+  },
   "CF93776412": {
     "contest_id": 977,
     "language": "PyPy 3",

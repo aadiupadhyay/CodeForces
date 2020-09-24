@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF93624538": {
+    "contest_id": 353,
+    "language": "Python 3",
+    "path": "codeforces\\353\\A.py",
+    "problem_index": "A",
+    "problem_name": "Domino",
+    "problem_url": "https://codeforces.com/contest/353/problem/A",
+    "submission_id": "CF93624538",
+    "submission_url": "https://codeforces.com/contest/353/submission/93624538",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Sep/24/2020 14:32"
+  },
   "CF93625043": {
     "contest_id": 114,
     "language": "Python 3",

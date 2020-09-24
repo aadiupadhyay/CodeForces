@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF93629417": {
+    "contest_id": 488,
+    "language": "Python 3",
+    "path": "codeforces\\488\\A.py",
+    "problem_index": "A",
+    "problem_name": "Giga Tower",
+    "problem_url": "https://codeforces.com/contest/488/problem/A",
+    "submission_id": "CF93629417",
+    "submission_url": "https://codeforces.com/contest/488/submission/93629417",
+    "tags": [
+      "brute force",
+      "*1100"
+    ],
+    "timestamp": "Sep/24/2020 15:43"
+  },
   "CF93629681": {
     "contest_id": 224,
     "language": "Python 2",

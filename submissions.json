@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF93629681": {
+    "contest_id": 224,
+    "language": "Python 2",
+    "path": "codeforces\\224\\A.py",
+    "problem_index": "A",
+    "problem_name": "Parallelepiped",
+    "problem_url": "https://codeforces.com/contest/224/problem/A",
+    "submission_id": "CF93629681",
+    "submission_url": "https://codeforces.com/contest/224/submission/93629681",
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Sep/24/2020 15:46"
+  },
   "CF93630757": {
     "contest_id": 296,
     "language": "Python 3",

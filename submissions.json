@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF93621457": {
+    "contest_id": 350,
+    "language": "Python 3",
+    "path": "codeforces\\350\\A.py",
+    "problem_index": "A",
+    "problem_name": "TL",
+    "problem_url": "https://codeforces.com/contest/350/problem/A",
+    "submission_id": "CF93621457",
+    "submission_url": "https://codeforces.com/contest/350/submission/93621457",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Sep/24/2020 13:48"
+  },
   "CF93622155": {
     "contest_id": 152,
     "language": "Python 3",

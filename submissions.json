@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF93776412": {
+    "contest_id": 977,
+    "language": "PyPy 3",
+    "path": "codeforces\\977\\E.py",
+    "problem_index": "E",
+    "problem_name": "Cyclic Components",
+    "problem_url": "https://codeforces.com/contest/977/problem/E",
+    "submission_id": "CF93776412",
+    "submission_url": "https://codeforces.com/contest/977/submission/93776412",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "Sep/25/2020 16:31"
+  },
   "CF93776504": {
     "contest_id": 977,
     "language": "Python 3",

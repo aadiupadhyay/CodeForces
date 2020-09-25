@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF93820073": {
+    "contest_id": 755,
+    "language": "PyPy 3",
+    "path": "codeforces\\755\\A.py",
+    "problem_index": "A",
+    "problem_name": "PolandBall and Hypothesis",
+    "problem_url": "https://codeforces.com/contest/755/problem/A",
+    "submission_id": "CF93820073",
+    "submission_url": "https://codeforces.com/contest/755/submission/93820073",
+    "tags": [
+      "brute force",
+      "graphs",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Sep/26/2020 01:50"
+  },
   "CF93976625": {
     "contest_id": 1417,
     "language": "PyPy 3",

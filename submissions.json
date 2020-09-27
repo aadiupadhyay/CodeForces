@@ -1,4 +1,20 @@
 {
+  "AC17075671": {
+    "contest_id": "abl",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abl\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Integer Preference",
+    "problem_url": "https://atcoder.jp/contests/abl/tasks/abl_b",
+    "submission_id": "AC17075671",
+    "submission_url": "https://atcoder.jp/contests/abl/submissions/17075671",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/28/2020 00:44"
+  },
   "AC17075682": {
     "contest_id": "abl",
     "language": "PyPy3 (7.3.0)",

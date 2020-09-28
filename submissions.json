@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94153178": {
+    "contest_id": 1343,
+    "language": "PyPy 3",
+    "path": "codeforces\\1343\\B.py",
+    "problem_index": "B",
+    "problem_name": "Balanced Array",
+    "problem_url": "https://codeforces.com/contest/1343/problem/B",
+    "submission_id": "CF94153178",
+    "submission_url": "https://codeforces.com/contest/1343/submission/94153178",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/28/2020 23:03"
+  },
   "CF94153971": {
     "contest_id": 1343,
     "language": "PyPy 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94051086": {
+    "contest_id": 622,
+    "language": "PyPy 3",
+    "path": "codeforces\\622\\A.py",
+    "problem_index": "A",
+    "problem_name": "Infinite Sequence",
+    "problem_url": "https://codeforces.com/contest/622/problem/A",
+    "submission_id": "CF94051086",
+    "submission_url": "https://codeforces.com/contest/622/submission/94051086",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Sep/28/2020 11:10"
+  },
   "CF94052169": {
     "contest_id": 659,
     "language": "PyPy 3",

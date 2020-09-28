@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94114654": {
+    "contest_id": 1426,
+    "language": "PyPy 3",
+    "path": "codeforces\\1426\\D.py",
+    "problem_index": "D",
+    "problem_name": "Non-zero Segments",
+    "problem_url": "https://codeforces.com/contest/1426/problem/D",
+    "submission_id": "CF94114654",
+    "submission_url": "https://codeforces.com/contest/1426/submission/94114654",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Sep/28/2020 16:00"
+  },
   "CF94152100": {
     "contest_id": 1343,
     "language": "PyPy 3",

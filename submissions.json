@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94247132": {
+    "contest_id": 1263,
+    "language": "PyPy 3",
+    "path": "codeforces\\1263\\A.py",
+    "problem_index": "A",
+    "problem_name": "Sweet Problem",
+    "problem_url": "https://codeforces.com/contest/1263/problem/A",
+    "submission_id": "CF94247132",
+    "submission_url": "https://codeforces.com/contest/1263/submission/94247132",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Sep/30/2020 02:32"
+  },
   "CF94306134": {
     "contest_id": 1408,
     "language": "PyPy 3",

@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94204703": {
+    "contest_id": 962,
+    "language": "PyPy 3",
+    "path": "codeforces\\962\\B.py",
+    "problem_index": "B",
+    "problem_name": "Students in Railway Carriage",
+    "problem_url": "https://codeforces.com/contest/962/problem/B",
+    "submission_id": "CF94204703",
+    "submission_url": "https://codeforces.com/contest/962/submission/94204703",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Sep/29/2020 17:13"
+  },
   "CF94205777": {
     "contest_id": 777,
     "language": "PyPy 3",

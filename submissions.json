@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94245368": {
+    "contest_id": 1101,
+    "language": "PyPy 3",
+    "path": "codeforces\\1101\\B.py",
+    "problem_index": "B",
+    "problem_name": "Accordion",
+    "problem_url": "https://codeforces.com/contest/1101/problem/B",
+    "submission_id": "CF94245368",
+    "submission_url": "https://codeforces.com/contest/1101/submission/94245368",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Sep/30/2020 01:46"
+  },
   "CF94246247": {
     "contest_id": 610,
     "language": "PyPy 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94246247": {
+    "contest_id": 610,
+    "language": "PyPy 3",
+    "path": "codeforces\\610\\B.py",
+    "problem_index": "B",
+    "problem_name": "Vika and Squares",
+    "problem_url": "https://codeforces.com/contest/610/problem/B",
+    "submission_id": "CF94246247",
+    "submission_url": "https://codeforces.com/contest/610/submission/94246247",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Sep/30/2020 02:08"
+  },
   "CF94247132": {
     "contest_id": 1263,
     "language": "PyPy 3",

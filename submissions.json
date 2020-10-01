@@ -1,4 +1,20 @@
 {
+  "AC17132389": {
+    "contest_id": "abc166",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc166\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "I hate Factorization",
+    "problem_url": "https://atcoder.jp/contests/abc166/tasks/abc166_d",
+    "submission_id": "AC17132389",
+    "submission_url": "https://atcoder.jp/contests/abc166/submissions/17132389",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/02/2020 03:31"
+  },
   "AC17273577": {
     "contest_id": "abc161",
     "language": "PyPy3 (7.3.0)",

@@ -55,7 +55,7 @@ for  i in range(n):
             s=set()
             for x in range(4):
                 newX,newY= i+dx[x], j+dy[x]
-                if 0<=newX<n and 0<=newY<m:
+                if newX>=0 and newY>=0 and newX<n and newY<m:
                     if type(l[newX][newY])==tuple:
                         A,B=l[newX][newY]
                         if B not in s:

@@ -29,7 +29,7 @@ def DFS(i,j,val):
                 stack.append((newX,newY))
                 v[newX][newY]=True
                 connected.append((newX,newY))
-                ans= ans+1
+                ans= (ans%10 + 1%10) % 10
                 
     for i in connected:
         a,b=i

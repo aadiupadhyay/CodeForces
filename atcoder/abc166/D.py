@@ -8,8 +8,8 @@ pr=lambda n: stdout.write(str(n)+"\n")
 
 def solve():
     n=inp()
-    for i in range(-500,500):
-        for j in  range(-500,500):
+    for i in range(-1000,1000):
+        for j in  range(-1000,1000):
             if pow(i,5) - pow(j,5) == n:
                 print(i,j)
                 return

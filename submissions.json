@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94519539": {
+    "contest_id": 1063,
+    "language": "PyPy 3",
+    "path": "codeforces\\1063\\A.py",
+    "problem_index": "A",
+    "problem_name": "Oh Those Palindromes",
+    "problem_url": "https://codeforces.com/contest/1063/problem/A",
+    "submission_id": "CF94519539",
+    "submission_url": "https://codeforces.com/contest/1063/submission/94519539",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Oct/03/2020 01:05"
+  },
   "CF94521108": {
     "contest_id": 1016,
     "language": "PyPy 3",

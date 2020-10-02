@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94521108": {
+    "contest_id": 1016,
+    "language": "PyPy 3",
+    "path": "codeforces\\1016\\B.py",
+    "problem_index": "B",
+    "problem_name": "Segment Occurrences",
+    "problem_url": "https://codeforces.com/contest/1016/problem/B",
+    "submission_id": "CF94521108",
+    "submission_url": "https://codeforces.com/contest/1016/submission/94521108",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Oct/03/2020 01:40"
+  },
   "CF94522831": {
     "contest_id": 405,
     "language": "PyPy 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94621051": {
+    "contest_id": 628,
+    "language": "Python 3",
+    "path": "codeforces\\628\\C.py",
+    "problem_index": "C",
+    "problem_name": "Bear and String Distance",
+    "problem_url": "https://codeforces.com/contest/628/problem/C",
+    "submission_id": "CF94621051",
+    "submission_url": "https://codeforces.com/contest/628/submission/94621051",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Oct/04/2020 12:32"
+  },
   "CF94623532": {
     "contest_id": 1341,
     "language": "Python 3",

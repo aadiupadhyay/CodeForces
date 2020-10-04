@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94623532": {
+    "contest_id": 1341,
+    "language": "Python 3",
+    "path": "codeforces\\1341\\B.py",
+    "problem_index": "B",
+    "problem_name": "Nastya and Door",
+    "problem_url": "https://codeforces.com/contest/1341/problem/B",
+    "submission_id": "CF94623532",
+    "submission_url": "https://codeforces.com/contest/1341/submission/94623532",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Oct/04/2020 13:06"
+  },
   "CF94627133": {
     "contest_id": 743,
     "language": "Python 3",

@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94721969": {
+    "contest_id": 1138,
+    "language": "PyPy 3",
+    "path": "codeforces\\1138\\A.py",
+    "problem_index": "A",
+    "problem_name": "Sushi for Two",
+    "problem_url": "https://codeforces.com/contest/1138/problem/A",
+    "submission_id": "CF94721969",
+    "submission_url": "https://codeforces.com/contest/1138/submission/94721969",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Oct/05/2020 03:01"
+  },
   "CF94743461": {
     "contest_id": 1146,
     "language": "Python 3",

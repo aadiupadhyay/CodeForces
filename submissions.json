@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94743461": {
+    "contest_id": 1146,
+    "language": "Python 3",
+    "path": "codeforces\\1146\\B.py",
+    "problem_index": "B",
+    "problem_name": "Hate \"A\"",
+    "problem_url": "https://codeforces.com/contest/1146/problem/B",
+    "submission_id": "CF94743461",
+    "submission_url": "https://codeforces.com/contest/1146/submission/94743461",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Oct/05/2020 12:26"
+  },
   "CF94866249": {
     "contest_id": 1426,
     "language": "PyPy 3",

@@ -1,0 +1,6 @@
+n=int(input())
+a1,a2,a3=list(map(int,input().split()))
+b1,b2,b3=list(map(int,input().split()))
+m1=min(a1,b2)+min(a2,b3)+min(a3,b1)
+an=max(0,(a1+b2-n),(a2+b3-n),(a3+b1-n))
+print(an, m1)

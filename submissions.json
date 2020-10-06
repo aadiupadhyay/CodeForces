@@ -2071,6 +2071,25 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF94866249": {
+    "contest_id": 1426,
+    "language": "PyPy 3",
+    "path": "codeforces\\1426\\E.py",
+    "problem_index": "E",
+    "problem_name": "Rock, Paper, Scissors",
+    "problem_url": "https://codeforces.com/contest/1426/problem/E",
+    "submission_id": "CF94866249",
+    "submission_url": "https://codeforces.com/contest/1426/submission/94866249",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "flows",
+      "greedy",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Oct/06/2020 22:24"
+  },
   "CF94868834": {
     "contest_id": 58,
     "language": "Python 3",

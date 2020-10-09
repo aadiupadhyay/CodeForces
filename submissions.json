@@ -1,4 +1,20 @@
 {
+  "AC17273665": {
+    "contest_id": "abc161",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc161\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Popular Vote",
+    "problem_url": "https://atcoder.jp/contests/abc161/tasks/abc161_b",
+    "submission_id": "AC17273665",
+    "submission_url": "https://atcoder.jp/contests/abc161/submissions/17273665",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/10/2020 00:55"
+  },
   "AC17273693": {
     "contest_id": "abc161",
     "language": "PyPy3 (7.3.0)",

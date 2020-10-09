@@ -1,4 +1,20 @@
 {
+  "AC17273693": {
+    "contest_id": "abc161",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc161\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Replacing Integer",
+    "problem_url": "https://atcoder.jp/contests/abc161/tasks/abc161_c",
+    "submission_id": "AC17273693",
+    "submission_url": "https://atcoder.jp/contests/abc161/submissions/17273693",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/10/2020 01:01"
+  },
   "AC17273800": {
     "contest_id": "abc161",
     "language": "PyPy3 (7.3.0)",

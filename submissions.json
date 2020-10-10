@@ -1,4 +1,20 @@
 {
+  "AC17296473": {
+    "contest_id": "hhkb2020",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\hhkb2020\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Neq Min",
+    "problem_url": "https://atcoder.jp/contests/hhkb2020/tasks/hhkb2020_c",
+    "submission_id": "AC17296473",
+    "submission_url": "https://atcoder.jp/contests/hhkb2020/submissions/17296473",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/10/2020 17:39"
+  },
   "AC17304429": {
     "contest_id": "hhkb2020",
     "language": "PyPy3 (7.3.0)",

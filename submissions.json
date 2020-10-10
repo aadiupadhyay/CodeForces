@@ -1,4 +1,20 @@
 {
+  "AC17285400": {
+    "contest_id": "abc090",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc090\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Remainder Reminder",
+    "problem_url": "https://atcoder.jp/contests/abc090/tasks/arc091_b",
+    "submission_id": "AC17285400",
+    "submission_url": "https://atcoder.jp/contests/abc090/submissions/17285400",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/10/2020 15:40"
+  },
   "AC17288848": {
     "contest_id": "hhkb2020",
     "language": "PyPy3 (7.3.0)",

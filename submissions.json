@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF95061585": {
+    "contest_id": 250,
+    "language": "PyPy 3",
+    "path": "codeforces\\250\\A.py",
+    "problem_index": "A",
+    "problem_name": "Paper Work",
+    "problem_url": "https://codeforces.com/contest/250/problem/A",
+    "submission_id": "CF95061585",
+    "submission_url": "https://codeforces.com/contest/250/submission/95061585",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Oct/10/2020 13:44"
+  },
   "CF95065797": {
     "contest_id": 887,
     "language": "PyPy 3",

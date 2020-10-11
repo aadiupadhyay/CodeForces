@@ -1,4 +1,20 @@
 {
+  "AC17357090": {
+    "contest_id": "arc105",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\arc105\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Fourtune Cookies",
+    "problem_url": "https://atcoder.jp/contests/arc105/tasks/arc105_a",
+    "submission_id": "AC17357090",
+    "submission_url": "https://atcoder.jp/contests/arc105/submissions/17357090",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/12/2020 01:00"
+  },
   "AC17357299": {
     "contest_id": "abc153",
     "language": "PyPy3 (7.3.0)",

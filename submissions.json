@@ -1,4 +1,20 @@
 {
+  "AC17357306": {
+    "contest_id": "abc153",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc153\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Fennec vs Monster",
+    "problem_url": "https://atcoder.jp/contests/abc153/tasks/abc153_c",
+    "submission_id": "AC17357306",
+    "submission_url": "https://atcoder.jp/contests/abc153/submissions/17357306",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/12/2020 02:15"
+  },
   "AC17357352": {
     "contest_id": "abc153",
     "language": "PyPy3 (7.3.0)",

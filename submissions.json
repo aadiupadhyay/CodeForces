@@ -1,4 +1,20 @@
 {
+  "AC17357352": {
+    "contest_id": "abc153",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc153\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Caracal vs Monster",
+    "problem_url": "https://atcoder.jp/contests/abc153/tasks/abc153_d",
+    "submission_id": "AC17357352",
+    "submission_url": "https://atcoder.jp/contests/abc153/submissions/17357352",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/12/2020 02:27"
+  },
   "AC17427514": {
     "contest_id": "abc152",
     "language": "PyPy3 (7.3.0)",

@@ -1,4 +1,20 @@
 {
+  "AC17357299": {
+    "contest_id": "abc153",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc153\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Common Raccoon vs Monster",
+    "problem_url": "https://atcoder.jp/contests/abc153/tasks/abc153_b",
+    "submission_id": "AC17357299",
+    "submission_url": "https://atcoder.jp/contests/abc153/submissions/17357299",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/12/2020 02:12"
+  },
   "AC17357306": {
     "contest_id": "abc153",
     "language": "PyPy3 (7.3.0)",

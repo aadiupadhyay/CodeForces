@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF95363328": {
+    "contest_id": 1066,
+    "language": "PyPy 3",
+    "path": "codeforces\\1066\\A.py",
+    "problem_index": "A",
+    "problem_name": "Vova and Train",
+    "problem_url": "https://codeforces.com/contest/1066/problem/A",
+    "submission_id": "CF95363328",
+    "submission_url": "https://codeforces.com/contest/1066/submission/95363328",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Oct/12/2020 22:14"
+  },
   "CF95371839": {
     "contest_id": 96,
     "language": "PyPy 3",

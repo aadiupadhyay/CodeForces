@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF95460431": {
+    "contest_id": 1272,
+    "language": "Python 3",
+    "path": "codeforces\\1272\\E.py",
+    "problem_index": "E",
+    "problem_name": "Nearest Opposite Parity",
+    "problem_url": "https://codeforces.com/contest/1272/problem/E",
+    "submission_id": "CF95460431",
+    "submission_url": "https://codeforces.com/contest/1272/submission/95460431",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "Oct/14/2020 02:09"
+  },
   "CF95461993": {
     "contest_id": 1087,
     "language": "Python 3",

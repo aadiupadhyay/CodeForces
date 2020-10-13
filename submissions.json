@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF95449796": {
+    "contest_id": 1291,
+    "language": "PyPy 3",
+    "path": "codeforces\\1291\\B.py",
+    "problem_index": "B",
+    "problem_name": "Array Sharpening",
+    "problem_url": "https://codeforces.com/contest/1291/problem/B",
+    "submission_id": "CF95449796",
+    "submission_url": "https://codeforces.com/contest/1291/submission/95449796",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Oct/13/2020 22:53"
+  },
   "CF95460411": {
     "contest_id": 1272,
     "language": "PyPy 3",

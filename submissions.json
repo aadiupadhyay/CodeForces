@@ -2071,6 +2071,20 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF95461993": {
+    "contest_id": 1087,
+    "language": "Python 3",
+    "path": "codeforces\\1087\\B.py",
+    "problem_index": "B",
+    "problem_name": "Div Times Mod",
+    "problem_url": "https://codeforces.com/contest/1087/problem/B",
+    "submission_id": "CF95461993",
+    "submission_url": "https://codeforces.com/contest/1087/submission/95461993",
+    "tags": [
+      "*1100"
+    ],
+    "timestamp": "Oct/14/2020 02:55"
+  },
   "CF95485479": {
     "contest_id": 1300,
     "language": "PyPy 3",

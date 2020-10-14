@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF95501683": {
+    "contest_id": 128,
+    "language": "PyPy 2",
+    "path": "codeforces\\128\\A.py",
+    "problem_index": "A",
+    "problem_name": "Statues",
+    "problem_url": "https://codeforces.com/contest/128/problem/A",
+    "submission_id": "CF95501683",
+    "submission_url": "https://codeforces.com/contest/128/submission/95501683",
+    "tags": [
+      "dfs and similar",
+      "*1500"
+    ],
+    "timestamp": "Oct/14/2020 17:29"
+  },
   "CF95811345": {
     "contest_id": 1428,
     "language": "PyPy 3",

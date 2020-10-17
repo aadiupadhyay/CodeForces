@@ -1,4 +1,20 @@
 {
+  "AC17489770": {
+    "contest_id": "abc180",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc180\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Takahashi Unevolved",
+    "problem_url": "https://atcoder.jp/contests/abc180/tasks/abc180_d",
+    "submission_id": "AC17489770",
+    "submission_url": "https://atcoder.jp/contests/abc180/submissions/17489770",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/18/2020 01:16"
+  },
   "AC17563779": {
     "contest_id": "abc160",
     "language": "PyPy3 (7.3.0)",

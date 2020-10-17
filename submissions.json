@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF95811733": {
+    "contest_id": 1428,
+    "language": "PyPy 3",
+    "path": "codeforces\\1428\\B.py",
+    "problem_index": "B",
+    "problem_name": "Belted Rooms",
+    "problem_url": "https://codeforces.com/contest/1428/problem/B",
+    "submission_id": "CF95811733",
+    "submission_url": "https://codeforces.com/contest/1428/submission/95811733",
+    "tags": [
+      "graphs",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Oct/17/2020 22:04"
+  },
   "CF95811918": {
     "contest_id": 1428,
     "language": "PyPy 3",

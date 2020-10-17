@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF95822169": {
+    "contest_id": 1428,
+    "language": "PyPy 3",
+    "path": "codeforces\\1428\\D.py",
+    "problem_index": "D",
+    "problem_name": "Bouncing Boomerangs",
+    "problem_url": "https://codeforces.com/contest/1428/problem/D",
+    "submission_id": "CF95822169",
+    "submission_url": "https://codeforces.com/contest/1428/submission/95822169",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Oct/18/2020 00:35"
+  },
   "CF95861363": {
     "contest_id": 1421,
     "language": "PyPy 3",

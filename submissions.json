@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF95811345": {
+    "contest_id": 1428,
+    "language": "PyPy 3",
+    "path": "codeforces\\1428\\C.py",
+    "problem_index": "C",
+    "problem_name": "ABBB",
+    "problem_url": "https://codeforces.com/contest/1428/problem/C",
+    "submission_id": "CF95811345",
+    "submission_url": "https://codeforces.com/contest/1428/submission/95811345",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Oct/17/2020 22:01"
+  },
   "CF95811733": {
     "contest_id": 1428,
     "language": "PyPy 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF95931664": {
+    "contest_id": 379,
+    "language": "PyPy 3",
+    "path": "codeforces\\379\\B.py",
+    "problem_index": "B",
+    "problem_name": "New Year Present",
+    "problem_url": "https://codeforces.com/contest/379/problem/B",
+    "submission_id": "CF95931664",
+    "submission_url": "https://codeforces.com/contest/379/submission/95931664",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Oct/19/2020 01:31"
+  },
   "CF95932578": {
     "contest_id": 379,
     "language": "GNU C++14",

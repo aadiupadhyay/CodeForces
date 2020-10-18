@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF95900780": {
+    "contest_id": 1421,
+    "language": "PyPy 3",
+    "path": "codeforces\\1421\\C.py",
+    "problem_index": "C",
+    "problem_name": "Palindromifier",
+    "problem_url": "https://codeforces.com/contest/1421/problem/C",
+    "submission_id": "CF95900780",
+    "submission_url": "https://codeforces.com/contest/1421/submission/95900780",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Oct/18/2020 17:19"
+  },
   "CF95931017": {
     "contest_id": 379,
     "language": "PyPy 3",

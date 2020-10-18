@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF95861363": {
+    "contest_id": 1421,
+    "language": "PyPy 3",
+    "path": "codeforces\\1421\\A.py",
+    "problem_index": "A",
+    "problem_name": "XORwice",
+    "problem_url": "https://codeforces.com/contest/1421/problem/A",
+    "submission_id": "CF95861363",
+    "submission_url": "https://codeforces.com/contest/1421/submission/95861363",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/18/2020 14:43"
+  },
   "CF95882964": {
     "contest_id": 1421,
     "language": "PyPy 3",

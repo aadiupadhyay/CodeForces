@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF96149548": {
+    "contest_id": 1433,
+    "language": "PyPy 3",
+    "path": "codeforces\\1433\\D.py",
+    "problem_index": "D",
+    "problem_name": "Districts Connection",
+    "problem_url": "https://codeforces.com/contest/1433/problem/D",
+    "submission_id": "CF96149548",
+    "submission_url": "https://codeforces.com/contest/1433/submission/96149548",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "*1200"
+    ],
+    "timestamp": "Oct/20/2020 21:30"
+  },
   "CF96172747": {
     "contest_id": 1433,
     "language": "PyPy 3",

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF96172747": {
+    "contest_id": 1433,
+    "language": "PyPy 3",
+    "path": "codeforces\\1433\\E.py",
+    "problem_index": "E",
+    "problem_name": "Two Round Dances",
+    "problem_url": "https://codeforces.com/contest/1433/problem/E",
+    "submission_id": "CF96172747",
+    "submission_url": "https://codeforces.com/contest/1433/submission/96172747",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Oct/20/2020 22:57"
+  },
   "CF96300855": {
     "contest_id": 1330,
     "language": "PyPy 3",

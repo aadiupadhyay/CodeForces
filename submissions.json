@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF96473632": {
+    "contest_id": 1203,
+    "language": "PyPy 3",
+    "path": "codeforces\\1203\\D1.py",
+    "problem_index": "D1",
+    "problem_name": "Remove the Substring (easy version)",
+    "problem_url": "https://codeforces.com/contest/1203/problem/D1",
+    "submission_id": "CF96473632",
+    "submission_url": "https://codeforces.com/contest/1203/submission/96473632",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Oct/23/2020 23:43"
+  },
   "CF96547655": {
     "contest_id": 1436,
     "language": "PyPy 3",

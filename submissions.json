@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF96598274": {
+    "contest_id": 1436,
+    "language": "PyPy 3",
+    "path": "codeforces\\1436\\A.py",
+    "problem_index": "A",
+    "problem_name": "Reorder",
+    "problem_url": "https://codeforces.com/contest/1436/problem/A",
+    "submission_id": "CF96598274",
+    "submission_url": "https://codeforces.com/contest/1436/submission/96598274",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/24/2020 23:20"
+  },
   "CF96608268": {
     "contest_id": 1436,
     "language": "PyPy 3",

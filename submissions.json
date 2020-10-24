@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF96610796": {
+    "contest_id": 872,
+    "language": "PyPy 3",
+    "path": "codeforces\\872\\B.py",
+    "problem_index": "B",
+    "problem_name": "Maximum of Maximums of Minimums",
+    "problem_url": "https://codeforces.com/contest/872/problem/B",
+    "submission_id": "CF96610796",
+    "submission_url": "https://codeforces.com/contest/872/submission/96610796",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Oct/25/2020 01:30"
+  },
   "CF96656559": {
     "contest_id": 1435,
     "language": "PyPy 3",

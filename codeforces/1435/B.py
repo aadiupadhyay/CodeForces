@@ -9,7 +9,7 @@ pr=lambda n: stdout.write(str(n)+"\n")
 
 mod=1000000007
 INF=float('inf')
-#aaa
+
 def solve():
     n,m=mp()
     row,col=[],[]

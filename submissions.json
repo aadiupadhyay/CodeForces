@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF96711675": {
+    "contest_id": 1435,
+    "language": "PyPy 3",
+    "path": "codeforces\\1435\\B.py",
+    "problem_index": "B",
+    "problem_name": "A New Technique",
+    "problem_url": "https://codeforces.com/contest/1435/problem/B",
+    "submission_id": "CF96711675",
+    "submission_url": "https://codeforces.com/contest/1435/submission/96711675",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Oct/25/2020 20:56"
+  },
   "CF96711758": {
     "contest_id": 1435,
     "language": "PyPy 3",

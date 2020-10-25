@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF96721620": {
+    "contest_id": 1435,
+    "language": "Python 3",
+    "path": "codeforces\\1435\\D.py",
+    "problem_index": "D",
+    "problem_name": "Shurikens",
+    "problem_url": "https://codeforces.com/contest/1435/problem/D",
+    "submission_id": "CF96721620",
+    "submission_url": "https://codeforces.com/contest/1435/submission/96721620",
+    "tags": [
+      "data structures",
+      "greedy",
+      "schedules",
+      "*1700"
+    ],
+    "timestamp": "Oct/25/2020 23:25"
+  },
   "CF96755704": {
     "contest_id": 1257,
     "language": "Python 3",

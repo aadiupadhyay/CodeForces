@@ -45,10 +45,15 @@ def solve():
                     ans[ro][co]=k
                     ro+=1
         co+=1
-    print('\n'.join([' '.join([str(i) for i in j]) for j in ans]))
-          
+    for i in ans:
+        print(*i)
+            
+            
+        
+    
             
     
     
 for _ in range(inp()):
     solve()
+

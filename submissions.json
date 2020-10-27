@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF96938381": {
+    "contest_id": 1133,
+    "language": "PyPy 3",
+    "path": "codeforces\\1133\\F1.py",
+    "problem_index": "F1",
+    "problem_name": "Spanning Tree with Maximum Degree",
+    "problem_url": "https://codeforces.com/contest/1133/problem/F1",
+    "submission_id": "CF96938381",
+    "submission_url": "https://codeforces.com/contest/1133/submission/96938381",
+    "tags": [
+      "graphs",
+      "*1600"
+    ],
+    "timestamp": "Oct/28/2020 00:55"
+  },
   "CF96938417": {
     "contest_id": 1133,
     "language": "Python 3",

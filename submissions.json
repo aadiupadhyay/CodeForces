@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF96934023": {
+    "contest_id": 1437,
+    "language": "Python 3",
+    "path": "codeforces\\1437\\D.py",
+    "problem_index": "D",
+    "problem_name": "Minimal Height Tree",
+    "problem_url": "https://codeforces.com/contest/1437/problem/D",
+    "submission_id": "CF96934023",
+    "submission_url": "https://codeforces.com/contest/1437/submission/96934023",
+    "tags": [
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Oct/27/2020 23:36"
+  },
   "CF96934073": {
     "contest_id": 1437,
     "language": "Python 3",

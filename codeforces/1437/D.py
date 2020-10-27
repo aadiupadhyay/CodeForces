@@ -41,7 +41,7 @@ def solve():
                 level[i]=b+1
                 q.append((i,level[i]))
                 ans=max(ans,level[i])
-    pr(ans)
+    ANS.append(ans)
                 
                 
         
@@ -49,4 +49,4 @@ def solve():
     
 for _ in range(inp()):
     solve()
-#pr('\n'.join(map(str,ANS)))
+pr('\n'.join(map(str,ANS)))

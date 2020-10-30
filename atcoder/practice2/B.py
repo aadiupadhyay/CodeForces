@@ -10,30 +10,49 @@ pr=lambda n: stdout.write(str(n)+"\n")
 mod=1000000007
 INF=float('inf')
 
-def update(ind,val,n):
-    while ind <= n:
-        BIT[ind]+=val
-        ind+= ind&(-ind)
+def BUILD(ind, ss, se):
+    if ss==se:
+        seg[ind]= l[ss]
+        return
+    mid= (ss+se) >>1
+    BUILD(2*ind+1, ss,mid)
+    BUILD(2*ind+2,mid+1,se)
+
+    seg[ind]=seg[2*ind+1] + seg[2*ind+2]
+
+
+def UPDATE(ind,ss,se,pos):
+    if ss==se:
+        seg[ind]=l[ss]
+        return
+    mid = (ss+se)>>1
+    if mid>=pos:
+        UPDATE(2*ind+1,ss,mid,pos)
+    else:
+        UPDATE(2*ind+2,mid+1,se,pos)
         
-def su(ind,n):
-    s=0
-    while ind>0:
-        s+=BIT[ind]
-        ind-= ind&(-ind)
-    return s
-        
+    seg[ind]=seg[2*ind+1] + seg[2*ind+2]
     
 
-n,q=mp()
-l=['x']+li()
-BIT=[0 for i in range(n+20)]
-for i in range(1,n+1):
-    update(i,l[i],n)
+def QUERY(ind,ss,se,qs,qe):
+    if ss> qe or se<qs:
+        return 0
+    if ss>=qs and se<=qe:
+        return seg[ind]
+    mid= (ss+se)>>1
+    return  QUERY(2*ind +1 ,ss,mid,qs,qe) + QUERY(2*ind+2,mid+1,se,qs,qe)
+
+
+n,q = mp()
+l=li()
+seg=[0 for i in range(4*n)]
+BUILD(0,0,n-1)  #index , segment start , segment end
 ans=[]
 for i in range(q):
-    a,b,c=mp()
+    a,b,c= mp()
     if a==0:
-        update(b+1,c,n)
+        l[b]+=c
+        UPDATE(0,0,n-1,b)
     else:
-        ans.append(su(c,n)-su(b,n))
-print('\n'.join(map(str,ans)))
+        ans.append(QUERY(0,0,n-1,b,c-1))
+pr('\n'.join(map(str,ans)))

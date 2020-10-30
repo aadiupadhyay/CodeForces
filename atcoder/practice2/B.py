@@ -47,12 +47,10 @@ n,q = mp()
 l=li()
 seg=[0 for i in range(4*n)]
 BUILD(0,0,n-1)  #index , segment start , segment end
-ans=[]
 for i in range(q):
     a,b,c= mp()
     if a==0:
         l[b]+=c
         UPDATE(0,0,n-1,b)
     else:
-        ans.append(QUERY(0,0,n-1,b,c-1))
-pr('\n'.join(map(str,ans)))
+        print(QUERY(0,0,n-1,b,c-1))

@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF97308541": {
+    "contest_id": 1445,
+    "language": "PyPy 3",
+    "path": "codeforces\\1445\\A.py",
+    "problem_index": "A",
+    "problem_name": "Array Rearrangment",
+    "problem_url": "https://codeforces.com/contest/1445/problem/A",
+    "submission_id": "CF97308541",
+    "submission_url": "https://codeforces.com/contest/1445/submission/97308541",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/01/2020 16:43"
+  },
   "CF97337164": {
     "contest_id": 1445,
     "language": "PyPy 3",

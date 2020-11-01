@@ -1,4 +1,20 @@
 {
+  "AC17788807": {
+    "contest_id": "abc181",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc181\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Trapezoid Sum",
+    "problem_url": "https://atcoder.jp/contests/abc181/tasks/abc181_b",
+    "submission_id": "AC17788807",
+    "submission_url": "https://atcoder.jp/contests/abc181/submissions/17788807",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/01/2020 17:37"
+  },
   "AC17802436": {
     "contest_id": "abc181",
     "language": "PyPy3 (7.3.0)",

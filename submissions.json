@@ -1,4 +1,20 @@
 {
+  "AC17847424": {
+    "contest_id": "arc107",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\arc107\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Simple Math",
+    "problem_url": "https://atcoder.jp/contests/arc107/tasks/arc107_a",
+    "submission_id": "AC17847424",
+    "submission_url": "https://atcoder.jp/contests/arc107/submissions/17847424",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/03/2020 00:18"
+  },
   "AC17865063": {
     "contest_id": "practice2",
     "language": "PyPy3 (7.3.0)",

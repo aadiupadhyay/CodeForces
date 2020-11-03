@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF97587916": {
+    "contest_id": 746,
+    "language": "PyPy 3",
+    "path": "codeforces\\746\\A.py",
+    "problem_index": "A",
+    "problem_name": "Compote",
+    "problem_url": "https://codeforces.com/contest/746/problem/A",
+    "submission_id": "CF97587916",
+    "submission_url": "https://codeforces.com/contest/746/submission/97587916",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/04/2020 00:41"
+  },
   "CF97588070": {
     "contest_id": 939,
     "language": "PyPy 3",

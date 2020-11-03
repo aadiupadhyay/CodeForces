@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF97588070": {
+    "contest_id": 939,
+    "language": "PyPy 3",
+    "path": "codeforces\\939\\A.py",
+    "problem_index": "A",
+    "problem_name": "Love Triangle",
+    "problem_url": "https://codeforces.com/contest/939/problem/A",
+    "submission_id": "CF97588070",
+    "submission_url": "https://codeforces.com/contest/939/submission/97588070",
+    "tags": [
+      "graphs",
+      "*800"
+    ],
+    "timestamp": "Nov/04/2020 00:45"
+  },
   "CF97615567": {
     "contest_id": 352,
     "language": "PyPy 3",

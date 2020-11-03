@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF97585919": {
+    "contest_id": 779,
+    "language": "PyPy 3",
+    "path": "codeforces\\779\\A.py",
+    "problem_index": "A",
+    "problem_name": "Pupils Redistribution",
+    "problem_url": "https://codeforces.com/contest/779/problem/A",
+    "submission_id": "CF97585919",
+    "submission_url": "https://codeforces.com/contest/779/submission/97585919",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Nov/04/2020 00:04"
+  },
   "CF97587202": {
     "contest_id": 1047,
     "language": "PyPy 3",

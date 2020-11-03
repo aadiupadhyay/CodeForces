@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF97582287": {
+    "contest_id": 1174,
+    "language": "PyPy 3",
+    "path": "codeforces\\1174\\A.py",
+    "problem_index": "A",
+    "problem_name": "Ehab Fails to Be Thanos",
+    "problem_url": "https://codeforces.com/contest/1174/problem/A",
+    "submission_id": "CF97582287",
+    "submission_url": "https://codeforces.com/contest/1174/submission/97582287",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Nov/03/2020 23:02"
+  },
   "CF97582935": {
     "contest_id": 1136,
     "language": "PyPy 3",

@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF97657299": {
+    "contest_id": 49,
+    "language": "PyPy 3",
+    "path": "codeforces\\49\\A.py",
+    "problem_index": "A",
+    "problem_name": "Sleuth",
+    "problem_url": "https://codeforces.com/contest/49/problem/A",
+    "submission_id": "CF97657299",
+    "submission_url": "https://codeforces.com/contest/49/submission/97657299",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/05/2020 00:12"
+  },
   "CF97764287": {
     "contest_id": 417,
     "language": "PyPy 3",

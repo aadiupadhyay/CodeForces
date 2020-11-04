@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF97655043": {
+    "contest_id": 448,
+    "language": "PyPy 3",
+    "path": "codeforces\\448\\A.py",
+    "problem_index": "A",
+    "problem_name": "Rewards",
+    "problem_url": "https://codeforces.com/contest/448/problem/A",
+    "submission_id": "CF97655043",
+    "submission_url": "https://codeforces.com/contest/448/submission/97655043",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/04/2020 23:30"
+  },
   "CF97657299": {
     "contest_id": 49,
     "language": "PyPy 3",

@@ -1,4 +1,20 @@
 {
+  "AC17882589": {
+    "contest_id": "arc105",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\arc105\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "MAX-=min",
+    "problem_url": "https://atcoder.jp/contests/arc105/tasks/arc105_b",
+    "submission_id": "AC17882589",
+    "submission_url": "https://atcoder.jp/contests/arc105/submissions/17882589",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/05/2020 01:06"
+  },
   "AC18001538": {
     "contest_id": "abc182",
     "language": "PyPy3 (7.3.0)",

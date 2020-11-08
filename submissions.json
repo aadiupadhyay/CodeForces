@@ -1,4 +1,20 @@
 {
+  "AC18001804": {
+    "contest_id": "abc182",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc182\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Almost GCD",
+    "problem_url": "https://atcoder.jp/contests/abc182/tasks/abc182_b",
+    "submission_id": "AC18001804",
+    "submission_url": "https://atcoder.jp/contests/abc182/submissions/18001804",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/08/2020 22:52"
+  },
   "AC18002116": {
     "contest_id": "abc182",
     "language": "PyPy3 (7.3.0)",

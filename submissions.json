@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF98023630": {
+    "contest_id": 1424,
+    "language": "PyPy 3",
+    "path": "codeforces\\1424\\J.py",
+    "problem_index": "J",
+    "problem_name": "Lonely Numbers",
+    "problem_url": "https://codeforces.com/contest/1424/problem/J",
+    "submission_id": "CF98023630",
+    "submission_url": "https://codeforces.com/contest/1424/submission/98023630",
+    "tags": [
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Nov/10/2020 02:59"
+  },
   "CF98282295": {
     "contest_id": 1438,
     "language": "PyPy 3",

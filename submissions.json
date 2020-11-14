@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF98392672": {
+    "contest_id": 29,
+    "language": "PyPy 3",
+    "path": "codeforces\\29\\B.py",
+    "problem_index": "B",
+    "problem_name": "Traffic Lights",
+    "problem_url": "https://codeforces.com/contest/29/problem/B",
+    "submission_id": "CF98392672",
+    "submission_url": "https://codeforces.com/contest/29/submission/98392672",
+    "tags": [
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Nov/14/2020 22:07"
+  },
   "CF98429077": {
     "contest_id": 1096,
     "language": "PyPy 3",

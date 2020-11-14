@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF98392560": {
+    "contest_id": 653,
+    "language": "PyPy 3",
+    "path": "codeforces\\653\\A.py",
+    "problem_index": "A",
+    "problem_name": "Bear and Three Balls",
+    "problem_url": "https://codeforces.com/contest/653/problem/A",
+    "submission_id": "CF98392560",
+    "submission_url": "https://codeforces.com/contest/653/submission/98392560",
+    "tags": [
+      "brute force",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Nov/14/2020 22:05"
+  },
   "CF98392672": {
     "contest_id": 29,
     "language": "PyPy 3",

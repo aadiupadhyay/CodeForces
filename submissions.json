@@ -2071,6 +2071,23 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF98429077": {
+    "contest_id": 1096,
+    "language": "PyPy 3",
+    "path": "codeforces\\1096\\B.py",
+    "problem_index": "B",
+    "problem_name": "Substring Removal",
+    "problem_url": "https://codeforces.com/contest/1096/problem/B",
+    "submission_id": "CF98429077",
+    "submission_url": "https://codeforces.com/contest/1096/submission/98429077",
+    "tags": [
+      "combinatorics",
+      "math",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Nov/15/2020 15:44"
+  },
   "CF98494665": {
     "contest_id": 1447,
     "language": "PyPy 3",

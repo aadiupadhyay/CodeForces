@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF98711811": {
+    "contest_id": 1440,
+    "language": "PyPy 3",
+    "path": "codeforces\\1440\\B.py",
+    "problem_index": "B",
+    "problem_name": "Sum of Medians",
+    "problem_url": "https://codeforces.com/contest/1440/problem/B",
+    "submission_id": "CF98711811",
+    "submission_url": "https://codeforces.com/contest/1440/submission/98711811",
+    "tags": [
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Nov/17/2020 20:57"
+  },
   "CF98749387": {
     "contest_id": 1440,
     "language": "PyPy 3",

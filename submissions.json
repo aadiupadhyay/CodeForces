@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF98877506": {
+    "contest_id": 1352,
+    "language": "PyPy 3",
+    "path": "codeforces\\1352\\G.py",
+    "problem_index": "G",
+    "problem_name": "Special Permutation",
+    "problem_url": "https://codeforces.com/contest/1352/problem/G",
+    "submission_id": "CF98877506",
+    "submission_url": "https://codeforces.com/contest/1352/submission/98877506",
+    "tags": [
+      "constructive algorithms",
+      "*1600"
+    ],
+    "timestamp": "Nov/19/2020 15:58"
+  },
   "CF98898729": {
     "contest_id": 1452,
     "language": "PyPy 3",

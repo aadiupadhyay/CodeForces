@@ -30,7 +30,7 @@ def solve():
     while x>=2:
         ans.append(x)
         x-=2
-    print(' '.join(map(str,ans)))
+    print(*ans)
 
         
             

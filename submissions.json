@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF98898729": {
+    "contest_id": 1452,
+    "language": "PyPy 3",
+    "path": "codeforces\\1452\\C.py",
+    "problem_index": "C",
+    "problem_name": "Two Brackets",
+    "problem_url": "https://codeforces.com/contest/1452/problem/C",
+    "submission_id": "CF98898729",
+    "submission_url": "https://codeforces.com/contest/1452/submission/98898729",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Nov/19/2020 20:12"
+  },
   "CF98904907": {
     "contest_id": 1452,
     "language": "PyPy 3",

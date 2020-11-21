@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF99144373": {
+    "contest_id": 1451,
+    "language": "PyPy 3",
+    "path": "codeforces\\1451\\B.py",
+    "problem_index": "B",
+    "problem_name": "Non-Substring Subsequence",
+    "problem_url": "https://codeforces.com/contest/1451/problem/B",
+    "submission_id": "CF99144373",
+    "submission_url": "https://codeforces.com/contest/1451/submission/99144373",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Nov/21/2020 20:35"
+  },
   "CF99159487": {
     "contest_id": 1451,
     "language": "PyPy 3",

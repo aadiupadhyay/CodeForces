@@ -1,4 +1,20 @@
 {
+  "AC18289804": {
+    "contest_id": "arc108",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\arc108\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Sum and Product",
+    "problem_url": "https://atcoder.jp/contests/arc108/tasks/arc108_a",
+    "submission_id": "AC18289804",
+    "submission_url": "https://atcoder.jp/contests/arc108/submissions/18289804",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/22/2020 02:42"
+  },
   "AC18289926": {
     "contest_id": "arc108",
     "language": "PyPy3 (7.3.0)",

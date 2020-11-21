@@ -1,4 +1,20 @@
 {
+  "AC18289926": {
+    "contest_id": "arc108",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\arc108\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Abbreviate Fox",
+    "problem_url": "https://atcoder.jp/contests/arc108/tasks/arc108_b",
+    "submission_id": "AC18289926",
+    "submission_url": "https://atcoder.jp/contests/arc108/submissions/18289926",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/22/2020 03:00"
+  },
   "AC18355500": {
     "contest_id": "abc184",
     "language": "PyPy3 (7.3.0)",

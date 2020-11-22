@@ -1,4 +1,20 @@
 {
+  "AC18355500": {
+    "contest_id": "abc184",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc184\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Determinant",
+    "problem_url": "https://atcoder.jp/contests/abc184/tasks/abc184_a",
+    "submission_id": "AC18355500",
+    "submission_url": "https://atcoder.jp/contests/abc184/submissions/18355500",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/22/2020 23:49"
+  },
   "AC18355522": {
     "contest_id": "abc184",
     "language": "PyPy3 (7.3.0)",

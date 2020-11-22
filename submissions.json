@@ -2071,6 +2071,24 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF99277042": {
+    "contest_id": 1451,
+    "language": "PyPy 3",
+    "path": "codeforces\\1451\\E1.py",
+    "problem_index": "E1",
+    "problem_name": "Bitwise Queries (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1451/problem/E1",
+    "submission_id": "CF99277042",
+    "submission_url": "https://codeforces.com/contest/1451/submission/99277042",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Nov/23/2020 01:05"
+  },
   "CF99353183": {
     "contest_id": 1108,
     "language": "PyPy 3",

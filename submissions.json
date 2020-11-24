@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF99422281": {
+    "contest_id": 1454,
+    "language": "PyPy 3",
+    "path": "codeforces\\1454\\B.py",
+    "problem_index": "B",
+    "problem_name": "Unique Bid Auction",
+    "problem_url": "https://codeforces.com/contest/1454/problem/B",
+    "submission_id": "CF99422281",
+    "submission_url": "https://codeforces.com/contest/1454/submission/99422281",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/24/2020 20:15"
+  },
   "CF99458558": {
     "contest_id": 1454,
     "language": "PyPy 3",

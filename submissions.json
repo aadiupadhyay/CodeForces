@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF99458558": {
+    "contest_id": 1454,
+    "language": "PyPy 3",
+    "path": "codeforces\\1454\\C.py",
+    "problem_index": "C",
+    "problem_name": "Sequence Transformation",
+    "problem_url": "https://codeforces.com/contest/1454/problem/C",
+    "submission_id": "CF99458558",
+    "submission_url": "https://codeforces.com/contest/1454/submission/99458558",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Nov/24/2020 21:01"
+  },
   "CF99486126": {
     "contest_id": 1454,
     "language": "PyPy 3",

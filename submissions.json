@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF99413125": {
+    "contest_id": 1454,
+    "language": "PyPy 3",
+    "path": "codeforces\\1454\\A.py",
+    "problem_index": "A",
+    "problem_name": "Special Permutation",
+    "problem_url": "https://codeforces.com/contest/1454/problem/A",
+    "submission_id": "CF99413125",
+    "submission_url": "https://codeforces.com/contest/1454/submission/99413125",
+    "tags": [
+      "constructive algorithms",
+      "probabilities",
+      "*800"
+    ],
+    "timestamp": "Nov/24/2020 20:09"
+  },
   "CF99422281": {
     "contest_id": 1454,
     "language": "PyPy 3",

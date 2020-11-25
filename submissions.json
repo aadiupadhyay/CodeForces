@@ -2071,6 +2071,21 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF99584637": {
+    "contest_id": 1243,
+    "language": "PyPy 3",
+    "path": "codeforces\\1243\\A.py",
+    "problem_index": "A",
+    "problem_name": "Maximum Square",
+    "problem_url": "https://codeforces.com/contest/1243/problem/A",
+    "submission_id": "CF99584637",
+    "submission_url": "https://codeforces.com/contest/1243/submission/99584637",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/25/2020 22:51"
+  },
   "CF99586028": {
     "contest_id": 1243,
     "language": "PyPy 3",

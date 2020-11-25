@@ -1,4 +1,20 @@
 {
+  "AC18410500": {
+    "contest_id": "dp",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\dp\\H.py",
+    "platform": "AtCoder",
+    "problem_index": "H",
+    "problem_name": "Grid 1",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_h",
+    "submission_id": "AC18410500",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/18410500",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/26/2020 00:20"
+  },
   "AC18425474": {
     "contest_id": "acl1",
     "language": "PyPy3 (7.3.0)",

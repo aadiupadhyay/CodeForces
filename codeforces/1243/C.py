@@ -1,0 +1,17 @@
+n=int(input())
+i=2
+l=[]
+while(i*i<=n):
+    if(n%i==0):
+        l.append(i)
+        while(n%i==0):
+            n=n//i
+    i+=1
+if(n!=1):
+    l.append(n)
+if(len(l)>1):
+    print(1)
+elif(len(l)==1):
+    print(l[0])
+elif(n==1):
+    print(1)

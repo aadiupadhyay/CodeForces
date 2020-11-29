@@ -2071,6 +2071,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF99858316": {
+    "contest_id": 1457,
+    "language": "PyPy 3",
+    "path": "codeforces\\1457\\B.py",
+    "problem_index": "B",
+    "problem_name": "Repainting Street",
+    "problem_url": "https://codeforces.com/contest/1457/problem/B",
+    "submission_id": "CF99858316",
+    "submission_url": "https://codeforces.com/contest/1457/submission/99858316",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Nov/29/2020 13:09"
+  },
   "CF99928922": {
     "contest_id": 1457,
     "language": "PyPy 3",

@@ -1,4 +1,20 @@
 {
+  "AC18495045": {
+    "contest_id": "arc109",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\arc109\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Hands",
+    "problem_url": "https://atcoder.jp/contests/arc109/tasks/arc109_a",
+    "submission_id": "AC18495045",
+    "submission_url": "https://atcoder.jp/contests/arc109/submissions/18495045",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/30/2020 01:48"
+  },
   "AC18648439": {
     "contest_id": "arc110",
     "language": "PyPy3 (7.3.0)",

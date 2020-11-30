@@ -1,4 +1,20 @@
 {
+  "CF100063108": {
+    "contest_id": 277,
+    "language": "PyPy 3",
+    "path": "codeforces\\277\\A.py",
+    "problem_index": "A",
+    "problem_name": "Learning Languages",
+    "problem_url": "https://codeforces.com/contest/277/problem/A",
+    "submission_id": "CF100063108",
+    "submission_url": "https://codeforces.com/contest/277/submission/100063108",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "*1400"
+    ],
+    "timestamp": "Dec/01/2020 00:22"
+  },
   "CF100174682": {
     "contest_id": 1176,
     "language": "PyPy 3",

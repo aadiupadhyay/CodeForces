@@ -1,4 +1,21 @@
 {
+  "CF100054565": {
+    "contest_id": 1455,
+    "language": "PyPy 3",
+    "path": "codeforces\\1455\\D.py",
+    "problem_index": "D",
+    "problem_name": "Sequence and Swaps",
+    "problem_url": "https://codeforces.com/contest/1455/problem/D",
+    "submission_id": "CF100054565",
+    "submission_url": "https://codeforces.com/contest/1455/submission/100054565",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Nov/30/2020 22:20"
+  },
   "CF100063108": {
     "contest_id": 277,
     "language": "PyPy 3",

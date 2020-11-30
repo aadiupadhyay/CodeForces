@@ -1,4 +1,20 @@
 {
+  "CF100054486": {
+    "contest_id": 1455,
+    "language": "PyPy 3",
+    "path": "codeforces\\1455\\B.py",
+    "problem_index": "B",
+    "problem_name": "Jumps",
+    "problem_url": "https://codeforces.com/contest/1455/problem/B",
+    "submission_id": "CF100054486",
+    "submission_url": "https://codeforces.com/contest/1455/submission/100054486",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Nov/30/2020 22:19"
+  },
   "CF100054537": {
     "contest_id": 1455,
     "language": "PyPy 3",

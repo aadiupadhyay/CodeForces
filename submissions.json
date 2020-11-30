@@ -1,4 +1,20 @@
 {
+  "CF100054430": {
+    "contest_id": 1455,
+    "language": "PyPy 3",
+    "path": "codeforces\\1455\\A.py",
+    "problem_index": "A",
+    "problem_name": "Strange Functions",
+    "problem_url": "https://codeforces.com/contest/1455/problem/A",
+    "submission_id": "CF100054430",
+    "submission_url": "https://codeforces.com/contest/1455/submission/100054430",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Nov/30/2020 22:18"
+  },
   "CF100054486": {
     "contest_id": 1455,
     "language": "PyPy 3",

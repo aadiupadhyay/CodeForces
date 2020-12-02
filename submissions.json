@@ -1,4 +1,21 @@
 {
+  "CF100177526": {
+    "contest_id": 1176,
+    "language": "PyPy 3",
+    "path": "codeforces\\1176\\C.py",
+    "problem_index": "C",
+    "problem_name": "Lose it!",
+    "problem_url": "https://codeforces.com/contest/1176/problem/C",
+    "submission_id": "CF100177526",
+    "submission_url": "https://codeforces.com/contest/1176/submission/100177526",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Dec/02/2020 15:42"
+  },
   "CF100216202": {
     "contest_id": 377,
     "language": "PyPy 3",

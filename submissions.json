@@ -1,4 +1,19 @@
 {
+  "CF100174682": {
+    "contest_id": 1176,
+    "language": "PyPy 3",
+    "path": "codeforces\\1176\\B.py",
+    "problem_index": "B",
+    "problem_name": "Merge it!",
+    "problem_url": "https://codeforces.com/contest/1176/problem/B",
+    "submission_id": "CF100174682",
+    "submission_url": "https://codeforces.com/contest/1176/submission/100174682",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Dec/02/2020 14:59"
+  },
   "CF100177526": {
     "contest_id": 1176,
     "language": "PyPy 3",

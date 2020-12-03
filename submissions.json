@@ -1,4 +1,20 @@
 {
+  "CF100305037": {
+    "contest_id": 1234,
+    "language": "PyPy 3",
+    "path": "codeforces\\1234\\B2.py",
+    "problem_index": "B2",
+    "problem_name": "Social Network (hard version)",
+    "problem_url": "https://codeforces.com/contest/1234/problem/B2",
+    "submission_id": "CF100305037",
+    "submission_url": "https://codeforces.com/contest/1234/submission/100305037",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Dec/04/2020 02:12"
+  },
   "CF100355040": {
     "contest_id": 1453,
     "language": "PyPy 3",

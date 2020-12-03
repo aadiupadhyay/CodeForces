@@ -1,4 +1,22 @@
 {
+  "CF100298048": {
+    "contest_id": 1149,
+    "language": "PyPy 3",
+    "path": "codeforces\\1149\\A.py",
+    "problem_index": "A",
+    "problem_name": "Prefix Sum Primes",
+    "problem_url": "https://codeforces.com/contest/1149/problem/A",
+    "submission_id": "CF100298048",
+    "submission_url": "https://codeforces.com/contest/1149/submission/100298048",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Dec/03/2020 23:45"
+  },
   "CF100298119": {
     "contest_id": 1150,
     "language": "PyPy 3",

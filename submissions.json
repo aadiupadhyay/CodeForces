@@ -1,4 +1,19 @@
 {
+  "CF100293693": {
+    "contest_id": 1092,
+    "language": "PyPy 3",
+    "path": "codeforces\\1092\\B.py",
+    "problem_index": "B",
+    "problem_name": "Teams Forming",
+    "problem_url": "https://codeforces.com/contest/1092/problem/B",
+    "submission_id": "CF100293693",
+    "submission_url": "https://codeforces.com/contest/1092/submission/100293693",
+    "tags": [
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Dec/03/2020 22:41"
+  },
   "CF100294130": {
     "contest_id": 831,
     "language": "PyPy 3",

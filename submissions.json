@@ -1,4 +1,19 @@
 {
+  "CF100302676": {
+    "contest_id": 1234,
+    "language": "PyPy 3",
+    "path": "codeforces\\1234\\B1.py",
+    "problem_index": "B1",
+    "problem_name": "Social Network (easy version)",
+    "problem_url": "https://codeforces.com/contest/1234/problem/B1",
+    "submission_id": "CF100302676",
+    "submission_url": "https://codeforces.com/contest/1234/submission/100302676",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/04/2020 01:11"
+  },
   "CF100305037": {
     "contest_id": 1234,
     "language": "PyPy 3",

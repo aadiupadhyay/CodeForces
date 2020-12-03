@@ -1,4 +1,20 @@
 {
+  "CF100298690": {
+    "contest_id": 1132,
+    "language": "PyPy 3",
+    "path": "codeforces\\1132\\B.py",
+    "problem_index": "B",
+    "problem_name": "Discounts",
+    "problem_url": "https://codeforces.com/contest/1132/problem/B",
+    "submission_id": "CF100298690",
+    "submission_url": "https://codeforces.com/contest/1132/submission/100298690",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Dec/03/2020 23:55"
+  },
   "CF100302176": {
     "contest_id": 1244,
     "language": "PyPy 3",

@@ -1,4 +1,20 @@
 {
+  "CF100367221": {
+    "contest_id": 1453,
+    "language": "PyPy 3",
+    "path": "codeforces\\1453\\B.py",
+    "problem_index": "B",
+    "problem_name": "Suffix Operations",
+    "problem_url": "https://codeforces.com/contest/1453/problem/B",
+    "submission_id": "CF100367221",
+    "submission_url": "https://codeforces.com/contest/1453/submission/100367221",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Dec/04/2020 19:20"
+  },
   "CF100472041": {
     "contest_id": 991,
     "language": "PyPy 3",

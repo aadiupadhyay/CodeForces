@@ -1,4 +1,20 @@
 {
+  "CF100476038": {
+    "contest_id": 598,
+    "language": "PyPy 3",
+    "path": "codeforces\\598\\B.py",
+    "problem_index": "B",
+    "problem_name": "Queries on a String",
+    "problem_url": "https://codeforces.com/contest/598/problem/B",
+    "submission_id": "CF100476038",
+    "submission_url": "https://codeforces.com/contest/598/submission/100476038",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Dec/06/2020 00:33"
+  },
   "CF100476248": {
     "contest_id": 588,
     "language": "PyPy 3",

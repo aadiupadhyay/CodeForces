@@ -1,4 +1,19 @@
 {
+  "CF100476248": {
+    "contest_id": 588,
+    "language": "PyPy 3",
+    "path": "codeforces\\588\\B.py",
+    "problem_index": "B",
+    "problem_name": "Duff in Love",
+    "problem_url": "https://codeforces.com/contest/588/problem/B",
+    "submission_id": "CF100476248",
+    "submission_url": "https://codeforces.com/contest/588/submission/100476248",
+    "tags": [
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Dec/06/2020 00:38"
+  },
   "CF100634798": {
     "contest_id": 1450,
     "language": "PyPy 3",

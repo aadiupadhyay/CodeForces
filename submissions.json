@@ -1,4 +1,20 @@
 {
+  "CF100472041": {
+    "contest_id": 991,
+    "language": "PyPy 3",
+    "path": "codeforces\\991\\B.py",
+    "problem_index": "B",
+    "problem_name": "Getting an A",
+    "problem_url": "https://codeforces.com/contest/991/problem/B",
+    "submission_id": "CF100472041",
+    "submission_url": "https://codeforces.com/contest/991/submission/100472041",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Dec/05/2020 23:08"
+  },
   "CF100473988": {
     "contest_id": 600,
     "language": "PyPy 3",

@@ -49,7 +49,7 @@ def solve():
     k=li()
     l.sort()
     ans=[BIN(l,i) for i in k]
-    print(' '.join(map(str,ans)))
+    print(*ans)
     
 for _ in range(1):
     solve()

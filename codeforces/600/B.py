@@ -48,7 +48,7 @@ def solve():
     l=li()
     k=li()
     l.sort()
-    ans=[bisect_right(l,i) for i in k]
+    ans=[BIN(l,i) for i in k]
     print(' '.join(map(str,ans)))
     
 for _ in range(1):

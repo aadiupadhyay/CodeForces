@@ -33,10 +33,12 @@ INF=float('inf')
 
 def solve():
     n,q = mp()
+    ans=[]
     l=li()
     k=li()
     l.sort()
-    ans=[bisect_right(l,i) for i in k]
+    for i in k:
+        ans.append(bisect_right(l,i))
     print(*ans)
      
     

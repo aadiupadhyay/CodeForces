@@ -1,4 +1,21 @@
 {
+  "CF100634814": {
+    "contest_id": 1450,
+    "language": "PyPy 3",
+    "path": "codeforces\\1450\\B.py",
+    "problem_index": "B",
+    "problem_name": "Balls of Steel",
+    "problem_url": "https://codeforces.com/contest/1450/problem/B",
+    "submission_id": "CF100634814",
+    "submission_url": "https://codeforces.com/contest/1450/submission/100634814",
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Dec/07/2020 19:48"
+  },
   "CF100684411": {
     "contest_id": 935,
     "language": "PyPy 3",

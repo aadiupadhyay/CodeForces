@@ -1,4 +1,20 @@
 {
+  "CF100687040": {
+    "contest_id": 746,
+    "language": "PyPy 3",
+    "path": "codeforces\\746\\B.py",
+    "problem_index": "B",
+    "problem_name": "Decoding",
+    "problem_url": "https://codeforces.com/contest/746/problem/B",
+    "submission_id": "CF100687040",
+    "submission_url": "https://codeforces.com/contest/746/submission/100687040",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Dec/08/2020 16:25"
+  },
   "CF100687589": {
     "contest_id": 622,
     "language": "PyPy 3",

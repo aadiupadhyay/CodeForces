@@ -1,4 +1,21 @@
 {
+  "CF100695336": {
+    "contest_id": 263,
+    "language": "PyPy 3",
+    "path": "codeforces\\263\\B.py",
+    "problem_index": "B",
+    "problem_name": "Squares",
+    "problem_url": "https://codeforces.com/contest/263/problem/B",
+    "submission_id": "CF100695336",
+    "submission_url": "https://codeforces.com/contest/263/submission/100695336",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Dec/08/2020 18:18"
+  },
   "CF100697958": {
     "contest_id": 16,
     "language": "PyPy 3",

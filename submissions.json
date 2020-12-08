@@ -1,4 +1,20 @@
 {
+  "CF100698674": {
+    "contest_id": 1230,
+    "language": "PyPy 3",
+    "path": "codeforces\\1230\\B.py",
+    "problem_index": "B",
+    "problem_name": "Ania and Minimizing",
+    "problem_url": "https://codeforces.com/contest/1230/problem/B",
+    "submission_id": "CF100698674",
+    "submission_url": "https://codeforces.com/contest/1230/submission/100698674",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/08/2020 18:58"
+  },
   "CF100699964": {
     "contest_id": 1225,
     "language": "PyPy 3",

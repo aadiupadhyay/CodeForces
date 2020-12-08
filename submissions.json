@@ -1,4 +1,19 @@
 {
+  "CF100703602": {
+    "contest_id": 1108,
+    "language": "PyPy 3",
+    "path": "codeforces\\1108\\A.py",
+    "problem_index": "A",
+    "problem_name": "Two distinct points",
+    "problem_url": "https://codeforces.com/contest/1108/problem/A",
+    "submission_id": "CF100703602",
+    "submission_url": "https://codeforces.com/contest/1108/submission/100703602",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/08/2020 19:58"
+  },
   "CF100704379": {
     "contest_id": 127,
     "language": "PyPy 3",

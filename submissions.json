@@ -1,4 +1,20 @@
 {
+  "CF100700036": {
+    "contest_id": 1225,
+    "language": "PyPy 3",
+    "path": "codeforces\\1225\\B2.py",
+    "problem_index": "B2",
+    "problem_name": "TV Subscriptions (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1225/problem/B2",
+    "submission_id": "CF100700036",
+    "submission_url": "https://codeforces.com/contest/1225/submission/100700036",
+    "tags": [
+      "implementation",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Dec/08/2020 19:14"
+  },
   "CF100700677": {
     "contest_id": 1223,
     "language": "PyPy 3",

@@ -1,4 +1,20 @@
 {
+  "AC18648439": {
+    "contest_id": "arc110",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\arc110\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Redundant Redundancy",
+    "problem_url": "https://atcoder.jp/contests/arc110/tasks/arc110_a",
+    "submission_id": "AC18648439",
+    "submission_url": "https://atcoder.jp/contests/arc110/submissions/18648439",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/08/2020 23:00"
+  },
   "AC18721822": {
     "contest_id": "abc185",
     "language": "PyPy3 (7.3.0)",

@@ -1,4 +1,22 @@
 {
+  "CF100789508": {
+    "contest_id": 1343,
+    "language": "PyPy 3",
+    "path": "codeforces\\1343\\D.py",
+    "problem_index": "D",
+    "problem_name": "Constant Palindrome Sum",
+    "problem_url": "https://codeforces.com/contest/1343/problem/D",
+    "submission_id": "CF100789508",
+    "submission_url": "https://codeforces.com/contest/1343/submission/100789508",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Dec/10/2020 00:19"
+  },
   "CF100840835": {
     "contest_id": 1177,
     "language": "PyPy 3",

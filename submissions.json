@@ -1,4 +1,20 @@
 {
+  "CF100973663": {
+    "contest_id": 1117,
+    "language": "PyPy 3",
+    "path": "codeforces\\1117\\A.py",
+    "problem_index": "A",
+    "problem_name": "Best Subsegment",
+    "problem_url": "https://codeforces.com/contest/1117/problem/A",
+    "submission_id": "CF100973663",
+    "submission_url": "https://codeforces.com/contest/1117/submission/100973663",
+    "tags": [
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Dec/12/2020 01:54"
+  },
   "CF100996262": {
     "contest_id": 1409,
     "language": "PyPy 3",

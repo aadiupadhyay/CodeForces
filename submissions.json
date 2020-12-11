@@ -1,4 +1,20 @@
 {
+  "CF100921309": {
+    "contest_id": 1461,
+    "language": "PyPy 3",
+    "path": "codeforces\\1461\\A.py",
+    "problem_index": "A",
+    "problem_name": "String Generation",
+    "problem_url": "https://codeforces.com/contest/1461/problem/A",
+    "submission_id": "CF100921309",
+    "submission_url": "https://codeforces.com/contest/1461/submission/100921309",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Dec/11/2020 20:18"
+  },
   "CF100931331": {
     "contest_id": 1461,
     "language": "PyPy 3",

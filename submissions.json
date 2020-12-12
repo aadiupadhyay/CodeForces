@@ -1,4 +1,21 @@
 {
+  "CF101009784": {
+    "contest_id": 864,
+    "language": "PyPy 3",
+    "path": "codeforces\\864\\B.py",
+    "problem_index": "B",
+    "problem_name": "Polycarp and Letters",
+    "problem_url": "https://codeforces.com/contest/864/problem/B",
+    "submission_id": "CF101009784",
+    "submission_url": "https://codeforces.com/contest/864/submission/101009784",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Dec/12/2020 15:58"
+  },
   "CF101058634": {
     "contest_id": 1328,
     "language": "PyPy 3",

@@ -1,4 +1,20 @@
 {
+  "AC18752050": {
+    "contest_id": "abc185",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc185\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Duodecim Ferra",
+    "problem_url": "https://atcoder.jp/contests/abc185/tasks/abc185_c",
+    "submission_id": "AC18752050",
+    "submission_url": "https://atcoder.jp/contests/abc185/submissions/18752050",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/13/2020 18:32"
+  },
   "AC18760689": {
     "contest_id": "abc185",
     "language": "PyPy3 (7.3.0)",

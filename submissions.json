@@ -1,4 +1,20 @@
 {
+  "AC18732530": {
+    "contest_id": "abc185",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc185\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Smartphone Addiction",
+    "problem_url": "https://atcoder.jp/contests/abc185/tasks/abc185_b",
+    "submission_id": "AC18732530",
+    "submission_url": "https://atcoder.jp/contests/abc185/submissions/18732530",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/13/2020 17:45"
+  },
   "AC18742980": {
     "contest_id": "abc185",
     "language": "PyPy3 (7.3.0)",

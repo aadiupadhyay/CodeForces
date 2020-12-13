@@ -1,4 +1,20 @@
 {
+  "AC18760689": {
+    "contest_id": "abc185",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc185\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Stamp",
+    "problem_url": "https://atcoder.jp/contests/abc185/tasks/abc185_d",
+    "submission_id": "AC18760689",
+    "submission_url": "https://atcoder.jp/contests/abc185/submissions/18760689",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/13/2020 19:03"
+  },
   "AC18767295": {
     "contest_id": "abc185",
     "language": "PyPy3 (7.3.0)",

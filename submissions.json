@@ -1,4 +1,20 @@
 {
+  "CF101453397": {
+    "contest_id": 1255,
+    "language": "PyPy 3",
+    "path": "codeforces\\1255\\B.py",
+    "problem_index": "B",
+    "problem_name": "Fridge Lockers",
+    "problem_url": "https://codeforces.com/contest/1255/problem/B",
+    "submission_id": "CF101453397",
+    "submission_url": "https://codeforces.com/contest/1255/submission/101453397",
+    "tags": [
+      "graphs",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Dec/16/2020 23:32"
+  },
   "CF101583473": {
     "contest_id": 1463,
     "language": "PyPy 3",

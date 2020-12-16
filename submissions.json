@@ -1,4 +1,24 @@
 {
+  "CF101430771": {
+    "contest_id": 1462,
+    "language": "PyPy 3",
+    "path": "codeforces\\1462\\E2.py",
+    "problem_index": "E2",
+    "problem_name": "Close Tuples (hard version)",
+    "problem_url": "https://codeforces.com/contest/1462/problem/E2",
+    "submission_id": "CF101430771",
+    "submission_url": "https://codeforces.com/contest/1462/submission/101430771",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "implementation",
+      "math",
+      "sortings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Dec/16/2020 19:25"
+  },
   "CF101452398": {
     "contest_id": 1221,
     "language": "PyPy 3",

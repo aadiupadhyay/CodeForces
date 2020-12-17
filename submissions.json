@@ -1,4 +1,20 @@
 {
+  "CF101591299": {
+    "contest_id": 1140,
+    "language": "PyPy 3",
+    "path": "codeforces\\1140\\B.py",
+    "problem_index": "B",
+    "problem_name": "Good String",
+    "problem_url": "https://codeforces.com/contest/1140/problem/B",
+    "submission_id": "CF101591299",
+    "submission_url": "https://codeforces.com/contest/1140/submission/101591299",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Dec/18/2020 00:49"
+  },
   "CF101593262": {
     "contest_id": 1174,
     "language": "PyPy 3",

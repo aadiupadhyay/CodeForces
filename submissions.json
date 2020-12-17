@@ -1,4 +1,21 @@
 {
+  "CF101583473": {
+    "contest_id": 1463,
+    "language": "PyPy 3",
+    "path": "codeforces\\1463\\B.py",
+    "problem_index": "B",
+    "problem_name": "Find The Array",
+    "problem_url": "https://codeforces.com/contest/1463/problem/B",
+    "submission_id": "CF101583473",
+    "submission_url": "https://codeforces.com/contest/1463/submission/101583473",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Dec/17/2020 22:43"
+  },
   "CF101585758": {
     "contest_id": 1463,
     "language": "PyPy 3",

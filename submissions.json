@@ -1,4 +1,20 @@
 {
+  "AC18845471": {
+    "contest_id": "abc052",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc052\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Factors of Factorial",
+    "problem_url": "https://atcoder.jp/contests/abc052/tasks/arc067_a",
+    "submission_id": "AC18845471",
+    "submission_url": "https://atcoder.jp/contests/abc052/submissions/18845471",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/18/2020 19:26"
+  },
   "AC18860549": {
     "contest_id": "abc186",
     "language": "PyPy3 (7.3.0)",

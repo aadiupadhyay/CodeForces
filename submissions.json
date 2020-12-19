@@ -1,4 +1,20 @@
 {
+  "CF101746056": {
+    "contest_id": 1459,
+    "language": "PyPy 3",
+    "path": "codeforces\\1459\\B.py",
+    "problem_index": "B",
+    "problem_name": "Move and Turn",
+    "problem_url": "https://codeforces.com/contest/1459/problem/B",
+    "submission_id": "CF101746056",
+    "submission_url": "https://codeforces.com/contest/1459/submission/101746056",
+    "tags": [
+      "dp",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Dec/19/2020 16:06"
+  },
   "CF101753627": {
     "contest_id": 1459,
     "language": "PyPy 3",

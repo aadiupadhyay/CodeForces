@@ -1,4 +1,20 @@
 {
+  "AC18860549": {
+    "contest_id": "abc186",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc186\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Brick",
+    "problem_url": "https://atcoder.jp/contests/abc186/tasks/abc186_a",
+    "submission_id": "AC18860549",
+    "submission_url": "https://atcoder.jp/contests/abc186/submissions/18860549",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/19/2020 17:30"
+  },
   "AC18865300": {
     "contest_id": "abc186",
     "language": "PyPy3 (7.3.0)",

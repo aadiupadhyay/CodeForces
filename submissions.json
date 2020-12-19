@@ -1,4 +1,20 @@
 {
+  "AC18878125": {
+    "contest_id": "abc186",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc186\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Sum of difference",
+    "problem_url": "https://atcoder.jp/contests/abc186/tasks/abc186_d",
+    "submission_id": "AC18878125",
+    "submission_url": "https://atcoder.jp/contests/abc186/submissions/18878125",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/19/2020 17:59"
+  },
   "AC18974083": {
     "contest_id": "arc104",
     "language": "PyPy3 (7.3.0)",

@@ -1,4 +1,21 @@
 {
+  "CF102153553": {
+    "contest_id": 1462,
+    "language": "PyPy 3",
+    "path": "codeforces\\1462\\D.py",
+    "problem_index": "D",
+    "problem_name": "Add to Neighbour and Remove",
+    "problem_url": "https://codeforces.com/contest/1462/problem/D",
+    "submission_id": "CF102153553",
+    "submission_url": "https://codeforces.com/contest/1462/submission/102153553",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Dec/24/2020 02:58"
+  },
   "CF102339922": {
     "contest_id": 1245,
     "language": "PyPy 3",

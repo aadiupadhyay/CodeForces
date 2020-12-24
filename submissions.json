@@ -1,4 +1,20 @@
 {
+  "AC18974083": {
+    "contest_id": "arc104",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\arc104\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Plus Minus",
+    "problem_url": "https://atcoder.jp/contests/arc104/tasks/arc104_a",
+    "submission_id": "AC18974083",
+    "submission_url": "https://atcoder.jp/contests/arc104/submissions/18974083",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/25/2020 02:09"
+  },
   "AC19021602": {
     "contest_id": "agc050",
     "language": "PyPy3 (7.3.0)",

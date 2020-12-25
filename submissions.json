@@ -1,4 +1,20 @@
 {
+  "CF102340767": {
+    "contest_id": 1237,
+    "language": "PyPy 3",
+    "path": "codeforces\\1237\\A.py",
+    "problem_index": "A",
+    "problem_name": "Balanced Rating Changes",
+    "problem_url": "https://codeforces.com/contest/1237/problem/A",
+    "submission_id": "CF102340767",
+    "submission_url": "https://codeforces.com/contest/1237/submission/102340767",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/25/2020 22:58"
+  },
   "CF102348390": {
     "contest_id": 429,
     "language": "PyPy 3",

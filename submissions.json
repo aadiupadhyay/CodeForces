@@ -1,4 +1,20 @@
 {
+  "CF102339922": {
+    "contest_id": 1245,
+    "language": "PyPy 3",
+    "path": "codeforces\\1245\\A.py",
+    "problem_index": "A",
+    "problem_name": "Good ol' Numbers Coloring",
+    "problem_url": "https://codeforces.com/contest/1245/problem/A",
+    "submission_id": "CF102339922",
+    "submission_url": "https://codeforces.com/contest/1245/submission/102339922",
+    "tags": [
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Dec/25/2020 22:44"
+  },
   "CF102340767": {
     "contest_id": 1237,
     "language": "PyPy 3",

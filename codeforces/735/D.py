@@ -48,7 +48,6 @@ Y88888b         `888888888b,      `""""^                `Y8888888P'       d888I
 from sys import stdin, stdout
 from collections import *
 from math import gcd, floor, ceil
-from random import randint
 def st(): return list(stdin.readline().strip())
 
 
@@ -64,11 +63,12 @@ INF = float('inf')
 
 def solve():
     def prime(n):
-        if n < 4:
+        if n <= 4:
             return n == 2 or n == 3
-        for i in range(5):
-            a = randint(2, n-2)
-            if pow(a, n-1, n) != 1:
+        if n % 2 == 0 or n % 3 == 0:
+            return False
+        for i in range(5, int(n**0.5)+1, 6):
+            if n % i == 0 or n % (i+2) == 0:
                 return False
         return True
     n = inp()

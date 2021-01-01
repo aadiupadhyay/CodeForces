@@ -1,4 +1,20 @@
 {
+  "AC19103791": {
+    "contest_id": "m-solutions2020",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\m-solutions2020\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Road to Millionaire",
+    "problem_url": "https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_d",
+    "submission_id": "AC19103791",
+    "submission_url": "https://atcoder.jp/contests/m-solutions2020/submissions/19103791",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/01/2021 22:22"
+  },
   "AC19119384": {
     "contest_id": "abc187",
     "language": "PyPy3 (7.3.0)",

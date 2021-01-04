@@ -1,4 +1,22 @@
 {
+  "CF103303658": {
+    "contest_id": 1472,
+    "language": "PyPy 3",
+    "path": "codeforces\\1472\\D.py",
+    "problem_index": "D",
+    "problem_name": "Even-Odd Game",
+    "problem_url": "https://codeforces.com/contest/1472/problem/D",
+    "submission_id": "CF103303658",
+    "submission_url": "https://codeforces.com/contest/1472/submission/103303658",
+    "tags": [
+      "dp",
+      "games",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jan/04/2021 22:09"
+  },
   "CF103575322": {
     "contest_id": 937,
     "language": "PyPy 3",

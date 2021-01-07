@@ -1,4 +1,20 @@
 {
+  "CF103658002": {
+    "contest_id": 486,
+    "language": "PyPy 3",
+    "path": "codeforces\\486\\A.py",
+    "problem_index": "A",
+    "problem_name": "Calculating Function",
+    "problem_url": "https://codeforces.com/contest/486/problem/A",
+    "submission_id": "CF103658002",
+    "submission_url": "https://codeforces.com/contest/486/submission/103658002",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/07/2021 23:01"
+  },
   "CF103818078": {
     "contest_id": 1467,
     "language": "PyPy 3",

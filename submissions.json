@@ -1,4 +1,21 @@
 {
+  "CF104145635": {
+    "contest_id": 1200,
+    "language": "PyPy 3",
+    "path": "codeforces\\1200\\A.py",
+    "problem_index": "A",
+    "problem_name": "Hotelier",
+    "problem_url": "https://codeforces.com/contest/1200/problem/A",
+    "submission_id": "CF104145635",
+    "submission_url": "https://codeforces.com/contest/1200/submission/104145635",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/13/2021 01:49"
+  },
   "CF104176115": {
     "contest_id": 1200,
     "language": "PyPy 3",

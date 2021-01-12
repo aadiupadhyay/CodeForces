@@ -61,7 +61,6 @@ INF = float('inf')
 def solve():
     n = inp()
     s = st()
-    a = 10
     ans = [0 for i in range(10)]
     for q in s:
         if q == 'L':

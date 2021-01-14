@@ -12,4 +12,5 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [C - No More Inversions](https://codeforces.com/contest/1473/problem/C) | [PyPy 3](./codeforces/1473/C.py) | `constructive algorithms` `math` `*1500` | Jan/14/2021 22:08 | 
+2 | [C - No More Inversions](https://codeforces.com/contest/1473/problem/C) | [PyPy 3](./codeforces/1473/C.py) | `constructive algorithms` `math` `*1500` | Jan/14/2021 22:08 | 
+1 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3](./codeforces/1473/B.py) | `brute force` `math` `number theory` `strings` `*1000` | Jan/14/2021 22:07 | 

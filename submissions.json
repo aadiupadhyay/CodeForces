@@ -5127,6 +5127,22 @@
     ],
     "timestamp": "Jan/14/2021 22:08"
   },
+  "CF104529123": {
+    "contest_id": 1288,
+    "language": "PyPy 3",
+    "path": "codeforces\\1288\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Yet Another Meme Problem",
+    "problem_url": "https://codeforces.com/contest/1288/problem/B",
+    "submission_id": "CF104529123",
+    "submission_url": "https://codeforces.com/contest/1288/submission/104529123",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/16/2021 22:45"
+  },
   "CF75976293": {
     "contest_id": 615,
     "language": "Python 3",

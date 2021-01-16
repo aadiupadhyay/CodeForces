@@ -3055,6 +3055,22 @@
     ],
     "timestamp": "Jan/11/2021 02:20"
   },
+  "AC19482325": {
+    "contest_id": "keyence2021",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\keyence2021\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Mex Boxes",
+    "problem_url": "https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b",
+    "submission_id": "AC19482325",
+    "submission_url": "https://atcoder.jp/contests/keyence2021/submissions/19482325",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/16/2021 23:48"
+  },
   "CF100054430": {
     "contest_id": 1455,
     "language": "PyPy 3",

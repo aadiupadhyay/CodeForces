@@ -5175,6 +5175,26 @@
     ],
     "timestamp": "Jan/16/2021 22:45"
   },
+  "CF104848054": {
+    "contest_id": 1474,
+    "language": "PyPy 3",
+    "path": "codeforces\\1474\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Different Divisors",
+    "problem_url": "https://codeforces.com/contest/1474/problem/B",
+    "submission_id": "CF104848054",
+    "submission_url": "https://codeforces.com/contest/1474/submission/104848054",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Jan/20/2021 00:28"
+  },
   "CF105402427": {
     "contest_id": 1475,
     "language": "PyPy 3",

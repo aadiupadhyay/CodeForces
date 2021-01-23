@@ -3087,6 +3087,22 @@
     ],
     "timestamp": "Jan/16/2021 23:48"
   },
+  "AC19587072": {
+    "contest_id": "abc189",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc189\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Slot",
+    "problem_url": "https://atcoder.jp/contests/abc189/tasks/abc189_a",
+    "submission_id": "AC19587072",
+    "submission_url": "https://atcoder.jp/contests/abc189/submissions/19587072",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/23/2021 17:32"
+  },
   "AC19601609": {
     "contest_id": "abc189",
     "language": "PyPy3 (7.3.0)",

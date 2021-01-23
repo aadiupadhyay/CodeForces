@@ -3087,6 +3087,22 @@
     ],
     "timestamp": "Jan/16/2021 23:48"
   },
+  "AC19601609": {
+    "contest_id": "abc189",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc189\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Mandarin Orange",
+    "problem_url": "https://atcoder.jp/contests/abc189/tasks/abc189_c",
+    "submission_id": "AC19601609",
+    "submission_url": "https://atcoder.jp/contests/abc189/submissions/19601609",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/23/2021 17:42"
+  },
   "AC19671514": {
     "contest_id": "abc189",
     "language": "PyPy3 (7.3.0)",

@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1006 | [E - Advertising Agency](https://codeforces.com/contest/1475/problem/E) | [PyPy 3](./codeforces/1475/E.py) | `combinatorics` `implementation` `math` `sortings` | Jan/26/2021 01:33 | 
-1005 | [B - New Year's Number](https://codeforces.com/contest/1475/problem/B) | [PyPy 3](./codeforces/1475/B.py) | `brute force` `dp` `math` | Jan/25/2021 22:53 | 
-1004 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [PyPy 3](./codeforces/1475/C.py) | `combinatorics` `dfs and similar` `graphs` `hashing` `math` | Jan/25/2021 22:48 | 
-1003 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [PyPy 3](./codeforces/1475/A.py) | `bitmasks` `math` `number theory` | Jan/25/2021 22:46 | 
-1002 | [D - Logical Expression](https://atcoder.jp/contests/abc189/tasks/abc189_d) | [PyPy3 (7.3.0)](./atcoder/abc189/D.py) | `AtCoder` `*400` | Jan/24/2021 15:04 | 
-1001 | [B - Alcoholic](https://atcoder.jp/contests/abc189/tasks/abc189_b) | [PyPy3 (7.3.0)](./atcoder/abc189/B.py) | `AtCoder` `*200` | Jan/24/2021 14:40 | 
+1007 | [E - Advertising Agency](https://codeforces.com/contest/1475/problem/E) | [PyPy 3](./codeforces/1475/E.py) | `combinatorics` `implementation` `math` `sortings` | Jan/26/2021 01:33 | 
+1006 | [B - New Year's Number](https://codeforces.com/contest/1475/problem/B) | [PyPy 3](./codeforces/1475/B.py) | `brute force` `dp` `math` | Jan/25/2021 22:53 | 
+1005 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [PyPy 3](./codeforces/1475/C.py) | `combinatorics` `dfs and similar` `graphs` `hashing` `math` | Jan/25/2021 22:48 | 
+1004 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [PyPy 3](./codeforces/1475/A.py) | `bitmasks` `math` `number theory` | Jan/25/2021 22:46 | 
+1003 | [D - Logical Expression](https://atcoder.jp/contests/abc189/tasks/abc189_d) | [PyPy3 (7.3.0)](./atcoder/abc189/D.py) | `AtCoder` `*400` | Jan/24/2021 15:04 | 
+1002 | [B - Alcoholic](https://atcoder.jp/contests/abc189/tasks/abc189_b) | [PyPy3 (7.3.0)](./atcoder/abc189/B.py) | `AtCoder` `*200` | Jan/24/2021 14:40 | 
+1001 | [C - Mandarin Orange](https://atcoder.jp/contests/abc189/tasks/abc189_c) | [PyPy3 (7.3.0)](./atcoder/abc189/C.py) | `AtCoder` `*300` | Jan/23/2021 17:42 | 
 1000 | [B - Different Divisors](https://codeforces.com/contest/1474/problem/B) | [PyPy 3](./codeforces/1474/B.py) | `binary search` `constructive algorithms` `greedy` `math` `number theory` `*1000` | Jan/20/2021 00:28 | 
 999 | [A - Puzzle From the Future](https://codeforces.com/contest/1474/problem/A) | [PyPy 3](./codeforces/1474/A.py) | `greedy` `*800` | Jan/20/2021 00:17 | 
 998 | [B - Mex Boxes](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b) | [PyPy3 (7.3.0)](./atcoder/keyence2021/B.py) | `AtCoder` `*400` | Jan/16/2021 23:48 | 

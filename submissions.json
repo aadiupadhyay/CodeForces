@@ -3087,6 +3087,22 @@
     ],
     "timestamp": "Jan/16/2021 23:48"
   },
+  "AC19671965": {
+    "contest_id": "abc189",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc189\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Logical Expression",
+    "problem_url": "https://atcoder.jp/contests/abc189/tasks/abc189_d",
+    "submission_id": "AC19671965",
+    "submission_url": "https://atcoder.jp/contests/abc189/submissions/19671965",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/24/2021 15:04"
+  },
   "CF100054430": {
     "contest_id": 1455,
     "language": "PyPy 3",

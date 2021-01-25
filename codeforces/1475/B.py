@@ -1,5 +1,5 @@
 '''
-Aaditya upadhyay
+Aaditya Upadhyay
                           ud$$$**$$$$$$bc.
                        u@**"        4$$$$$$Nu
                      J                ""#$$$$$r
@@ -60,15 +60,10 @@ INF = float('inf')
 
 def solve():
     n = inp()
-    if n%2020 ==0 or n%2021==0:
+    if n % 2020 <= n//2020:
         pr('YES')
-        return 
-    a=n%2020
-    n-= a*2021
-    if n>=0 and n%2020==0:
-        pr('YES')
-        return 
-    pr('NO')
+    else:
+        pr('NO')
 
 
 for _ in range(inp()):

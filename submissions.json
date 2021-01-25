@@ -5175,6 +5175,23 @@
     ],
     "timestamp": "Jan/16/2021 22:45"
   },
+  "CF105402427": {
+    "contest_id": 1475,
+    "language": "PyPy 3",
+    "path": "codeforces\\1475\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Odd Divisor",
+    "problem_url": "https://codeforces.com/contest/1475/problem/A",
+    "submission_id": "CF105402427",
+    "submission_url": "https://codeforces.com/contest/1475/submission/105402427",
+    "tags": [
+      "bitmasks",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Jan/25/2021 22:46"
+  },
   "CF105402629": {
     "contest_id": 1475,
     "language": "PyPy 3",

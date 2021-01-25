@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1001 | [E - Advertising Agency](https://codeforces.com/contest/1475/problem/E) | [PyPy 3](./codeforces/1475/E.py) | `combinatorics` `implementation` `math` `sortings` | Jan/26/2021 01:33 | 
-1000 | [B - New Year's Number](https://codeforces.com/contest/1475/problem/B) | [PyPy 3](./codeforces/1475/B.py) | `brute force` `dp` `math` | Jan/25/2021 22:53 | 
-999 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [PyPy 3](./codeforces/1475/C.py) | `combinatorics` `dfs and similar` `graphs` `hashing` `math` | Jan/25/2021 22:48 | 
+1002 | [E - Advertising Agency](https://codeforces.com/contest/1475/problem/E) | [PyPy 3](./codeforces/1475/E.py) | `combinatorics` `implementation` `math` `sortings` | Jan/26/2021 01:33 | 
+1001 | [B - New Year's Number](https://codeforces.com/contest/1475/problem/B) | [PyPy 3](./codeforces/1475/B.py) | `brute force` `dp` `math` | Jan/25/2021 22:53 | 
+1000 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [PyPy 3](./codeforces/1475/C.py) | `combinatorics` `dfs and similar` `graphs` `hashing` `math` | Jan/25/2021 22:48 | 
+999 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [PyPy 3](./codeforces/1475/A.py) | `bitmasks` `math` `number theory` | Jan/25/2021 22:46 | 
 998 | [B - Mex Boxes](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b) | [PyPy3 (7.3.0)](./atcoder/keyence2021/B.py) | `AtCoder` `*400` | Jan/16/2021 23:48 | 
 997 | [A - Two Sequences 2](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_a) | [PyPy3 (7.3.0)](./atcoder/keyence2021/A.py) | `AtCoder` `*300` | Jan/16/2021 23:19 | 
 996 | [B - Yet Another Meme Problem](https://codeforces.com/contest/1288/problem/B) | [PyPy 3](./codeforces/1288/B.py) | `math` `*1100` | Jan/16/2021 22:45 | 

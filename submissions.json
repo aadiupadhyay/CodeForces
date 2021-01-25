@@ -5175,6 +5175,24 @@
     ],
     "timestamp": "Jan/16/2021 22:45"
   },
+  "CF105417507": {
+    "contest_id": 1475,
+    "language": "PyPy 3",
+    "path": "codeforces\\1475\\E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Advertising Agency",
+    "problem_url": "https://codeforces.com/contest/1475/problem/E",
+    "submission_id": "CF105417507",
+    "submission_url": "https://codeforces.com/contest/1475/submission/105417507",
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "math",
+      "sortings"
+    ],
+    "timestamp": "Jan/26/2021 01:33"
+  },
   "CF75976293": {
     "contest_id": 615,
     "language": "Python 3",

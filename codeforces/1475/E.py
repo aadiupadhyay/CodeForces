@@ -1,5 +1,5 @@
 '''
-Aaditya Upadhyay
+Aanchal Tiwari
                           ud$$$**$$$$$$bc.
                        u@**"        4$$$$$$Nu
                      J                ""#$$$$$r
@@ -91,7 +91,8 @@ def solve():
     for i in range(k):
         dd[l[i]] += 1
     #print(d, dd)
-    ans = ncr(d[l[k-1]], dd[l[k-1]])
+    for i in dd:
+        ans = (ans % mod * ncr(d[i], dd[i]) % mod) % mod
     pr(ans)
 
 

@@ -5381,6 +5381,24 @@
     ],
     "timestamp": "Jan/26/2021 01:33"
   },
+  "CF105954349": {
+    "contest_id": 1476,
+    "language": "PyPy 3",
+    "path": "codeforces\\1476\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Inflation",
+    "problem_url": "https://codeforces.com/contest/1476/problem/B",
+    "submission_id": "CF105954349",
+    "submission_url": "https://codeforces.com/contest/1476/submission/105954349",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Jan/30/2021 00:12"
+  },
   "CF75976293": {
     "contest_id": 615,
     "language": "Python 3",

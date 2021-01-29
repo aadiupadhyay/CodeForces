@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1011 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [PyPy 3](./codeforces/1476/B.py) | `binary search` `brute force` `greedy` `math` | Jan/30/2021 00:12 | 
-1010 | [A - K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | [PyPy 3](./codeforces/1476/A.py) | `binary search` `constructive algorithms` `greedy` `math` | Jan/30/2021 00:11 | 
-1009 | [B - Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | [PyPy 3](./codeforces/1478/B.py) | `brute force` `dp` `greedy` `math` `*1100` | Jan/29/2021 21:23 | 
+1012 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [PyPy 3](./codeforces/1476/B.py) | `binary search` `brute force` `greedy` `math` | Jan/30/2021 00:12 | 
+1011 | [A - K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | [PyPy 3](./codeforces/1476/A.py) | `binary search` `constructive algorithms` `greedy` `math` | Jan/30/2021 00:11 | 
+1010 | [B - Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | [PyPy 3](./codeforces/1478/B.py) | `brute force` `dp` `greedy` `math` `*1100` | Jan/29/2021 21:23 | 
+1009 | [A - Nezzar and Colorful Balls](https://codeforces.com/contest/1478/problem/A) | [PyPy 3](./codeforces/1478/A.py) | `brute force` `greedy` `*800` | Jan/29/2021 21:22 | 
 1008 | [E - Advertising Agency](https://codeforces.com/contest/1475/problem/E) | [PyPy 3](./codeforces/1475/E.py) | `combinatorics` `implementation` `math` `sortings` | Jan/26/2021 01:33 | 
 1007 | [B - New Year's Number](https://codeforces.com/contest/1475/problem/B) | [PyPy 3](./codeforces/1475/B.py) | `brute force` `dp` `math` | Jan/25/2021 22:53 | 
 1006 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [PyPy 3](./codeforces/1475/C.py) | `combinatorics` `dfs and similar` `graphs` `hashing` `math` | Jan/25/2021 22:48 | 

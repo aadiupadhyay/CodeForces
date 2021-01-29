@@ -5381,6 +5381,23 @@
     ],
     "timestamp": "Jan/26/2021 01:33"
   },
+  "CF105916144": {
+    "contest_id": 1478,
+    "language": "PyPy 3",
+    "path": "codeforces\\1478\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nezzar and Colorful Balls",
+    "problem_url": "https://codeforces.com/contest/1478/problem/A",
+    "submission_id": "CF105916144",
+    "submission_url": "https://codeforces.com/contest/1478/submission/105916144",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/29/2021 21:22"
+  },
   "CF105916596": {
     "contest_id": 1478,
     "language": "PyPy 3",

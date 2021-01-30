@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1014 | [D - Staircase Sequences](https://atcoder.jp/contests/abc190/tasks/abc190_d) | [PyPy3 (7.3.0)](./atcoder/abc190/D.py) | `AtCoder` `*400` | Jan/30/2021 18:49 | 
-1013 | [B - Magic 3](https://atcoder.jp/contests/abc190/tasks/abc190_b) | [PyPy3 (7.3.0)](./atcoder/abc190/B.py) | `AtCoder` `*200` | Jan/30/2021 17:45 | 
+1015 | [D - Staircase Sequences](https://atcoder.jp/contests/abc190/tasks/abc190_d) | [PyPy3 (7.3.0)](./atcoder/abc190/D.py) | `AtCoder` `*400` | Jan/30/2021 18:49 | 
+1014 | [B - Magic 3](https://atcoder.jp/contests/abc190/tasks/abc190_b) | [PyPy3 (7.3.0)](./atcoder/abc190/B.py) | `AtCoder` `*200` | Jan/30/2021 17:45 | 
+1013 | [A - Very Very Primitive Game](https://atcoder.jp/contests/abc190/tasks/abc190_a) | [PyPy3 (7.3.0)](./atcoder/abc190/A.py) | `AtCoder` `*100` | Jan/30/2021 17:38 | 
 1012 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [PyPy 3](./codeforces/1476/B.py) | `binary search` `brute force` `greedy` `math` | Jan/30/2021 00:12 | 
 1011 | [A - K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | [PyPy 3](./codeforces/1476/A.py) | `binary search` `constructive algorithms` `greedy` `math` | Jan/30/2021 00:11 | 
 1010 | [B - Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | [PyPy 3](./codeforces/1478/B.py) | `brute force` `dp` `greedy` `math` `*1100` | Jan/29/2021 21:23 | 

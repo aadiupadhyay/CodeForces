@@ -3151,6 +3151,22 @@
     ],
     "timestamp": "Jan/24/2021 15:04"
   },
+  "AC19812516": {
+    "contest_id": "abc190",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc190\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Staircase Sequences",
+    "problem_url": "https://atcoder.jp/contests/abc190/tasks/abc190_d",
+    "submission_id": "AC19812516",
+    "submission_url": "https://atcoder.jp/contests/abc190/submissions/19812516",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/30/2021 18:49"
+  },
   "CF100054430": {
     "contest_id": 1455,
     "language": "PyPy 3",

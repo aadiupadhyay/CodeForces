@@ -3151,6 +3151,22 @@
     ],
     "timestamp": "Jan/24/2021 15:04"
   },
+  "AC19790262": {
+    "contest_id": "abc190",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc190\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Magic 3",
+    "problem_url": "https://atcoder.jp/contests/abc190/tasks/abc190_b",
+    "submission_id": "AC19790262",
+    "submission_url": "https://atcoder.jp/contests/abc190/submissions/19790262",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/30/2021 17:45"
+  },
   "AC19812516": {
     "contest_id": "abc190",
     "language": "PyPy3 (7.3.0)",

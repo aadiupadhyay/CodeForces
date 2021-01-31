@@ -13,19 +13,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1028 | [C - Floor and Mod](https://codeforces.com/contest/1485/problem/C) | [PyPy 3](./codeforces/1485/C.py) | `brute force` `math` `number theory` | Feb/13/2021 02:22 | 
-1027 | [D - Multiples and Power Differences](https://codeforces.com/contest/1485/problem/D) | [PyPy 3](./codeforces/1485/D.py) | `constructive algorithms` `math` `number theory` | Feb/13/2021 01:28 | 
-1026 | [B - Replace and Keep Sorted](https://codeforces.com/contest/1485/problem/B) | [PyPy 3](./codeforces/1485/B.py) | `dp` `implementation` `math` | Feb/13/2021 00:45 | 
-1025 | [A - Add and Divide](https://codeforces.com/contest/1485/problem/A) | [PyPy 3](./codeforces/1485/A.py) | `brute force` `greedy` `math` | Feb/13/2021 00:33 | 
-1024 | [C - Searching Local Minimum](https://codeforces.com/contest/1480/problem/C) | [PyPy 3](./codeforces/1480/C.py) | `binary search` `interactive` `math` `ternary search` `*1700` | Feb/12/2021 23:55 | 
-1023 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [PyPy 3](./codeforces/1480/B.py) | `greedy` `implementation` `sortings` `*900` | Feb/12/2021 23:37 | 
-1022 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [PyPy 3](./codeforces/1480/A.py) | `games` `greedy` `strings` `*800` | Feb/12/2021 23:08 | 
-1021 | [A - Vanishing Pitch](https://atcoder.jp/contests/abc191/tasks/abc191_a) | [PyPy3 (7.3.0)](./atcoder/abc191/A.py) | `AtCoder` `*100` | Feb/07/2021 03:20 | 
-1020 | [B - Remove It](https://atcoder.jp/contests/abc191/tasks/abc191_b) | [PyPy3 (7.3.0)](./atcoder/abc191/B.py) | `AtCoder` `*200` | Feb/07/2021 03:16 | 
-1019 | [C - Fence Painting](https://codeforces.com/contest/1481/problem/C) | [PyPy 3](./codeforces/1481/C.py) | `brute force` `constructive algorithms` `greedy` `*1600` | Feb/06/2021 16:24 | 
-1018 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [PyPy 3](./codeforces/1481/B.py) | `brute force` `greedy` `implementation` `*1100` | Feb/06/2021 16:02 | 
-1017 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [PyPy 3](./codeforces/1481/A.py) | `greedy` `strings` `*800` | Feb/05/2021 23:50 | 
-1016 | [C - Longest Simple Cycle](https://codeforces.com/contest/1476/problem/C) | [PyPy 3](./codeforces/1476/C.py) | `dp` `graphs` `greedy` `*1600` | Feb/05/2021 18:56 | 
+1029 | [C - Floor and Mod](https://codeforces.com/contest/1485/problem/C) | [PyPy 3](./codeforces/1485/C.py) | `brute force` `math` `number theory` | Feb/13/2021 02:22 | 
+1028 | [D - Multiples and Power Differences](https://codeforces.com/contest/1485/problem/D) | [PyPy 3](./codeforces/1485/D.py) | `constructive algorithms` `math` `number theory` | Feb/13/2021 01:28 | 
+1027 | [B - Replace and Keep Sorted](https://codeforces.com/contest/1485/problem/B) | [PyPy 3](./codeforces/1485/B.py) | `dp` `implementation` `math` | Feb/13/2021 00:45 | 
+1026 | [A - Add and Divide](https://codeforces.com/contest/1485/problem/A) | [PyPy 3](./codeforces/1485/A.py) | `brute force` `greedy` `math` | Feb/13/2021 00:33 | 
+1025 | [C - Searching Local Minimum](https://codeforces.com/contest/1480/problem/C) | [PyPy 3](./codeforces/1480/C.py) | `binary search` `interactive` `math` `ternary search` `*1700` | Feb/12/2021 23:55 | 
+1024 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [PyPy 3](./codeforces/1480/B.py) | `greedy` `implementation` `sortings` `*900` | Feb/12/2021 23:37 | 
+1023 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [PyPy 3](./codeforces/1480/A.py) | `games` `greedy` `strings` `*800` | Feb/12/2021 23:08 | 
+1022 | [A - Vanishing Pitch](https://atcoder.jp/contests/abc191/tasks/abc191_a) | [PyPy3 (7.3.0)](./atcoder/abc191/A.py) | `AtCoder` `*100` | Feb/07/2021 03:20 | 
+1021 | [B - Remove It](https://atcoder.jp/contests/abc191/tasks/abc191_b) | [PyPy3 (7.3.0)](./atcoder/abc191/B.py) | `AtCoder` `*200` | Feb/07/2021 03:16 | 
+1020 | [C - Fence Painting](https://codeforces.com/contest/1481/problem/C) | [PyPy 3](./codeforces/1481/C.py) | `brute force` `constructive algorithms` `greedy` `*1600` | Feb/06/2021 16:24 | 
+1019 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [PyPy 3](./codeforces/1481/B.py) | `brute force` `greedy` `implementation` `*1100` | Feb/06/2021 16:02 | 
+1018 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [PyPy 3](./codeforces/1481/A.py) | `greedy` `strings` `*800` | Feb/05/2021 23:50 | 
+1017 | [C - Longest Simple Cycle](https://codeforces.com/contest/1476/problem/C) | [PyPy 3](./codeforces/1476/C.py) | `dp` `graphs` `greedy` `*1600` | Feb/05/2021 18:56 | 
+1016 | [F - Shift and Inversions](https://atcoder.jp/contests/abc190/tasks/abc190_f) | [PyPy3 (7.3.0)](./atcoder/abc190/F.py) | `AtCoder` `*600` | Feb/01/2021 02:48 | 
 1015 | [D - Staircase Sequences](https://atcoder.jp/contests/abc190/tasks/abc190_d) | [PyPy3 (7.3.0)](./atcoder/abc190/D.py) | `AtCoder` `*400` | Jan/30/2021 18:49 | 
 1014 | [B - Magic 3](https://atcoder.jp/contests/abc190/tasks/abc190_b) | [PyPy3 (7.3.0)](./atcoder/abc190/B.py) | `AtCoder` `*200` | Jan/30/2021 17:45 | 
 1013 | [A - Very Very Primitive Game](https://atcoder.jp/contests/abc190/tasks/abc190_a) | [PyPy3 (7.3.0)](./atcoder/abc190/A.py) | `AtCoder` `*100` | Jan/30/2021 17:38 | 

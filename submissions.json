@@ -3199,6 +3199,22 @@
     ],
     "timestamp": "Jan/30/2021 18:49"
   },
+  "AC19851409": {
+    "contest_id": "abc190",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc190\\F.py",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Shift and Inversions",
+    "problem_url": "https://atcoder.jp/contests/abc190/tasks/abc190_f",
+    "submission_id": "AC19851409",
+    "submission_url": "https://atcoder.jp/contests/abc190/submissions/19851409",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Feb/01/2021 02:48"
+  },
   "AC20019350": {
     "contest_id": "abc191",
     "language": "PyPy3 (7.3.0)",

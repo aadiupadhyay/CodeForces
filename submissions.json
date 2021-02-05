@@ -5501,6 +5501,24 @@
     ],
     "timestamp": "Jan/30/2021 00:12"
   },
+  "CF106534316": {
+    "contest_id": 1476,
+    "language": "PyPy 3",
+    "path": "codeforces\\1476\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Longest Simple Cycle",
+    "problem_url": "https://codeforces.com/contest/1476/problem/C",
+    "submission_id": "CF106534316",
+    "submission_url": "https://codeforces.com/contest/1476/submission/106534316",
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Feb/05/2021 18:56"
+  },
   "CF106617741": {
     "contest_id": 1481,
     "language": "PyPy 3",

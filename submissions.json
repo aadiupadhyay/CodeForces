@@ -3199,6 +3199,22 @@
     ],
     "timestamp": "Jan/30/2021 18:49"
   },
+  "AC20019350": {
+    "contest_id": "abc191",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc191\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Remove It",
+    "problem_url": "https://atcoder.jp/contests/abc191/tasks/abc191_b",
+    "submission_id": "AC20019350",
+    "submission_url": "https://atcoder.jp/contests/abc191/submissions/20019350",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/07/2021 03:16"
+  },
   "AC20019374": {
     "contest_id": "abc191",
     "language": "PyPy3 (7.3.0)",

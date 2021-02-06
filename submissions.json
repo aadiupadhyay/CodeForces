@@ -5501,6 +5501,24 @@
     ],
     "timestamp": "Jan/30/2021 00:12"
   },
+  "CF106668168": {
+    "contest_id": 1481,
+    "language": "PyPy 3",
+    "path": "codeforces\\1481\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fence Painting",
+    "problem_url": "https://codeforces.com/contest/1481/problem/C",
+    "submission_id": "CF106668168",
+    "submission_url": "https://codeforces.com/contest/1481/submission/106668168",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Feb/06/2021 16:24"
+  },
   "CF107232400": {
     "contest_id": 1480,
     "language": "PyPy 3",

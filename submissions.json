@@ -3199,6 +3199,22 @@
     ],
     "timestamp": "Jan/30/2021 18:49"
   },
+  "AC20019374": {
+    "contest_id": "abc191",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc191\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Vanishing Pitch",
+    "problem_url": "https://atcoder.jp/contests/abc191/tasks/abc191_a",
+    "submission_id": "AC20019374",
+    "submission_url": "https://atcoder.jp/contests/abc191/submissions/20019374",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/07/2021 03:20"
+  },
   "CF100054430": {
     "contest_id": 1455,
     "language": "PyPy 3",

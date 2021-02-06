@@ -5501,6 +5501,24 @@
     ],
     "timestamp": "Jan/30/2021 00:12"
   },
+  "CF106666851": {
+    "contest_id": 1481,
+    "language": "PyPy 3",
+    "path": "codeforces\\1481\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Colony",
+    "problem_url": "https://codeforces.com/contest/1481/problem/B",
+    "submission_id": "CF106666851",
+    "submission_url": "https://codeforces.com/contest/1481/submission/106666851",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Feb/06/2021 16:02"
+  },
   "CF106668168": {
     "contest_id": 1481,
     "language": "PyPy 3",

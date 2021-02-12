@@ -5501,6 +5501,24 @@
     ],
     "timestamp": "Jan/30/2021 00:12"
   },
+  "CF107234850": {
+    "contest_id": 1480,
+    "language": "PyPy 3",
+    "path": "codeforces\\1480\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Great Hero",
+    "problem_url": "https://codeforces.com/contest/1480/problem/B",
+    "submission_id": "CF107234850",
+    "submission_url": "https://codeforces.com/contest/1480/submission/107234850",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Feb/12/2021 23:37"
+  },
   "CF107235988": {
     "contest_id": 1480,
     "language": "PyPy 3",

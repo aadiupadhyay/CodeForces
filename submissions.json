@@ -5501,6 +5501,25 @@
     ],
     "timestamp": "Jan/30/2021 00:12"
   },
+  "CF107235988": {
+    "contest_id": 1480,
+    "language": "PyPy 3",
+    "path": "codeforces\\1480\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Searching Local Minimum",
+    "problem_url": "https://codeforces.com/contest/1480/problem/C",
+    "submission_id": "CF107235988",
+    "submission_url": "https://codeforces.com/contest/1480/submission/107235988",
+    "tags": [
+      "binary search",
+      "interactive",
+      "math",
+      "ternary search",
+      "*1700"
+    ],
+    "timestamp": "Feb/12/2021 23:55"
+  },
   "CF107238354": {
     "contest_id": 1485,
     "language": "PyPy 3",

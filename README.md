@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1016 | [C - Floor and Mod](https://codeforces.com/contest/1485/problem/C) | [PyPy 3](./codeforces/1485/C.py) | `brute force` `math` `number theory` | Feb/13/2021 02:22 | 
+1017 | [C - Floor and Mod](https://codeforces.com/contest/1485/problem/C) | [PyPy 3](./codeforces/1485/C.py) | `brute force` `math` `number theory` | Feb/13/2021 02:22 | 
+1016 | [D - Multiples and Power Differences](https://codeforces.com/contest/1485/problem/D) | [PyPy 3](./codeforces/1485/D.py) | `constructive algorithms` `math` `number theory` | Feb/13/2021 01:28 | 
 1015 | [D - Staircase Sequences](https://atcoder.jp/contests/abc190/tasks/abc190_d) | [PyPy3 (7.3.0)](./atcoder/abc190/D.py) | `AtCoder` `*400` | Jan/30/2021 18:49 | 
 1014 | [B - Magic 3](https://atcoder.jp/contests/abc190/tasks/abc190_b) | [PyPy3 (7.3.0)](./atcoder/abc190/B.py) | `AtCoder` `*200` | Jan/30/2021 17:45 | 
 1013 | [A - Very Very Primitive Game](https://atcoder.jp/contests/abc190/tasks/abc190_a) | [PyPy3 (7.3.0)](./atcoder/abc190/A.py) | `AtCoder` `*100` | Jan/30/2021 17:38 | 

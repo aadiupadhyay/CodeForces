@@ -64,7 +64,7 @@ def solve():
     for i in range(n):
         for j in range(m):
             x = l[i][j]
-            if (i+j)&1:
+            if (i+j) % 2 == 0:
                 print(720720+pow(x, 4), end=' ')
             else:
                 print(720720, end=' ')

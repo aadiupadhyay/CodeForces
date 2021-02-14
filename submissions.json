@@ -3247,6 +3247,22 @@
     ],
     "timestamp": "Feb/07/2021 03:20"
   },
+  "AC20186841": {
+    "contest_id": "arc112",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\arc112\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "B = C",
+    "problem_url": "https://atcoder.jp/contests/arc112/tasks/arc112_a",
+    "submission_id": "AC20186841",
+    "submission_url": "https://atcoder.jp/contests/arc112/submissions/20186841",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/15/2021 00:03"
+  },
   "AC20353165": {
     "contest_id": "abc192",
     "language": "PyPy3 (7.3.0)",

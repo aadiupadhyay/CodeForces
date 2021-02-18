@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1030 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [PyPy 3](./codeforces/1486/A.py) | `greedy` `implementation` | Feb/19/2021 02:06 | 
 1029 | [C - Floor and Mod](https://codeforces.com/contest/1485/problem/C) | [PyPy 3](./codeforces/1485/C.py) | `brute force` `math` `number theory` | Feb/13/2021 02:22 | 
 1028 | [D - Multiples and Power Differences](https://codeforces.com/contest/1485/problem/D) | [PyPy 3](./codeforces/1485/D.py) | `constructive algorithms` `math` `number theory` | Feb/13/2021 01:28 | 
 1027 | [B - Replace and Keep Sorted](https://codeforces.com/contest/1485/problem/B) | [PyPy 3](./codeforces/1485/B.py) | `dp` `implementation` `math` | Feb/13/2021 00:45 | 

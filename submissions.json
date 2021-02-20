@@ -3247,6 +3247,22 @@
     ],
     "timestamp": "Feb/07/2021 03:20"
   },
+  "AC20353251": {
+    "contest_id": "abc192",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc192\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "uNrEaDaBlE sTrInG",
+    "problem_url": "https://atcoder.jp/contests/abc192/tasks/abc192_b",
+    "submission_id": "AC20353251",
+    "submission_url": "https://atcoder.jp/contests/abc192/submissions/20353251",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/20/2021 21:52"
+  },
   "AC20353469": {
     "contest_id": "abc192",
     "language": "PyPy3 (7.3.0)",

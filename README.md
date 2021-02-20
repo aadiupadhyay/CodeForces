@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1039 | [B - A^B^C](https://atcoder.jp/contests/arc113/tasks/arc113_b) | [PyPy3 (7.3.0)](./atcoder/arc113/B.py) | `AtCoder` `*400` | Feb/26/2021 03:13 | 
-1038 | [A - A*B*C](https://atcoder.jp/contests/arc113/tasks/arc113_a) | [PyPy3 (7.3.0)](./atcoder/arc113/A.py) | `AtCoder` `*300` | Feb/26/2021 03:07 | 
+1040 | [B - A^B^C](https://atcoder.jp/contests/arc113/tasks/arc113_b) | [PyPy3 (7.3.0)](./atcoder/arc113/B.py) | `AtCoder` `*400` | Feb/26/2021 03:13 | 
+1039 | [A - A*B*C](https://atcoder.jp/contests/arc113/tasks/arc113_a) | [PyPy3 (7.3.0)](./atcoder/arc113/A.py) | `AtCoder` `*300` | Feb/26/2021 03:07 | 
+1038 | [C - Kaprekar Number](https://atcoder.jp/contests/abc192/tasks/abc192_c) | [PyPy3 (7.3.0)](./atcoder/abc192/C.py) | `AtCoder` `*300` | Feb/20/2021 21:58 | 
 1037 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [PyPy 3](./codeforces/1486/A.py) | `greedy` `implementation` | Feb/19/2021 02:06 | 
 1036 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [PyPy 3](./codeforces/1490/E.py) | `binary search` `data structures` `greedy` `*1400` | Feb/16/2021 23:00 | 
 1035 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [PyPy 3](./codeforces/1490/C.py) | `binary search` `brute force` `brute force` `math` `*1100` | Feb/16/2021 22:48 | 

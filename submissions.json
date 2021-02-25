@@ -3247,6 +3247,22 @@
     ],
     "timestamp": "Feb/07/2021 03:20"
   },
+  "AC20488164": {
+    "contest_id": "arc113",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\arc113\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "A^B^C",
+    "problem_url": "https://atcoder.jp/contests/arc113/tasks/arc113_b",
+    "submission_id": "AC20488164",
+    "submission_url": "https://atcoder.jp/contests/arc113/submissions/20488164",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/26/2021 03:13"
+  },
   "CF100054430": {
     "contest_id": 1455,
     "language": "PyPy 3",

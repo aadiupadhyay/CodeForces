@@ -3343,6 +3343,22 @@
     ],
     "timestamp": "Feb/26/2021 03:13"
   },
+  "AC20562274": {
+    "contest_id": "abc193",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc193\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Play Snuke",
+    "problem_url": "https://atcoder.jp/contests/abc193/tasks/abc193_b",
+    "submission_id": "AC20562274",
+    "submission_url": "https://atcoder.jp/contests/abc193/submissions/20562274",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/28/2021 00:53"
+  },
   "AC20602246": {
     "contest_id": "practice2",
     "language": "PyPy3 (7.3.0)",

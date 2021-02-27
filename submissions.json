@@ -3343,6 +3343,22 @@
     ],
     "timestamp": "Feb/26/2021 03:13"
   },
+  "AC20562241": {
+    "contest_id": "abc193",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc193\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Unexpressed",
+    "problem_url": "https://atcoder.jp/contests/abc193/tasks/abc193_c",
+    "submission_id": "AC20562241",
+    "submission_url": "https://atcoder.jp/contests/abc193/submissions/20562241",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/28/2021 00:47"
+  },
   "AC20562274": {
     "contest_id": "abc193",
     "language": "PyPy3 (7.3.0)",

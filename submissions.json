@@ -3343,6 +3343,22 @@
     ],
     "timestamp": "Feb/26/2021 03:13"
   },
+  "AC20602246": {
+    "contest_id": "practice2",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\practice2\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Fenwick Tree",
+    "problem_url": "https://atcoder.jp/contests/practice2/tasks/practice2_b",
+    "submission_id": "AC20602246",
+    "submission_url": "https://atcoder.jp/contests/practice2/submissions/20602246",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/02/2021 00:18"
+  },
   "AC20765700": {
     "contest_id": "abc174",
     "language": "PyPy3 (7.3.0)",

@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1044 | [C - Squared Error](https://atcoder.jp/contests/abc194/tasks/abc194_c) | [PyPy3 (7.3.0)](./atcoder/abc194/C.py) | `AtCoder` `*300` | Mar/12/2021 02:00 | 
-1043 | [B - Fenwick Tree](https://atcoder.jp/contests/practice2/tasks/practice2_b) | [PyPy3 (7.3.0)](./atcoder/practice2/B.py) | `AtCoder` `*100` | Mar/11/2021 16:04 | 
+1045 | [C - Squared Error](https://atcoder.jp/contests/abc194/tasks/abc194_c) | [PyPy3 (7.3.0)](./atcoder/abc194/C.py) | `AtCoder` `*300` | Mar/12/2021 02:00 | 
+1044 | [B - Fenwick Tree](https://atcoder.jp/contests/practice2/tasks/practice2_b) | [PyPy3 (7.3.0)](./atcoder/practice2/B.py) | `AtCoder` `*100` | Mar/11/2021 16:04 | 
+1043 | [F - Range Set Query](https://atcoder.jp/contests/abc174/tasks/abc174_f) | [PyPy3 (7.3.0)](./atcoder/abc174/F.py) | `AtCoder` `*600` | Mar/08/2021 01:21 | 
 1042 | [B - A^B^C](https://atcoder.jp/contests/arc113/tasks/arc113_b) | [PyPy3 (7.3.0)](./atcoder/arc113/B.py) | `AtCoder` `*400` | Feb/26/2021 03:13 | 
 1041 | [A - A*B*C](https://atcoder.jp/contests/arc113/tasks/arc113_a) | [PyPy3 (7.3.0)](./atcoder/arc113/A.py) | `AtCoder` `*300` | Feb/26/2021 03:07 | 
 1040 | [C - Kaprekar Number](https://atcoder.jp/contests/abc192/tasks/abc192_c) | [PyPy3 (7.3.0)](./atcoder/abc192/C.py) | `AtCoder` `*300` | Feb/20/2021 21:58 | 

@@ -1,56 +1,49 @@
-from sys  import stdin,stdout
-from collections  import *
-from math import ceil, floor , log, gcd
-st=lambda:list(stdin.readline().strip())
-li=lambda:list(map(int,stdin.readline().split()))
-mp=lambda:map(int,stdin.readline().split())
-inp=lambda:int(stdin.readline())
-pr=lambda n: stdout.write(str(n)+"\n")
- 
-mod=1000000007
-INF=float('inf')
-
-def BUILD(ind, ss, se):
-    if ss==se:
-        seg[ind]= l[ss]
-        return
-    mid= (ss+se) >>1
-    BUILD(2*ind+1, ss,mid)
-    BUILD(2*ind+2,mid+1,se)
-
-    seg[ind]=seg[2*ind+1] + seg[2*ind+2]
+# aadiupadhyay
+import os.path
+from math import gcd, floor, ceil
+from collections import *
+import sys
+mod = 1000000007
+INF = float('inf')
+def st(): return list(sys.stdin.readline().strip())
+def li(): return list(map(int, sys.stdin.readline().split()))
+def mp(): return map(int, sys.stdin.readline().split())
+def inp(): return int(sys.stdin.readline())
+def pr(n): return sys.stdout.write(str(n)+"\n")
+def prl(n): return sys.stdout.write(str(n)+" ")
 
 
-def UPDATE(ind,ss,se,pos):
-    if ss==se:
-        seg[ind]=l[ss]
-        return
-    mid = (ss+se)>>1
-    if mid>=pos:
-        UPDATE(2*ind+1,ss,mid,pos)
-    else:
-        UPDATE(2*ind+2,mid+1,se,pos)
-        
-    seg[ind]=seg[2*ind+1] + seg[2*ind+2]
-    
-
-def QUERY(ind,ss,se,qs,qe):
-    if ss> qe or se<qs:
-        return 0
-    if ss>=qs and se<=qe:
-        return seg[ind]
-    mid= (ss+se)>>1
-    return  QUERY(2*ind +1 ,ss,mid,qs,qe) + QUERY(2*ind+2,mid+1,se,qs,qe)
+if os.path.exists('input.txt'):
+    sys.stdin = open('input.txt', 'r')
+    sys.stdout = open('output.txt', 'w')
 
 
-n,q = mp()
-l=li()
-seg=[0 for i in range(4*n)]
-BUILD(0,0,n-1)  #index , segment start , segment end
+def update(ind, x):
+    while ind <= n:
+        fenwick[ind] += x
+        ind += ind & -ind
+
+
+def sum(ind):
+    s = 0
+    while ind > 0:
+        s += fenwick[ind]
+        ind -= ind & -ind
+    return s
+
+
+n, q = mp()
+l = [0]+li()
+fenwick = [0 for i in range(n+10)]
+for i in range(1, n+1):
+    update(i, l[i])
 for i in range(q):
-    a,b,c= mp()
-    if a==0:
-        l[b]+=c
-        UPDATE(0,0,n-1,b)
+    a, b, c = mp()
+    if a == 0:
+        b += 1
+        update(b, c)
     else:
-        print(QUERY(0,0,n-1,b,c-1))
+        # make 1 base index
+        b += 1
+        c += 1
+        print(sum(c-1)-sum(b-1))

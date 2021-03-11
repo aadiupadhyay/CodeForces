@@ -14,272 +14,272 @@ A repository to keep track of problem solving practice, containing solutions fro
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
 1044 | [C - Squared Error](https://atcoder.jp/contests/abc194/tasks/abc194_c) | [PyPy3 (7.3.0)](./atcoder/abc194/C.py) | `AtCoder` `*300` | Mar/12/2021 02:00 | 
-1043 | [B - A^B^C](https://atcoder.jp/contests/arc113/tasks/arc113_b) | [PyPy3 (7.3.0)](./atcoder/arc113/B.py) | `AtCoder` `*400` | Feb/26/2021 03:13 | 
-1042 | [A - A*B*C](https://atcoder.jp/contests/arc113/tasks/arc113_a) | [PyPy3 (7.3.0)](./atcoder/arc113/A.py) | `AtCoder` `*300` | Feb/26/2021 03:07 | 
-1041 | [C - Kaprekar Number](https://atcoder.jp/contests/abc192/tasks/abc192_c) | [PyPy3 (7.3.0)](./atcoder/abc192/C.py) | `AtCoder` `*300` | Feb/20/2021 21:58 | 
-1040 | [B - uNrEaDaBlE sTrInG](https://atcoder.jp/contests/abc192/tasks/abc192_b) | [PyPy3 (7.3.0)](./atcoder/abc192/B.py) | `AtCoder` `*200` | Feb/20/2021 21:52 | 
-1039 | [A - Star](https://atcoder.jp/contests/abc192/tasks/abc192_a) | [PyPy3 (7.3.0)](./atcoder/abc192/A.py) | `AtCoder` `*100` | Feb/20/2021 21:49 | 
-1038 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [PyPy 3](./codeforces/1486/A.py) | `greedy` `implementation` | Feb/19/2021 02:06 | 
-1037 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [PyPy 3](./codeforces/1490/E.py) | `binary search` `data structures` `greedy` `*1400` | Feb/16/2021 23:00 | 
-1036 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [PyPy 3](./codeforces/1490/C.py) | `binary search` `brute force` `brute force` `math` `*1100` | Feb/16/2021 22:48 | 
-1035 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [PyPy 3](./codeforces/1490/D.py) | `dfs and similar` `divide and conquer` `implementation` `*1200` | Feb/16/2021 22:45 | 
-1034 | [B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B) | [PyPy 3](./codeforces/1490/B.py) | `brute force` `constructive algorithms` `math` `*1000` | Feb/16/2021 22:44 | 
-1033 | [A - Dense Array](https://codeforces.com/contest/1490/problem/A) | [PyPy 3](./codeforces/1490/A.py) | `greedy` `math` `*800` | Feb/16/2021 22:43 | 
-1032 | [F - Equalize the Array](https://codeforces.com/contest/1490/problem/F) | [PyPy 3](./codeforces/1490/F.py) | `binary search` `data structures` `greedy` `math` `sortings` `*1500` | Feb/16/2021 22:42 | 
-1031 | [A - Arena](https://codeforces.com/contest/1487/problem/A) | [PyPy 3](./codeforces/1487/A.py) | `implementation` `sortings` `*800` | Feb/16/2021 16:04 | 
-1030 | [A - B = C](https://atcoder.jp/contests/arc112/tasks/arc112_a) | [PyPy3 (7.3.0)](./atcoder/arc112/A.py) | `AtCoder` `*300` | Feb/15/2021 00:03 | 
-1029 | [C - Floor and Mod](https://codeforces.com/contest/1485/problem/C) | [PyPy 3](./codeforces/1485/C.py) | `brute force` `math` `number theory` | Feb/13/2021 02:22 | 
-1028 | [D - Multiples and Power Differences](https://codeforces.com/contest/1485/problem/D) | [PyPy 3](./codeforces/1485/D.py) | `constructive algorithms` `math` `number theory` | Feb/13/2021 01:28 | 
-1027 | [B - Replace and Keep Sorted](https://codeforces.com/contest/1485/problem/B) | [PyPy 3](./codeforces/1485/B.py) | `dp` `implementation` `math` | Feb/13/2021 00:45 | 
-1026 | [A - Add and Divide](https://codeforces.com/contest/1485/problem/A) | [PyPy 3](./codeforces/1485/A.py) | `brute force` `greedy` `math` | Feb/13/2021 00:33 | 
-1025 | [C - Searching Local Minimum](https://codeforces.com/contest/1480/problem/C) | [PyPy 3](./codeforces/1480/C.py) | `binary search` `interactive` `math` `ternary search` `*1700` | Feb/12/2021 23:55 | 
-1024 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [PyPy 3](./codeforces/1480/B.py) | `greedy` `implementation` `sortings` `*900` | Feb/12/2021 23:37 | 
-1023 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [PyPy 3](./codeforces/1480/A.py) | `games` `greedy` `strings` `*800` | Feb/12/2021 23:08 | 
-1022 | [A - Vanishing Pitch](https://atcoder.jp/contests/abc191/tasks/abc191_a) | [PyPy3 (7.3.0)](./atcoder/abc191/A.py) | `AtCoder` `*100` | Feb/07/2021 03:20 | 
-1021 | [B - Remove It](https://atcoder.jp/contests/abc191/tasks/abc191_b) | [PyPy3 (7.3.0)](./atcoder/abc191/B.py) | `AtCoder` `*200` | Feb/07/2021 03:16 | 
-1020 | [C - Fence Painting](https://codeforces.com/contest/1481/problem/C) | [PyPy 3](./codeforces/1481/C.py) | `brute force` `constructive algorithms` `greedy` `*1600` | Feb/06/2021 16:24 | 
-1019 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [PyPy 3](./codeforces/1481/B.py) | `brute force` `greedy` `implementation` `*1100` | Feb/06/2021 16:02 | 
-1018 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [PyPy 3](./codeforces/1481/A.py) | `greedy` `strings` `*800` | Feb/05/2021 23:50 | 
-1017 | [C - Longest Simple Cycle](https://codeforces.com/contest/1476/problem/C) | [PyPy 3](./codeforces/1476/C.py) | `dp` `graphs` `greedy` `*1600` | Feb/05/2021 18:56 | 
-1016 | [F - Shift and Inversions](https://atcoder.jp/contests/abc190/tasks/abc190_f) | [PyPy3 (7.3.0)](./atcoder/abc190/F.py) | `AtCoder` `*600` | Feb/01/2021 02:48 | 
-1015 | [D - Staircase Sequences](https://atcoder.jp/contests/abc190/tasks/abc190_d) | [PyPy3 (7.3.0)](./atcoder/abc190/D.py) | `AtCoder` `*400` | Jan/30/2021 18:49 | 
-1014 | [B - Magic 3](https://atcoder.jp/contests/abc190/tasks/abc190_b) | [PyPy3 (7.3.0)](./atcoder/abc190/B.py) | `AtCoder` `*200` | Jan/30/2021 17:45 | 
-1013 | [A - Very Very Primitive Game](https://atcoder.jp/contests/abc190/tasks/abc190_a) | [PyPy3 (7.3.0)](./atcoder/abc190/A.py) | `AtCoder` `*100` | Jan/30/2021 17:38 | 
-1012 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [PyPy 3](./codeforces/1476/B.py) | `binary search` `brute force` `greedy` `math` | Jan/30/2021 00:12 | 
-1011 | [A - K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | [PyPy 3](./codeforces/1476/A.py) | `binary search` `constructive algorithms` `greedy` `math` | Jan/30/2021 00:11 | 
-1010 | [B - Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | [PyPy 3](./codeforces/1478/B.py) | `brute force` `dp` `greedy` `math` `*1100` | Jan/29/2021 21:23 | 
-1009 | [A - Nezzar and Colorful Balls](https://codeforces.com/contest/1478/problem/A) | [PyPy 3](./codeforces/1478/A.py) | `brute force` `greedy` `*800` | Jan/29/2021 21:22 | 
-1008 | [E - Advertising Agency](https://codeforces.com/contest/1475/problem/E) | [PyPy 3](./codeforces/1475/E.py) | `combinatorics` `implementation` `math` `sortings` | Jan/26/2021 01:33 | 
-1007 | [B - New Year's Number](https://codeforces.com/contest/1475/problem/B) | [PyPy 3](./codeforces/1475/B.py) | `brute force` `dp` `math` | Jan/25/2021 22:53 | 
-1006 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [PyPy 3](./codeforces/1475/C.py) | `combinatorics` `dfs and similar` `graphs` `hashing` `math` | Jan/25/2021 22:48 | 
-1005 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [PyPy 3](./codeforces/1475/A.py) | `bitmasks` `math` `number theory` | Jan/25/2021 22:46 | 
-1004 | [D - Logical Expression](https://atcoder.jp/contests/abc189/tasks/abc189_d) | [PyPy3 (7.3.0)](./atcoder/abc189/D.py) | `AtCoder` `*400` | Jan/24/2021 15:04 | 
-1003 | [B - Alcoholic](https://atcoder.jp/contests/abc189/tasks/abc189_b) | [PyPy3 (7.3.0)](./atcoder/abc189/B.py) | `AtCoder` `*200` | Jan/24/2021 14:40 | 
-1002 | [C - Mandarin Orange](https://atcoder.jp/contests/abc189/tasks/abc189_c) | [PyPy3 (7.3.0)](./atcoder/abc189/C.py) | `AtCoder` `*300` | Jan/23/2021 17:42 | 
-1001 | [A - Slot](https://atcoder.jp/contests/abc189/tasks/abc189_a) | [PyPy3 (7.3.0)](./atcoder/abc189/A.py) | `AtCoder` `*100` | Jan/23/2021 17:32 | 
-1000 | [B - Different Divisors](https://codeforces.com/contest/1474/problem/B) | [PyPy 3](./codeforces/1474/B.py) | `binary search` `constructive algorithms` `greedy` `math` `number theory` `*1000` | Jan/20/2021 00:28 | 
-999 | [A - Puzzle From the Future](https://codeforces.com/contest/1474/problem/A) | [PyPy 3](./codeforces/1474/A.py) | `greedy` `*800` | Jan/20/2021 00:17 | 
-998 | [B - Mex Boxes](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b) | [PyPy3 (7.3.0)](./atcoder/keyence2021/B.py) | `AtCoder` `*400` | Jan/16/2021 23:48 | 
-997 | [A - Two Sequences 2](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_a) | [PyPy3 (7.3.0)](./atcoder/keyence2021/A.py) | `AtCoder` `*300` | Jan/16/2021 23:19 | 
-996 | [B - Yet Another Meme Problem](https://codeforces.com/contest/1288/problem/B) | [PyPy 3](./codeforces/1288/B.py) | `math` `*1100` | Jan/16/2021 22:45 | 
-995 | [C - No More Inversions](https://codeforces.com/contest/1473/problem/C) | [PyPy 3](./codeforces/1473/C.py) | `constructive algorithms` `math` `*1500` | Jan/14/2021 22:08 | 
-994 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3](./codeforces/1473/B.py) | `brute force` `math` `number theory` `strings` `*1000` | Jan/14/2021 22:07 | 
-993 | [A - Replacing Elements](https://codeforces.com/contest/1473/problem/A) | [PyPy 3](./codeforces/1473/A.py) | `greedy` `implementation` `math` `sortings` `*800` | Jan/14/2021 22:06 | 
-992 | [A - Hotelier](https://codeforces.com/contest/1200/problem/A) | [PyPy 3](./codeforces/1200/A.py) | `brute force` `data structures` `implementation` `*800` | Jan/13/2021 14:03 | 
-991 | [A - Heist](https://codeforces.com/contest/1041/problem/A) | [PyPy 3](./codeforces/1041/A.py) | `greedy` `implementation` `sortings` `*800` | Jan/13/2021 01:42 | 
-990 | [A - Dawid and Bags of Candies](https://codeforces.com/contest/1230/problem/A) | [PyPy 3](./codeforces/1230/A.py) | `brute force` `implementation` `*800` | Jan/13/2021 01:27 | 
-989 | [D - Snuke Prime](https://atcoder.jp/contests/abc188/tasks/abc188_d) | [PyPy3 (7.3.0)](./atcoder/abc188/D.py) | `AtCoder` `*400` | Jan/11/2021 02:20 | 
-988 | [C - Strange Birthday Party](https://codeforces.com/contest/1471/problem/C) | [PyPy 3](./codeforces/1471/C.py) | `brute force` `greedy` `sortings` `*1300` | Jan/11/2021 01:43 | 
-987 | [B - Strange List](https://codeforces.com/contest/1471/problem/B) | [PyPy 3](./codeforces/1471/B.py) | `brute force` `greedy` `implementation` `math` `*1100` | Jan/11/2021 00:39 | 
-986 | [A - Strange Partition](https://codeforces.com/contest/1471/problem/A) | [PyPy 3](./codeforces/1471/A.py) | `greedy` `math` `number theory` `*900` | Jan/11/2021 00:28 | 
-985 | [A - Make a triangle!](https://codeforces.com/contest/1064/problem/A) | [PyPy 3](./codeforces/1064/A.py) | `brute force` `geometry` `math` `*800` | Jan/10/2021 23:22 | 
-984 | [C - ABC Tournament](https://atcoder.jp/contests/abc188/tasks/abc188_c) | [PyPy3 (7.3.0)](./atcoder/abc188/C.py) | `AtCoder` `*300` | Jan/10/2021 17:51 | 
-983 | [B - Orthogonality](https://atcoder.jp/contests/abc188/tasks/abc188_b) | [PyPy3 (7.3.0)](./atcoder/abc188/B.py) | `AtCoder` `*200` | Jan/10/2021 17:33 | 
-982 | [A - Three-Point Shot](https://atcoder.jp/contests/abc188/tasks/abc188_a) | [PyPy3 (7.3.0)](./atcoder/abc188/A.py) | `AtCoder` `*100` | Jan/10/2021 17:31 | 
-981 | [A - Between the Offices](https://codeforces.com/contest/867/problem/A) | [PyPy 3](./codeforces/867/A.py) | `implementation` `*800` | Jan/10/2021 05:33 | 
-980 | [C - Three Bags](https://codeforces.com/contest/1467/problem/C) | [PyPy 3](./codeforces/1467/C.py) | `constructive algorithms` `greedy` `*1900` | Jan/08/2021 23:32 | 
-979 | [A - There Are Two Types Of Burgers](https://codeforces.com/contest/1207/problem/A) | [PyPy 3](./codeforces/1207/A.py) | `brute force` `greedy` `implementation` `math` `*800` | Jan/08/2021 23:32 | 
-978 | [A - Wizard of Orz](https://codeforces.com/contest/1467/problem/A) | [PyPy 3](./codeforces/1467/A.py) | `constructive algorithms` `greedy` `math` `*900` | Jan/08/2021 23:31 | 
-977 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [PyPy 3](./codeforces/486/A.py) | `implementation` `math` `*800` | Jan/07/2021 23:01 | 
-976 | [A - Equality](https://codeforces.com/contest/1038/problem/A) | [PyPy 3](./codeforces/1038/A.py) | `implementation` `strings` `*800` | Jan/06/2021 23:52 | 
-975 | [A - Olympiad](https://codeforces.com/contest/937/problem/A) | [PyPy 3](./codeforces/937/A.py) | `implementation` `sortings` `*800` | Jan/06/2021 23:50 | 
-974 | [B - Fair Division](https://codeforces.com/contest/1472/problem/B) | [PyPy 3](./codeforces/1472/B.py) | `dp` `greedy` `math` `*800` | Jan/04/2021 22:09 | 
-973 | [C - Long Jumps](https://codeforces.com/contest/1472/problem/C) | [PyPy 3](./codeforces/1472/C.py) | `dp` `graphs` `*1100` | Jan/04/2021 22:09 | 
-972 | [D - Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | [PyPy 3](./codeforces/1472/D.py) | `dp` `games` `greedy` `sortings` `*1200` | Jan/04/2021 22:09 | 
-971 | [A - Cards for Friends](https://codeforces.com/contest/1472/problem/A) | [PyPy 3](./codeforces/1472/A.py) | `greedy` `math` `*800` | Jan/04/2021 22:08 | 
-970 | [D - Choose Me](https://atcoder.jp/contests/abc187/tasks/abc187_d) | [Python (3.8.2)](./atcoder/abc187/D.py) | `AtCoder` `*400` | Jan/02/2021 19:20 | 
-969 | [C - 1-SAT](https://atcoder.jp/contests/abc187/tasks/abc187_c) | [PyPy3 (7.3.0)](./atcoder/abc187/C.py) | `AtCoder` `*300` | Jan/02/2021 17:42 | 
-968 | [B - Gentle Pairs](https://atcoder.jp/contests/abc187/tasks/abc187_b) | [PyPy3 (7.3.0)](./atcoder/abc187/B.py) | `AtCoder` `*200` | Jan/02/2021 17:37 | 
-967 | [A - Large Digits](https://atcoder.jp/contests/abc187/tasks/abc187_a) | [PyPy3 (7.3.0)](./atcoder/abc187/A.py) | `AtCoder` `*100` | Jan/02/2021 17:32 | 
-966 | [D - Road to Millionaire](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_d) | [PyPy3 (7.3.0)](./atcoder/m-solutions2020/D.py) | `AtCoder` `*400` | Jan/01/2021 22:22 | 
-965 | [D - Water Heater](https://atcoder.jp/contests/abc183/tasks/abc183_d) | [PyPy3 (7.3.0)](./atcoder/abc183/D.py) | `AtCoder` `*400` | Jan/01/2021 01:32 | 
-964 | [C - Canine poetry](https://codeforces.com/contest/1466/problem/C) | [PyPy 3](./codeforces/1466/C.py) | `dp` `greedy` `strings` `*1300` | Dec/31/2020 01:17 | 
-963 | [D - 13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | [PyPy 3](./codeforces/1466/D.py) | `data structures` `greedy` `sortings` `trees` `*1500` | Dec/31/2020 01:17 | 
-962 | [A - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | [PyPy 3](./codeforces/1466/A.py) | `brute force` `geometry` `math` `*800` | Dec/31/2020 01:16 | 
-961 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [PyPy 3](./codeforces/1466/B.py) | `dp` `greedy` `*800` | Dec/31/2020 01:16 | 
-960 | [C - Building a Fence](https://codeforces.com/contest/1469/problem/C) | [PyPy 3](./codeforces/1469/C.py) | `dp` `greedy` `implementation` `two pointers` `*1600` | Dec/29/2020 01:33 | 
-959 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [PyPy 3](./codeforces/1469/A.py) | `constructive algorithms` `greedy` `*1000` | Dec/28/2020 23:21 | 
-958 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [PyPy 3](./codeforces/1469/B.py) | `dp` `greedy` `*1000` | Dec/28/2020 23:20 | 
-957 | [D - Ceil Divisions](https://codeforces.com/contest/1469/problem/D) | [PyPy 3](./codeforces/1469/D.py) | `brute force` `constructive algorithms` `math` `number theory` `*1700` | Dec/28/2020 23:19 | 
-956 | [A - AtCoder Jumper](https://atcoder.jp/contests/agc050/tasks/agc050_a) | [PyPy3 (7.3.0)](./atcoder/agc050/A.py) | `AtCoder` `*500` | Dec/28/2020 01:13 | 
-955 | [D - Taxes](https://codeforces.com/contest/735/problem/D) | [PyPy 3](./codeforces/735/D.py) | `math` `number theory` `*1600` | Dec/27/2020 23:20 | 
-954 | [A - Suits](https://codeforces.com/contest/1271/problem/A) | [PyPy 3](./codeforces/1271/A.py) | `brute force` `greedy` `math` `*800` | Dec/27/2020 00:04 | 
-953 | [C - Xor-tree](https://codeforces.com/contest/430/problem/C) | [PyPy 3](./codeforces/430/C.py) | `brute force` `data structures` `dfs and similar` `trees` `*1300` | Dec/26/2020 01:22 | 
-952 | [A - Xor-tree](https://codeforces.com/contest/429/problem/A) | [Python 3](./codeforces/429/A.py) | `dfs and similar` `trees` `*1300` | Dec/26/2020 01:15 | 
-951 | [A - Balanced Rating Changes](https://codeforces.com/contest/1237/problem/A) | [PyPy 3](./codeforces/1237/A.py) | `implementation` `math` `*1000` | Dec/25/2020 22:58 | 
-950 | [A - Good ol' Numbers Coloring](https://codeforces.com/contest/1245/problem/A) | [PyPy 3](./codeforces/1245/A.py) | `math` `number theory` `*1000` | Dec/25/2020 22:44 | 
-949 | [A - Plus Minus](https://atcoder.jp/contests/arc104/tasks/arc104_a) | [PyPy3 (7.3.0)](./atcoder/arc104/A.py) | `AtCoder` `*100` | Dec/25/2020 02:09 | 
-948 | [D - Add to Neighbour and Remove](https://codeforces.com/contest/1462/problem/D) | [PyPy 3](./codeforces/1462/D.py) | `greedy` `math` `number theory` `*1400` | Dec/24/2020 02:58 | 
-947 | [B - Most socially-distanced subsequence](https://codeforces.com/contest/1364/problem/B) | [PyPy 3](./codeforces/1364/B.py) | `greedy` `two pointers` `*1300` | Dec/21/2020 02:03 | 
-946 | [B - Fair Numbers](https://codeforces.com/contest/1465/problem/B) | [PyPy 3](./codeforces/1465/B.py) | `brute force` `math` `number theory` `*1000` | Dec/20/2020 23:42 | 
-945 | [A - In-game Chat](https://codeforces.com/contest/1465/problem/A) | [PyPy 3](./codeforces/1465/A.py) | `implementation` `strings` `*800` | Dec/20/2020 23:42 | 
-944 | [D - Sum of difference](https://atcoder.jp/contests/abc186/tasks/abc186_d) | [PyPy3 (7.3.0)](./atcoder/abc186/D.py) | `AtCoder` `*400` | Dec/19/2020 17:59 | 
-943 | [C - Unlucky 7](https://atcoder.jp/contests/abc186/tasks/abc186_c) | [PyPy3 (7.3.0)](./atcoder/abc186/C.py) | `AtCoder` `*300` | Dec/19/2020 17:40 | 
-942 | [B - Blocks on Grid](https://atcoder.jp/contests/abc186/tasks/abc186_b) | [PyPy3 (7.3.0)](./atcoder/abc186/B.py) | `AtCoder` `*200` | Dec/19/2020 17:33 | 
-941 | [A - Brick](https://atcoder.jp/contests/abc186/tasks/abc186_a) | [PyPy3 (7.3.0)](./atcoder/abc186/A.py) | `AtCoder` `*100` | Dec/19/2020 17:30 | 
-940 | [C - Row GCD](https://codeforces.com/contest/1459/problem/C) | [PyPy 3](./codeforces/1459/C.py) | `math` `number theory` `*1600` | Dec/19/2020 16:28 | 
-939 | [B - Move and Turn](https://codeforces.com/contest/1459/problem/B) | [PyPy 3](./codeforces/1459/B.py) | `dp` `math` `*1300` | Dec/19/2020 16:06 | 
-938 | [A - Red-Blue Shuffle](https://codeforces.com/contest/1459/problem/A) | [PyPy 3](./codeforces/1459/A.py) | `math` `probabilities` `*800` | Dec/19/2020 15:13 | 
-937 | [C - Factors of Factorial](https://atcoder.jp/contests/abc052/tasks/arc067_a) | [PyPy3 (7.3.0)](./atcoder/abc052/C.py) | `AtCoder` `*300` | Dec/18/2020 19:26 | 
-936 | [B - Sum of Three Integers](https://atcoder.jp/contests/abc051/tasks/abc051_b) | [PyPy3 (7.3.0)](./atcoder/abc051/B.py) | `AtCoder` `*200` | Dec/18/2020 02:20 | 
-935 | [A - Haiku](https://atcoder.jp/contests/abc051/tasks/abc051_a) | [PyPy3 (7.3.0)](./atcoder/abc051/A.py) | `AtCoder` `*100` | Dec/18/2020 02:15 | 
-934 | [B - Make Them Equal](https://codeforces.com/contest/1154/problem/B) | [PyPy 3](./codeforces/1154/B.py) | `math` `*1200` | Dec/18/2020 02:09 | 
-933 | [B - Ehab Is an Odd Person](https://codeforces.com/contest/1174/problem/B) | [PyPy 3](./codeforces/1174/B.py) | `sortings` `*1200` | Dec/18/2020 01:33 | 
-932 | [B - Good String](https://codeforces.com/contest/1140/problem/B) | [PyPy 3](./codeforces/1140/B.py) | `implementation` `strings` `*1200` | Dec/18/2020 00:49 | 
-931 | [A - Dungeon](https://codeforces.com/contest/1463/problem/A) | [PyPy 3](./codeforces/1463/A.py) | `binary search` `math` `*1100` | Dec/17/2020 23:14 | 
-930 | [B - Find The Array](https://codeforces.com/contest/1463/problem/B) | [PyPy 3](./codeforces/1463/B.py) | `bitmasks` `constructive algorithms` `greedy` `*1400` | Dec/17/2020 22:43 | 
-929 | [B - Fridge Lockers](https://codeforces.com/contest/1255/problem/B) | [PyPy 3](./codeforces/1255/B.py) | `graphs` `implementation` `*1100` | Dec/16/2020 23:32 | 
-928 | [A - 2048 Game](https://codeforces.com/contest/1221/problem/A) | [PyPy 3](./codeforces/1221/A.py) | `brute force` `greedy` `math` `*1000` | Dec/16/2020 23:17 | 
-927 | [E2 - Close Tuples (hard version)](https://codeforces.com/contest/1462/problem/E2) | [PyPy 3](./codeforces/1462/E2.py) | `binary search` `combinatorics` `implementation` `math` `sortings` `two pointers` `*1700` | Dec/16/2020 19:25 | 
-926 | [E1 - Close Tuples (easy version)](https://codeforces.com/contest/1462/problem/E1) | [PyPy 3](./codeforces/1462/E1.py) | `binary search` `combinatorics` `math` `sortings` `two pointers` `*1500` | Dec/16/2020 17:04 | 
-925 | [A - Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | [PyPy 3](./codeforces/1462/A.py) | `implementation` `two pointers` `*800` | Dec/15/2020 22:48 | 
-924 | [B - Last Year's Substring](https://codeforces.com/contest/1462/problem/B) | [PyPy 3](./codeforces/1462/B.py) | `dp` `implementation` `strings` `*800` | Dec/15/2020 22:48 | 
-923 | [C - Unique Number](https://codeforces.com/contest/1462/problem/C) | [PyPy 3](./codeforces/1462/C.py) | `brute force` `greedy` `math` `*900` | Dec/15/2020 22:48 | 
-922 | [D - Valid BFS?](https://codeforces.com/contest/1037/problem/D) | [PyPy 3](./codeforces/1037/D.py) | `dfs and similar` `graphs` `shortest paths` `trees` `*1700` | Dec/14/2020 23:39 | 
-921 | [F - Consecutive Subsequence](https://codeforces.com/contest/977/problem/F) | [PyPy 3](./codeforces/977/F.py) | `dp` `*1700` | Dec/14/2020 01:31 | 
-920 | [C - Perform the Combo](https://codeforces.com/contest/1311/problem/C) | [PyPy 3](./codeforces/1311/C.py) | `brute force` `*1300` | Dec/14/2020 00:45 | 
-919 | [F - Range Xor Query](https://atcoder.jp/contests/abc185/tasks/abc185_f) | [PyPy3 (7.3.0)](./atcoder/abc185/F.py) | `AtCoder` `*600` | Dec/13/2020 20:15 | 
-918 | [D - Stamp](https://atcoder.jp/contests/abc185/tasks/abc185_d) | [PyPy3 (7.3.0)](./atcoder/abc185/D.py) | `AtCoder` `*400` | Dec/13/2020 19:03 | 
-917 | [C - Duodecim Ferra](https://atcoder.jp/contests/abc185/tasks/abc185_c) | [PyPy3 (7.3.0)](./atcoder/abc185/C.py) | `AtCoder` `*300` | Dec/13/2020 18:32 | 
-916 | [B - Smartphone Addiction](https://atcoder.jp/contests/abc185/tasks/abc185_b) | [PyPy3 (7.3.0)](./atcoder/abc185/B.py) | `AtCoder` `*200` | Dec/13/2020 17:45 | 
-915 | [A - ABC Preparation](https://atcoder.jp/contests/abc185/tasks/abc185_a) | [PyPy3 (7.3.0)](./atcoder/abc185/A.py) | `AtCoder` `*100` | Dec/13/2020 17:30 | 
-914 | [C - Two Teams Composing](https://codeforces.com/contest/1335/problem/C) | [PyPy 3](./codeforces/1335/C.py) | `binary search` `greedy` `implementation` `sortings` `*1100` | Dec/13/2020 16:39 | 
-913 | [B - K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) | [PyPy 3](./codeforces/1328/B.py) | `binary search` `brute force` `combinatorics` `implementation` `math` `*1300` | Dec/13/2020 01:42 | 
-912 | [B - Polycarp and Letters](https://codeforces.com/contest/864/problem/B) | [PyPy 3](./codeforces/864/B.py) | `brute force` `implementation` `strings` `*1000` | Dec/12/2020 15:58 | 
-911 | [C - Yet Another Array Restoration](https://codeforces.com/contest/1409/problem/C) | [PyPy 3](./codeforces/1409/C.py) | `brute force` `math` `number theory` `*1200` | Dec/12/2020 13:04 | 
-910 | [A - Best Subsegment](https://codeforces.com/contest/1117/problem/A) | [PyPy 3](./codeforces/1117/A.py) | `implementation` `math` `*1100` | Dec/12/2020 01:54 | 
-909 | [B - Emotes](https://codeforces.com/contest/1117/problem/B) | [PyPy 3](./codeforces/1117/B.py) | `greedy` `math` `sortings` `*1000` | Dec/12/2020 01:47 | 
-908 | [C - Random Events](https://codeforces.com/contest/1461/problem/C) | [PyPy 3](./codeforces/1461/C.py) | `dp` `math` `probabilities` `*1500` | Dec/11/2020 21:32 | 
-907 | [B - Find the Spruce](https://codeforces.com/contest/1461/problem/B) | [PyPy 3](./codeforces/1461/B.py) | `brute force` `dp` `implementation` `*1400` | Dec/11/2020 20:41 | 
-906 | [A - String Generation](https://codeforces.com/contest/1461/problem/A) | [PyPy 3](./codeforces/1461/A.py) | `constructive algorithms` `greedy` `*800` | Dec/11/2020 20:18 | 
-905 | [B - Digits Sequence (Hard Edition)](https://codeforces.com/contest/1177/problem/B) | [PyPy 3](./codeforces/1177/B.py) | `binary search` `divide and conquer` `implementation` `*1800` | Dec/10/2020 19:40 | 
-904 | [D - Constant Palindrome Sum](https://codeforces.com/contest/1343/problem/D) | [PyPy 3](./codeforces/1343/D.py) | `brute force` `data structures` `greedy` `two pointers` `*1700` | Dec/10/2020 00:19 | 
-903 | [B - Polycarp Training](https://codeforces.com/contest/1165/problem/B) | [PyPy 3](./codeforces/1165/B.py) | `data structures` `greedy` `sortings` `*1000` | Dec/08/2020 23:14 | 
-902 | [A - Redundant Redundancy](https://atcoder.jp/contests/arc110/tasks/arc110_a) | [PyPy3 (7.3.0)](./atcoder/arc110/A.py) | `AtCoder` `*300` | Dec/08/2020 23:00 | 
-901 | [B - Pillars](https://codeforces.com/contest/1197/problem/B) | [PyPy 3](./codeforces/1197/B.py) | `greedy` `implementation` `*1000` | Dec/08/2020 22:33 | 
-900 | [B - Canvas Frames](https://codeforces.com/contest/127/problem/B) | [PyPy 3](./codeforces/127/B.py) | `implementation` `*1000` | Dec/08/2020 20:07 | 
-899 | [A - Two distinct points](https://codeforces.com/contest/1108/problem/A) | [PyPy 3](./codeforces/1108/A.py) | `implementation` `*800` | Dec/08/2020 19:58 | 
-898 | [A - Distinct Digits](https://codeforces.com/contest/1228/problem/A) | [PyPy 3](./codeforces/1228/A.py) | `brute force` `implementation` `*800` | Dec/08/2020 19:32 | 
-897 | [B - Strings Equalization](https://codeforces.com/contest/1223/problem/B) | [PyPy 3](./codeforces/1223/B.py) | `strings` `*1000` | Dec/08/2020 19:22 | 
-896 | [B2 - TV Subscriptions (Hard Version)](https://codeforces.com/contest/1225/problem/B2) | [PyPy 3](./codeforces/1225/B2.py) | `implementation` `two pointers` `*1300` | Dec/08/2020 19:14 | 
-895 | [B1 - TV Subscriptions (Easy Version)](https://codeforces.com/contest/1225/problem/B1) | [PyPy 3](./codeforces/1225/B1.py) | `implementation` `*1000` | Dec/08/2020 19:13 | 
-894 | [B - Ania and Minimizing](https://codeforces.com/contest/1230/problem/B) | [PyPy 3](./codeforces/1230/B.py) | `greedy` `implementation` `*1000` | Dec/08/2020 18:58 | 
-893 | [B - Burglar and Matches](https://codeforces.com/contest/16/problem/B) | [PyPy 3](./codeforces/16/B.py) | `greedy` `implementation` `sortings` `*900` | Dec/08/2020 18:49 | 
-892 | [B - Squares](https://codeforces.com/contest/263/problem/B) | [PyPy 3](./codeforces/263/B.py) | `greedy` `implementation` `sortings` `*900` | Dec/08/2020 18:18 | 
-891 | [B - Ksusha the Squirrel](https://codeforces.com/contest/299/problem/B) | [PyPy 3](./codeforces/299/B.py) | `brute force` `implementation` `*900` | Dec/08/2020 18:10 | 
-890 | [B - Network Configuration](https://codeforces.com/contest/412/problem/B) | [PyPy 3](./codeforces/412/B.py) | `greedy` `sortings` `*900` | Dec/08/2020 18:00 | 
-889 | [B - The Time](https://codeforces.com/contest/622/problem/B) | [PyPy 3](./codeforces/622/B.py) | `implementation` `*900` | Dec/08/2020 16:32 | 
-888 | [B - Decoding](https://codeforces.com/contest/746/problem/B) | [PyPy 3](./codeforces/746/B.py) | `implementation` `strings` `*900` | Dec/08/2020 16:25 | 
-887 | [B - Mammoth's Genome Decoding](https://codeforces.com/contest/747/problem/B) | [PyPy 3](./codeforces/747/B.py) | `implementation` `strings` `*900` | Dec/08/2020 16:12 | 
-886 | [B - Fafa and the Gates](https://codeforces.com/contest/935/problem/B) | [PyPy 3](./codeforces/935/B.py) | `implementation` `*900` | Dec/08/2020 15:45 | 
-885 | [A - Avoid Trygub](https://codeforces.com/contest/1450/problem/A) | [PyPy 3](./codeforces/1450/A.py) | `constructive algorithms` `sortings` `*800` | Dec/07/2020 19:48 | 
-884 | [B - Balls of Steel](https://codeforces.com/contest/1450/problem/B) | [PyPy 3](./codeforces/1450/B.py) | `brute force` `geometry` `greedy` `*1000` | Dec/07/2020 19:48 | 
-883 | [B - Duff in Love](https://codeforces.com/contest/588/problem/B) | [PyPy 3](./codeforces/588/B.py) | `math` `*1300` | Dec/06/2020 00:38 | 
-882 | [B - Queries on a String](https://codeforces.com/contest/598/problem/B) | [PyPy 3](./codeforces/598/B.py) | `implementation` `strings` `*1300` | Dec/06/2020 00:33 | 
-881 | [B - Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | [PyPy 3](./codeforces/600/B.py) | `binary search` `data structures` `sortings` `two pointers` `*1300` | Dec/06/2020 00:22 | 
-880 | [B - Getting an A](https://codeforces.com/contest/991/problem/B) | [PyPy 3](./codeforces/991/B.py) | `greedy` `sortings` `*900` | Dec/05/2020 23:08 | 
-879 | [B - Suffix Operations](https://codeforces.com/contest/1453/problem/B) | [PyPy 3](./codeforces/1453/B.py) | `constructive algorithms` `implementation` `*1400` | Dec/04/2020 19:20 | 
-878 | [A - Cancel the Trains](https://codeforces.com/contest/1453/problem/A) | [PyPy 3](./codeforces/1453/A.py) | `implementation` `*800` | Dec/04/2020 18:42 | 
-877 | [B2 - Social Network (hard version)](https://codeforces.com/contest/1234/problem/B2) | [PyPy 3](./codeforces/1234/B2.py) | `data structures` `implementation` `*1300` | Dec/04/2020 02:12 | 
-876 | [B1 - Social Network (easy version)](https://codeforces.com/contest/1234/problem/B1) | [PyPy 3](./codeforces/1234/B1.py) | `implementation` `*1000` | Dec/04/2020 01:11 | 
-875 | [B - Rooms and Staircases](https://codeforces.com/contest/1244/problem/B) | [PyPy 3](./codeforces/1244/B.py) | `brute force` `implementation` `*1000` | Dec/04/2020 01:01 | 
-874 | [B - Discounts](https://codeforces.com/contest/1132/problem/B) | [PyPy 3](./codeforces/1132/B.py) | `greedy` `sortings` `*900` | Dec/03/2020 23:55 | 
-873 | [C - Prefix Sum Primes](https://codeforces.com/contest/1150/problem/C) | [PyPy 3](./codeforces/1150/C.py) | `constructive algorithms` `greedy` `math` `number theory` `*1200` | Dec/03/2020 23:47 | 
-872 | [A - Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | [PyPy 3](./codeforces/1149/A.py) | `constructive algorithms` `greedy` `math` `number theory` `*1200` | Dec/03/2020 23:45 | 
-871 | [B - Tiling Challenge](https://codeforces.com/contest/1150/problem/B) | [PyPy 3](./codeforces/1150/B.py) | `greedy` `implementation` `*900` | Dec/03/2020 23:33 | 
-870 | [B - Shooting](https://codeforces.com/contest/1216/problem/B) | [PyPy 3](./codeforces/1216/B.py) | `greedy` `implementation` `sortings` `*900` | Dec/03/2020 23:10 | 
-869 | [B - Grow The Tree](https://codeforces.com/contest/1248/problem/B) | [PyPy 3](./codeforces/1248/B.py) | `greedy` `math` `sortings` `*900` | Dec/03/2020 23:04 | 
-868 | [B - Keyboard Layouts](https://codeforces.com/contest/831/problem/B) | [PyPy 3](./codeforces/831/B.py) | `implementation` `strings` `*800` | Dec/03/2020 22:48 | 
-867 | [B - Teams Forming](https://codeforces.com/contest/1092/problem/B) | [PyPy 3](./codeforces/1092/B.py) | `sortings` `*800` | Dec/03/2020 22:41 | 
-866 | [B - Dice Tower](https://codeforces.com/contest/1266/problem/B) | [PyPy 3](./codeforces/1266/B.py) | `constructive algorithms` `math` `*1000` | Dec/03/2020 16:44 | 
-865 | [D - Secret Passwords](https://codeforces.com/contest/1263/problem/D) | [PyPy 3](./codeforces/1263/D.py) | `dfs and similar` `dsu` `graphs` `*1500` | Dec/03/2020 01:48 | 
-864 | [A - Maze](https://codeforces.com/contest/377/problem/A) | [PyPy 3](./codeforces/377/A.py) | `dfs and similar` `*1600` | Dec/02/2020 23:24 | 
-863 | [C - Lose it!](https://codeforces.com/contest/1176/problem/C) | [PyPy 3](./codeforces/1176/C.py) | `dp` `greedy` `implementation` `*1300` | Dec/02/2020 15:42 | 
-862 | [B - Merge it!](https://codeforces.com/contest/1176/problem/B) | [PyPy 3](./codeforces/1176/B.py) | `math` `*1100` | Dec/02/2020 14:59 | 
-861 | [A - Learning Languages](https://codeforces.com/contest/277/problem/A) | [PyPy 3](./codeforces/277/A.py) | `dfs and similar` `dsu` `*1400` | Dec/01/2020 00:22 | 
-860 | [D - Sequence and Swaps](https://codeforces.com/contest/1455/problem/D) | [PyPy 3](./codeforces/1455/D.py) | `dp` `greedy` `sortings` `*1600` | Nov/30/2020 22:20 | 
-859 | [B - Jumps](https://codeforces.com/contest/1455/problem/B) | [PyPy 3](./codeforces/1455/B.py) | `constructive algorithms` `math` `*1200` | Nov/30/2020 22:19 | 
-858 | [C - Ping-pong](https://codeforces.com/contest/1455/problem/C) | [PyPy 3](./codeforces/1455/C.py) | `constructive algorithms` `games` `math` `*1100` | Nov/30/2020 22:19 | 
-857 | [A - Strange Functions](https://codeforces.com/contest/1455/problem/A) | [PyPy 3](./codeforces/1455/A.py) | `math` `number theory` `*800` | Nov/30/2020 22:18 | 
-856 | [A - Hands](https://atcoder.jp/contests/arc109/tasks/arc109_a) | [PyPy3 (7.3.0)](./atcoder/arc109/A.py) | `AtCoder` `*300` | Nov/30/2020 01:48 | 
-855 | [B - GCD Compression](https://codeforces.com/contest/1370/problem/B) | [PyPy 3](./codeforces/1370/B.py) | `constructive algorithms` `math` `number theory` `*1100` | Nov/30/2020 00:57 | 
-854 | [C - Bouncing Ball](https://codeforces.com/contest/1457/problem/C) | [PyPy 3](./codeforces/1457/C.py) | `dp` `implementation` `*1400` | Nov/29/2020 23:05 | 
-853 | [B - Repainting Street](https://codeforces.com/contest/1457/problem/B) | [PyPy 3](./codeforces/1457/B.py) | `brute force` `greedy` `*1100` | Nov/29/2020 13:09 | 
-852 | [A - Prison Break](https://codeforces.com/contest/1457/problem/A) | [PyPy 3](./codeforces/1457/A.py) | `brute force` `math` `*800` | Nov/29/2020 12:51 | 
-851 | [C - Books Queries](https://codeforces.com/contest/1066/problem/C) | [PyPy 3](./codeforces/1066/C.py) | `implementation` `*1400` | Nov/27/2020 13:59 | 
-850 | [C - Tile Painting](https://codeforces.com/contest/1243/problem/C) | [PyPy 3](./codeforces/1243/C.py) | `number theory` `*1500` | Nov/27/2020 13:25 | 
-849 | [B - Sum is Multiple](https://atcoder.jp/contests/acl1/tasks/acl1_b) | [PyPy3 (7.3.0)](./atcoder/acl1/B.py) | `AtCoder` `*600` | Nov/27/2020 01:12 | 
-848 | [H - Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h) | [PyPy3 (7.3.0)](./atcoder/dp/H.py) | `AtCoder` `*100` | Nov/26/2020 00:20 | 
-847 | [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | [PyPy3 (7.3.0)](./atcoder/dp/F.py) | `AtCoder` `*100` | Nov/25/2020 23:57 | 
-846 | [B1 - Character Swap (Easy Version)](https://codeforces.com/contest/1243/problem/B1) | [PyPy 3](./codeforces/1243/B1.py) | `strings` `*1000` | Nov/25/2020 23:11 | 
-845 | [A - Maximum Square](https://codeforces.com/contest/1243/problem/A) | [PyPy 3](./codeforces/1243/A.py) | `implementation` `*800` | Nov/25/2020 22:51 | 
-844 | [B - Arpa’s obvious problem and Mehrdad’s terrible solution](https://codeforces.com/contest/742/problem/B) | [PyPy 3](./codeforces/742/B.py) | `brute force` `math` `number theory` `*1500` | Nov/25/2020 01:32 | 
-843 | [A - Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | [PyPy 3](./codeforces/342/A.py) | `greedy` `implementation` `*1200` | Nov/25/2020 00:41 | 
-842 | [D - Number into Sequence](https://codeforces.com/contest/1454/problem/D) | [PyPy 3](./codeforces/1454/D.py) | `constructive algorithms` `math` `number theory` `*1300` | Nov/24/2020 21:59 | 
-841 | [C - Sequence Transformation](https://codeforces.com/contest/1454/problem/C) | [PyPy 3](./codeforces/1454/C.py) | `greedy` `implementation` `*1200` | Nov/24/2020 21:01 | 
-840 | [B - Unique Bid Auction](https://codeforces.com/contest/1454/problem/B) | [PyPy 3](./codeforces/1454/B.py) | `implementation` `*800` | Nov/24/2020 20:15 | 
-839 | [A - Special Permutation](https://codeforces.com/contest/1454/problem/A) | [PyPy 3](./codeforces/1454/A.py) | `constructive algorithms` `probabilities` `*800` | Nov/24/2020 20:09 | 
-838 | [B - Divisors of Two Integers](https://codeforces.com/contest/1108/problem/B) | [PyPy 3](./codeforces/1108/B.py) | `brute force` `greedy` `math` `number theory` `*1100` | Nov/24/2020 03:18 | 
-837 | [E1 - Bitwise Queries (Easy Version)](https://codeforces.com/contest/1451/problem/E1) | [PyPy 3](./codeforces/1451/E1.py) | `bitmasks` `constructive algorithms` `interactive` `math` `*2000` | Nov/23/2020 01:05 | 
-836 | [C - Super Ryuma](https://atcoder.jp/contests/abc184/tasks/abc184_c) | [PyPy3 (7.3.0)](./atcoder/abc184/C.py) | `AtCoder` `*300` | Nov/23/2020 00:17 | 
-835 | [B - Quizzes](https://atcoder.jp/contests/abc184/tasks/abc184_b) | [PyPy3 (7.3.0)](./atcoder/abc184/B.py) | `AtCoder` `*200` | Nov/22/2020 23:51 | 
-834 | [A - Determinant](https://atcoder.jp/contests/abc184/tasks/abc184_a) | [PyPy3 (7.3.0)](./atcoder/abc184/A.py) | `AtCoder` `*100` | Nov/22/2020 23:49 | 
-833 | [B - Abbreviate Fox](https://atcoder.jp/contests/arc108/tasks/arc108_b) | [PyPy3 (7.3.0)](./atcoder/arc108/B.py) | `AtCoder` `*400` | Nov/22/2020 03:00 | 
-832 | [A - Sum and Product](https://atcoder.jp/contests/arc108/tasks/arc108_a) | [PyPy3 (7.3.0)](./atcoder/arc108/A.py) | `AtCoder` `*300` | Nov/22/2020 02:42 | 
-831 | [C - String Equality](https://codeforces.com/contest/1451/problem/C) | [PyPy 3](./codeforces/1451/C.py) | `dp` `greedy` `hashing` `implementation` `strings` `*1400` | Nov/21/2020 21:02 | 
-830 | [B - Non-Substring Subsequence](https://codeforces.com/contest/1451/problem/B) | [PyPy 3](./codeforces/1451/B.py) | `dp` `greedy` `implementation` `strings` `*900` | Nov/21/2020 20:35 | 
-829 | [A - Subtract or Divide](https://codeforces.com/contest/1451/problem/A) | [PyPy 3](./codeforces/1451/A.py) | `greedy` `math` `*800` | Nov/21/2020 20:16 | 
-828 | [F1 - Tree Cutting (Easy Version)](https://codeforces.com/contest/1118/problem/F1) | [PyPy 3](./codeforces/1118/F1.py) | `dfs and similar` `trees` `*1800` | Nov/21/2020 02:48 | 
-827 | [E - Special Elements](https://codeforces.com/contest/1352/problem/E) | [PyPy 3](./codeforces/1352/E.py) | `brute force` `implementation` `two pointers` `*1500` | Nov/21/2020 02:28 | 
-826 | [C - Palindromic Matrix](https://codeforces.com/contest/1118/problem/C) | [PyPy 3](./codeforces/1118/C.py) | `constructive algorithms` `implementation` `*1700` | Nov/21/2020 00:46 | 
-825 | [D - Radio Towers](https://codeforces.com/contest/1452/problem/D) | [PyPy 3](./codeforces/1452/D.py) | `combinatorics` `dp` `math` `*1600` | Nov/20/2020 01:18 | 
-824 | [B - Toy Blocks](https://codeforces.com/contest/1452/problem/B) | [PyPy 3](./codeforces/1452/B.py) | `binary search` `greedy` `math` `sortings` `*1400` | Nov/19/2020 21:44 | 
-823 | [A - Robot Program](https://codeforces.com/contest/1452/problem/A) | [PyPy 3](./codeforces/1452/A.py) | `math` `*800` | Nov/19/2020 20:20 | 
-822 | [C - Two Brackets](https://codeforces.com/contest/1452/problem/C) | [PyPy 3](./codeforces/1452/C.py) | `greedy` `*800` | Nov/19/2020 20:12 | 
-821 | [G - Special Permutation](https://codeforces.com/contest/1352/problem/G) | [PyPy 3](./codeforces/1352/G.py) | `constructive algorithms` `*1600` | Nov/19/2020 15:58 | 
-820 | [B - Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | [Python 3](./codeforces/492/B.py) | `binary search` `implementation` `math` `sortings` `*1200` | Nov/19/2020 14:04 | 
-819 | [A - Integer Points](https://codeforces.com/contest/1248/problem/A) | [Python 3](./codeforces/1248/A.py) | `geometry` `math` `*1000` | Nov/19/2020 02:57 | 
-818 | [C1 - Binary Table (Easy Version)](https://codeforces.com/contest/1440/problem/C1) | [PyPy 3](./codeforces/1440/C1.py) | `constructive algorithms` `implementation` `*1500` | Nov/17/2020 23:14 | 
-817 | [B - Sum of Medians](https://codeforces.com/contest/1440/problem/B) | [PyPy 3](./codeforces/1440/B.py) | `greedy` `math` `*900` | Nov/17/2020 20:57 | 
-816 | [A - Buy the String](https://codeforces.com/contest/1440/problem/A) | [PyPy 3](./codeforces/1440/A.py) | `implementation` `math` `*800` | Nov/17/2020 20:18 | 
-815 | [A - Competitive Programmer](https://codeforces.com/contest/1266/problem/A) | [PyPy 3](./codeforces/1266/A.py) | `chinese remainder theorem` `math` `*1000` | Nov/17/2020 01:12 | 
-814 | [A - Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | [PyPy 3](./codeforces/1251/A.py) | `brute force` `strings` `two pointers` `*1000` | Nov/17/2020 00:52 | 
-813 | [C - Travel](https://atcoder.jp/contests/abc183/tasks/abc183_c) | [PyPy3 (7.3.0)](./atcoder/abc183/C.py) | `AtCoder` `*300` | Nov/16/2020 23:52 | 
-812 | [B - Billiards](https://atcoder.jp/contests/abc183/tasks/abc183_b) | [PyPy3 (7.3.0)](./atcoder/abc183/B.py) | `AtCoder` `*200` | Nov/16/2020 23:51 | 
-811 | [B - Numbers Box](https://codeforces.com/contest/1447/problem/B) | [PyPy 3](./codeforces/1447/B.py) | `greedy` `math` `*1000` | Nov/15/2020 23:27 | 
-810 | [C - Knapsack](https://codeforces.com/contest/1447/problem/C) | [PyPy 3](./codeforces/1447/C.py) | `constructive algorithms` `greedy` `math` `sortings` `*1300` | Nov/15/2020 23:14 | 
-809 | [A - Add Candies](https://codeforces.com/contest/1447/problem/A) | [PyPy 3](./codeforces/1447/A.py) | `constructive algorithms` `math` `*800` | Nov/15/2020 23:08 | 
-808 | [A - ReLU](https://atcoder.jp/contests/abc183/tasks/abc183_a) | [PyPy3 (7.3.0)](./atcoder/abc183/A.py) | `AtCoder` `*100` | Nov/15/2020 17:30 | 
-807 | [B - Substring Removal](https://codeforces.com/contest/1096/problem/B) | [PyPy 3](./codeforces/1096/B.py) | `combinatorics` `math` `strings` `*1300` | Nov/15/2020 15:44 | 
-806 | [B - Traffic Lights](https://codeforces.com/contest/29/problem/B) | [PyPy 3](./codeforces/29/B.py) | `implementation` `*1500` | Nov/14/2020 22:07 | 
-805 | [A - Bear and Three Balls](https://codeforces.com/contest/653/problem/A) | [PyPy 3](./codeforces/653/A.py) | `brute force` `implementation` `sortings` `*900` | Nov/14/2020 22:05 | 
-804 | [C - Engineer Artem](https://codeforces.com/contest/1438/problem/C) | [PyPy 3](./codeforces/1438/C.py) | `2-sat` `chinese remainder theorem` `constructive algorithms` `fft` `flows` `*2000` | Nov/13/2020 23:25 | 
-803 | [B - Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | [PyPy 3](./codeforces/1438/B.py) | `constructive algorithms` `data structures` `greedy` `sortings` `*1000` | Nov/13/2020 20:20 | 
-802 | [A - Specific Tastes of Andre ](https://codeforces.com/contest/1438/problem/A) | [PyPy 3](./codeforces/1438/A.py) | `constructive algorithms` `implementation` `*800` | Nov/13/2020 20:06 | 
-801 | [J - Lonely Numbers](https://codeforces.com/contest/1424/problem/J) | [PyPy 3](./codeforces/1424/J.py) | `math` `*1600` | Nov/10/2020 02:59 | 
-800 | [D - Wandering](https://atcoder.jp/contests/abc182/tasks/abc182_d) | [PyPy3 (7.3.0)](./atcoder/abc182/D.py) | `AtCoder` `*400` | Nov/08/2020 23:30 | 
-799 | [C - To 3](https://atcoder.jp/contests/abc182/tasks/abc182_c) | [PyPy3 (7.3.0)](./atcoder/abc182/C.py) | `AtCoder` `*300` | Nov/08/2020 23:17 | 
-798 | [B - Almost GCD](https://atcoder.jp/contests/abc182/tasks/abc182_b) | [PyPy3 (7.3.0)](./atcoder/abc182/B.py) | `AtCoder` `*200` | Nov/08/2020 22:52 | 
-797 | [A - twiblr](https://atcoder.jp/contests/abc182/tasks/abc182_a) | [PyPy3 (7.3.0)](./atcoder/abc182/A.py) | `AtCoder` `*100` | Nov/08/2020 22:36 | 
-796 | [C - Football](https://codeforces.com/contest/417/problem/C) | [PyPy 3](./codeforces/417/C.py) | `constructive algorithms` `graphs` `implementation` `*1400` | Nov/06/2020 14:41 | 
-795 | [B - MAX-=min](https://atcoder.jp/contests/arc105/tasks/arc105_b) | [PyPy3 (7.3.0)](./atcoder/arc105/B.py) | `AtCoder` `*300` | Nov/05/2020 01:06 | 
-794 | [A - Sleuth](https://codeforces.com/contest/49/problem/A) | [PyPy 3](./codeforces/49/A.py) | `implementation` `*800` | Nov/05/2020 00:12 | 
-793 | [A - Rewards](https://codeforces.com/contest/448/problem/A) | [PyPy 3](./codeforces/448/A.py) | `implementation` `*800` | Nov/04/2020 23:30 | 
-792 | [A - CME](https://codeforces.com/contest/1223/problem/A) | [PyPy 3](./codeforces/1223/A.py) | `math` `*800` | Nov/04/2020 23:26 | 
-791 | [B - Borze](https://codeforces.com/contest/32/problem/B) | [PyPy 3](./codeforces/32/B.py) | `expression parsing` `implementation` `*800` | Nov/04/2020 23:20 | 
-790 | [D - Anti-Sudoku](https://codeforces.com/contest/1335/problem/D) | [PyPy 3](./codeforces/1335/D.py) | `constructive algorithms` `implementation` `*1300` | Nov/04/2020 23:02 | 
-789 | [A - Jeff and Digits](https://codeforces.com/contest/352/problem/A) | [PyPy 3](./codeforces/352/A.py) | `brute force` `implementation` `math` `*1000` | Nov/04/2020 13:39 | 
-788 | [A - Love Triangle](https://codeforces.com/contest/939/problem/A) | [PyPy 3](./codeforces/939/A.py) | `graphs` `*800` | Nov/04/2020 00:45 | 
-787 | [A - Compote](https://codeforces.com/contest/746/problem/A) | [PyPy 3](./codeforces/746/A.py) | `implementation` `math` `*800` | Nov/04/2020 00:41 | 
-786 | [A - Little C Loves 3 I](https://codeforces.com/contest/1047/problem/A) | [PyPy 3](./codeforces/1047/A.py) | `math` `*800` | Nov/04/2020 00:28 | 
-785 | [A - Pupils Redistribution](https://codeforces.com/contest/779/problem/A) | [PyPy 3](./codeforces/779/A.py) | `constructive algorithms` `math` `*1000` | Nov/04/2020 00:04 | 
-784 | [A - Balloons](https://codeforces.com/contest/998/problem/A) | [PyPy 3](./codeforces/998/A.py) | `constructive algorithms` `implementation` `*1000` | Nov/03/2020 23:36 | 
-783 | [C - Find Amir](https://codeforces.com/contest/805/problem/C) | [PyPy 3](./codeforces/805/C.py) | `constructive algorithms` `*1000` | Nov/03/2020 23:28 | 
-782 | [A - Find Amir](https://codeforces.com/contest/804/problem/A) | [PyPy 3](./codeforces/804/A.py) | `constructive algorithms` `greedy` `math` `*1000` | Nov/03/2020 23:26 | 
-781 | [A - Mike and palindrome](https://codeforces.com/contest/798/problem/A) | [PyPy 3](./codeforces/798/A.py) | `brute force` `constructive algorithms` `strings` `*1000` | Nov/03/2020 23:17 | 
-780 | [B - Nastya Is Playing Computer Games](https://codeforces.com/contest/1136/problem/B) | [PyPy 3](./codeforces/1136/B.py) | `constructive algorithms` `math` `*1000` | Nov/03/2020 23:12 | 
-779 | [A - Ehab Fails to Be Thanos](https://codeforces.com/contest/1174/problem/A) | [PyPy 3](./codeforces/1174/A.py) | `constructive algorithms` `greedy` `sortings` `*1000` | Nov/03/2020 23:02 | 
-778 | [B - Fenwick Tree](https://atcoder.jp/contests/practice2/tasks/practice2_b) | [PyPy3 (7.3.0)](./atcoder/practice2/B.py) | `AtCoder` `*100` | Nov/03/2020 21:52 | 
+1043 | [B - Fenwick Tree](https://atcoder.jp/contests/practice2/tasks/practice2_b) | [PyPy3 (7.3.0)](./atcoder/practice2/B.py) | `AtCoder` `*100` | Mar/11/2021 16:04 | 
+1042 | [B - A^B^C](https://atcoder.jp/contests/arc113/tasks/arc113_b) | [PyPy3 (7.3.0)](./atcoder/arc113/B.py) | `AtCoder` `*400` | Feb/26/2021 03:13 | 
+1041 | [A - A*B*C](https://atcoder.jp/contests/arc113/tasks/arc113_a) | [PyPy3 (7.3.0)](./atcoder/arc113/A.py) | `AtCoder` `*300` | Feb/26/2021 03:07 | 
+1040 | [C - Kaprekar Number](https://atcoder.jp/contests/abc192/tasks/abc192_c) | [PyPy3 (7.3.0)](./atcoder/abc192/C.py) | `AtCoder` `*300` | Feb/20/2021 21:58 | 
+1039 | [B - uNrEaDaBlE sTrInG](https://atcoder.jp/contests/abc192/tasks/abc192_b) | [PyPy3 (7.3.0)](./atcoder/abc192/B.py) | `AtCoder` `*200` | Feb/20/2021 21:52 | 
+1038 | [A - Star](https://atcoder.jp/contests/abc192/tasks/abc192_a) | [PyPy3 (7.3.0)](./atcoder/abc192/A.py) | `AtCoder` `*100` | Feb/20/2021 21:49 | 
+1037 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [PyPy 3](./codeforces/1486/A.py) | `greedy` `implementation` | Feb/19/2021 02:06 | 
+1036 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [PyPy 3](./codeforces/1490/E.py) | `binary search` `data structures` `greedy` `*1400` | Feb/16/2021 23:00 | 
+1035 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [PyPy 3](./codeforces/1490/C.py) | `binary search` `brute force` `brute force` `math` `*1100` | Feb/16/2021 22:48 | 
+1034 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [PyPy 3](./codeforces/1490/D.py) | `dfs and similar` `divide and conquer` `implementation` `*1200` | Feb/16/2021 22:45 | 
+1033 | [B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B) | [PyPy 3](./codeforces/1490/B.py) | `brute force` `constructive algorithms` `math` `*1000` | Feb/16/2021 22:44 | 
+1032 | [A - Dense Array](https://codeforces.com/contest/1490/problem/A) | [PyPy 3](./codeforces/1490/A.py) | `greedy` `math` `*800` | Feb/16/2021 22:43 | 
+1031 | [F - Equalize the Array](https://codeforces.com/contest/1490/problem/F) | [PyPy 3](./codeforces/1490/F.py) | `binary search` `data structures` `greedy` `math` `sortings` `*1500` | Feb/16/2021 22:42 | 
+1030 | [A - Arena](https://codeforces.com/contest/1487/problem/A) | [PyPy 3](./codeforces/1487/A.py) | `implementation` `sortings` `*800` | Feb/16/2021 16:04 | 
+1029 | [A - B = C](https://atcoder.jp/contests/arc112/tasks/arc112_a) | [PyPy3 (7.3.0)](./atcoder/arc112/A.py) | `AtCoder` `*300` | Feb/15/2021 00:03 | 
+1028 | [C - Floor and Mod](https://codeforces.com/contest/1485/problem/C) | [PyPy 3](./codeforces/1485/C.py) | `brute force` `math` `number theory` | Feb/13/2021 02:22 | 
+1027 | [D - Multiples and Power Differences](https://codeforces.com/contest/1485/problem/D) | [PyPy 3](./codeforces/1485/D.py) | `constructive algorithms` `math` `number theory` | Feb/13/2021 01:28 | 
+1026 | [B - Replace and Keep Sorted](https://codeforces.com/contest/1485/problem/B) | [PyPy 3](./codeforces/1485/B.py) | `dp` `implementation` `math` | Feb/13/2021 00:45 | 
+1025 | [A - Add and Divide](https://codeforces.com/contest/1485/problem/A) | [PyPy 3](./codeforces/1485/A.py) | `brute force` `greedy` `math` | Feb/13/2021 00:33 | 
+1024 | [C - Searching Local Minimum](https://codeforces.com/contest/1480/problem/C) | [PyPy 3](./codeforces/1480/C.py) | `binary search` `interactive` `math` `ternary search` `*1700` | Feb/12/2021 23:55 | 
+1023 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [PyPy 3](./codeforces/1480/B.py) | `greedy` `implementation` `sortings` `*900` | Feb/12/2021 23:37 | 
+1022 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [PyPy 3](./codeforces/1480/A.py) | `games` `greedy` `strings` `*800` | Feb/12/2021 23:08 | 
+1021 | [A - Vanishing Pitch](https://atcoder.jp/contests/abc191/tasks/abc191_a) | [PyPy3 (7.3.0)](./atcoder/abc191/A.py) | `AtCoder` `*100` | Feb/07/2021 03:20 | 
+1020 | [B - Remove It](https://atcoder.jp/contests/abc191/tasks/abc191_b) | [PyPy3 (7.3.0)](./atcoder/abc191/B.py) | `AtCoder` `*200` | Feb/07/2021 03:16 | 
+1019 | [C - Fence Painting](https://codeforces.com/contest/1481/problem/C) | [PyPy 3](./codeforces/1481/C.py) | `brute force` `constructive algorithms` `greedy` `*1600` | Feb/06/2021 16:24 | 
+1018 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [PyPy 3](./codeforces/1481/B.py) | `brute force` `greedy` `implementation` `*1100` | Feb/06/2021 16:02 | 
+1017 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [PyPy 3](./codeforces/1481/A.py) | `greedy` `strings` `*800` | Feb/05/2021 23:50 | 
+1016 | [C - Longest Simple Cycle](https://codeforces.com/contest/1476/problem/C) | [PyPy 3](./codeforces/1476/C.py) | `dp` `graphs` `greedy` `*1600` | Feb/05/2021 18:56 | 
+1015 | [F - Shift and Inversions](https://atcoder.jp/contests/abc190/tasks/abc190_f) | [PyPy3 (7.3.0)](./atcoder/abc190/F.py) | `AtCoder` `*600` | Feb/01/2021 02:48 | 
+1014 | [D - Staircase Sequences](https://atcoder.jp/contests/abc190/tasks/abc190_d) | [PyPy3 (7.3.0)](./atcoder/abc190/D.py) | `AtCoder` `*400` | Jan/30/2021 18:49 | 
+1013 | [B - Magic 3](https://atcoder.jp/contests/abc190/tasks/abc190_b) | [PyPy3 (7.3.0)](./atcoder/abc190/B.py) | `AtCoder` `*200` | Jan/30/2021 17:45 | 
+1012 | [A - Very Very Primitive Game](https://atcoder.jp/contests/abc190/tasks/abc190_a) | [PyPy3 (7.3.0)](./atcoder/abc190/A.py) | `AtCoder` `*100` | Jan/30/2021 17:38 | 
+1011 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [PyPy 3](./codeforces/1476/B.py) | `binary search` `brute force` `greedy` `math` | Jan/30/2021 00:12 | 
+1010 | [A - K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | [PyPy 3](./codeforces/1476/A.py) | `binary search` `constructive algorithms` `greedy` `math` | Jan/30/2021 00:11 | 
+1009 | [B - Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | [PyPy 3](./codeforces/1478/B.py) | `brute force` `dp` `greedy` `math` `*1100` | Jan/29/2021 21:23 | 
+1008 | [A - Nezzar and Colorful Balls](https://codeforces.com/contest/1478/problem/A) | [PyPy 3](./codeforces/1478/A.py) | `brute force` `greedy` `*800` | Jan/29/2021 21:22 | 
+1007 | [E - Advertising Agency](https://codeforces.com/contest/1475/problem/E) | [PyPy 3](./codeforces/1475/E.py) | `combinatorics` `implementation` `math` `sortings` | Jan/26/2021 01:33 | 
+1006 | [B - New Year's Number](https://codeforces.com/contest/1475/problem/B) | [PyPy 3](./codeforces/1475/B.py) | `brute force` `dp` `math` | Jan/25/2021 22:53 | 
+1005 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [PyPy 3](./codeforces/1475/C.py) | `combinatorics` `dfs and similar` `graphs` `hashing` `math` | Jan/25/2021 22:48 | 
+1004 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [PyPy 3](./codeforces/1475/A.py) | `bitmasks` `math` `number theory` | Jan/25/2021 22:46 | 
+1003 | [D - Logical Expression](https://atcoder.jp/contests/abc189/tasks/abc189_d) | [PyPy3 (7.3.0)](./atcoder/abc189/D.py) | `AtCoder` `*400` | Jan/24/2021 15:04 | 
+1002 | [B - Alcoholic](https://atcoder.jp/contests/abc189/tasks/abc189_b) | [PyPy3 (7.3.0)](./atcoder/abc189/B.py) | `AtCoder` `*200` | Jan/24/2021 14:40 | 
+1001 | [C - Mandarin Orange](https://atcoder.jp/contests/abc189/tasks/abc189_c) | [PyPy3 (7.3.0)](./atcoder/abc189/C.py) | `AtCoder` `*300` | Jan/23/2021 17:42 | 
+1000 | [A - Slot](https://atcoder.jp/contests/abc189/tasks/abc189_a) | [PyPy3 (7.3.0)](./atcoder/abc189/A.py) | `AtCoder` `*100` | Jan/23/2021 17:32 | 
+999 | [B - Different Divisors](https://codeforces.com/contest/1474/problem/B) | [PyPy 3](./codeforces/1474/B.py) | `binary search` `constructive algorithms` `greedy` `math` `number theory` `*1000` | Jan/20/2021 00:28 | 
+998 | [A - Puzzle From the Future](https://codeforces.com/contest/1474/problem/A) | [PyPy 3](./codeforces/1474/A.py) | `greedy` `*800` | Jan/20/2021 00:17 | 
+997 | [B - Mex Boxes](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b) | [PyPy3 (7.3.0)](./atcoder/keyence2021/B.py) | `AtCoder` `*400` | Jan/16/2021 23:48 | 
+996 | [A - Two Sequences 2](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_a) | [PyPy3 (7.3.0)](./atcoder/keyence2021/A.py) | `AtCoder` `*300` | Jan/16/2021 23:19 | 
+995 | [B - Yet Another Meme Problem](https://codeforces.com/contest/1288/problem/B) | [PyPy 3](./codeforces/1288/B.py) | `math` `*1100` | Jan/16/2021 22:45 | 
+994 | [C - No More Inversions](https://codeforces.com/contest/1473/problem/C) | [PyPy 3](./codeforces/1473/C.py) | `constructive algorithms` `math` `*1500` | Jan/14/2021 22:08 | 
+993 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3](./codeforces/1473/B.py) | `brute force` `math` `number theory` `strings` `*1000` | Jan/14/2021 22:07 | 
+992 | [A - Replacing Elements](https://codeforces.com/contest/1473/problem/A) | [PyPy 3](./codeforces/1473/A.py) | `greedy` `implementation` `math` `sortings` `*800` | Jan/14/2021 22:06 | 
+991 | [A - Hotelier](https://codeforces.com/contest/1200/problem/A) | [PyPy 3](./codeforces/1200/A.py) | `brute force` `data structures` `implementation` `*800` | Jan/13/2021 14:03 | 
+990 | [A - Heist](https://codeforces.com/contest/1041/problem/A) | [PyPy 3](./codeforces/1041/A.py) | `greedy` `implementation` `sortings` `*800` | Jan/13/2021 01:42 | 
+989 | [A - Dawid and Bags of Candies](https://codeforces.com/contest/1230/problem/A) | [PyPy 3](./codeforces/1230/A.py) | `brute force` `implementation` `*800` | Jan/13/2021 01:27 | 
+988 | [D - Snuke Prime](https://atcoder.jp/contests/abc188/tasks/abc188_d) | [PyPy3 (7.3.0)](./atcoder/abc188/D.py) | `AtCoder` `*400` | Jan/11/2021 02:20 | 
+987 | [C - Strange Birthday Party](https://codeforces.com/contest/1471/problem/C) | [PyPy 3](./codeforces/1471/C.py) | `brute force` `greedy` `sortings` `*1300` | Jan/11/2021 01:43 | 
+986 | [B - Strange List](https://codeforces.com/contest/1471/problem/B) | [PyPy 3](./codeforces/1471/B.py) | `brute force` `greedy` `implementation` `math` `*1100` | Jan/11/2021 00:39 | 
+985 | [A - Strange Partition](https://codeforces.com/contest/1471/problem/A) | [PyPy 3](./codeforces/1471/A.py) | `greedy` `math` `number theory` `*900` | Jan/11/2021 00:28 | 
+984 | [A - Make a triangle!](https://codeforces.com/contest/1064/problem/A) | [PyPy 3](./codeforces/1064/A.py) | `brute force` `geometry` `math` `*800` | Jan/10/2021 23:22 | 
+983 | [C - ABC Tournament](https://atcoder.jp/contests/abc188/tasks/abc188_c) | [PyPy3 (7.3.0)](./atcoder/abc188/C.py) | `AtCoder` `*300` | Jan/10/2021 17:51 | 
+982 | [B - Orthogonality](https://atcoder.jp/contests/abc188/tasks/abc188_b) | [PyPy3 (7.3.0)](./atcoder/abc188/B.py) | `AtCoder` `*200` | Jan/10/2021 17:33 | 
+981 | [A - Three-Point Shot](https://atcoder.jp/contests/abc188/tasks/abc188_a) | [PyPy3 (7.3.0)](./atcoder/abc188/A.py) | `AtCoder` `*100` | Jan/10/2021 17:31 | 
+980 | [A - Between the Offices](https://codeforces.com/contest/867/problem/A) | [PyPy 3](./codeforces/867/A.py) | `implementation` `*800` | Jan/10/2021 05:33 | 
+979 | [C - Three Bags](https://codeforces.com/contest/1467/problem/C) | [PyPy 3](./codeforces/1467/C.py) | `constructive algorithms` `greedy` `*1900` | Jan/08/2021 23:32 | 
+978 | [A - There Are Two Types Of Burgers](https://codeforces.com/contest/1207/problem/A) | [PyPy 3](./codeforces/1207/A.py) | `brute force` `greedy` `implementation` `math` `*800` | Jan/08/2021 23:32 | 
+977 | [A - Wizard of Orz](https://codeforces.com/contest/1467/problem/A) | [PyPy 3](./codeforces/1467/A.py) | `constructive algorithms` `greedy` `math` `*900` | Jan/08/2021 23:31 | 
+976 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [PyPy 3](./codeforces/486/A.py) | `implementation` `math` `*800` | Jan/07/2021 23:01 | 
+975 | [A - Equality](https://codeforces.com/contest/1038/problem/A) | [PyPy 3](./codeforces/1038/A.py) | `implementation` `strings` `*800` | Jan/06/2021 23:52 | 
+974 | [A - Olympiad](https://codeforces.com/contest/937/problem/A) | [PyPy 3](./codeforces/937/A.py) | `implementation` `sortings` `*800` | Jan/06/2021 23:50 | 
+973 | [B - Fair Division](https://codeforces.com/contest/1472/problem/B) | [PyPy 3](./codeforces/1472/B.py) | `dp` `greedy` `math` `*800` | Jan/04/2021 22:09 | 
+972 | [C - Long Jumps](https://codeforces.com/contest/1472/problem/C) | [PyPy 3](./codeforces/1472/C.py) | `dp` `graphs` `*1100` | Jan/04/2021 22:09 | 
+971 | [D - Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | [PyPy 3](./codeforces/1472/D.py) | `dp` `games` `greedy` `sortings` `*1200` | Jan/04/2021 22:09 | 
+970 | [A - Cards for Friends](https://codeforces.com/contest/1472/problem/A) | [PyPy 3](./codeforces/1472/A.py) | `greedy` `math` `*800` | Jan/04/2021 22:08 | 
+969 | [D - Choose Me](https://atcoder.jp/contests/abc187/tasks/abc187_d) | [Python (3.8.2)](./atcoder/abc187/D.py) | `AtCoder` `*400` | Jan/02/2021 19:20 | 
+968 | [C - 1-SAT](https://atcoder.jp/contests/abc187/tasks/abc187_c) | [PyPy3 (7.3.0)](./atcoder/abc187/C.py) | `AtCoder` `*300` | Jan/02/2021 17:42 | 
+967 | [B - Gentle Pairs](https://atcoder.jp/contests/abc187/tasks/abc187_b) | [PyPy3 (7.3.0)](./atcoder/abc187/B.py) | `AtCoder` `*200` | Jan/02/2021 17:37 | 
+966 | [A - Large Digits](https://atcoder.jp/contests/abc187/tasks/abc187_a) | [PyPy3 (7.3.0)](./atcoder/abc187/A.py) | `AtCoder` `*100` | Jan/02/2021 17:32 | 
+965 | [D - Road to Millionaire](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_d) | [PyPy3 (7.3.0)](./atcoder/m-solutions2020/D.py) | `AtCoder` `*400` | Jan/01/2021 22:22 | 
+964 | [D - Water Heater](https://atcoder.jp/contests/abc183/tasks/abc183_d) | [PyPy3 (7.3.0)](./atcoder/abc183/D.py) | `AtCoder` `*400` | Jan/01/2021 01:32 | 
+963 | [C - Canine poetry](https://codeforces.com/contest/1466/problem/C) | [PyPy 3](./codeforces/1466/C.py) | `dp` `greedy` `strings` `*1300` | Dec/31/2020 01:17 | 
+962 | [D - 13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | [PyPy 3](./codeforces/1466/D.py) | `data structures` `greedy` `sortings` `trees` `*1500` | Dec/31/2020 01:17 | 
+961 | [A - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | [PyPy 3](./codeforces/1466/A.py) | `brute force` `geometry` `math` `*800` | Dec/31/2020 01:16 | 
+960 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [PyPy 3](./codeforces/1466/B.py) | `dp` `greedy` `*800` | Dec/31/2020 01:16 | 
+959 | [C - Building a Fence](https://codeforces.com/contest/1469/problem/C) | [PyPy 3](./codeforces/1469/C.py) | `dp` `greedy` `implementation` `two pointers` `*1600` | Dec/29/2020 01:33 | 
+958 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [PyPy 3](./codeforces/1469/A.py) | `constructive algorithms` `greedy` `*1000` | Dec/28/2020 23:21 | 
+957 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [PyPy 3](./codeforces/1469/B.py) | `dp` `greedy` `*1000` | Dec/28/2020 23:20 | 
+956 | [D - Ceil Divisions](https://codeforces.com/contest/1469/problem/D) | [PyPy 3](./codeforces/1469/D.py) | `brute force` `constructive algorithms` `math` `number theory` `*1700` | Dec/28/2020 23:19 | 
+955 | [A - AtCoder Jumper](https://atcoder.jp/contests/agc050/tasks/agc050_a) | [PyPy3 (7.3.0)](./atcoder/agc050/A.py) | `AtCoder` `*500` | Dec/28/2020 01:13 | 
+954 | [D - Taxes](https://codeforces.com/contest/735/problem/D) | [PyPy 3](./codeforces/735/D.py) | `math` `number theory` `*1600` | Dec/27/2020 23:20 | 
+953 | [A - Suits](https://codeforces.com/contest/1271/problem/A) | [PyPy 3](./codeforces/1271/A.py) | `brute force` `greedy` `math` `*800` | Dec/27/2020 00:04 | 
+952 | [C - Xor-tree](https://codeforces.com/contest/430/problem/C) | [PyPy 3](./codeforces/430/C.py) | `brute force` `data structures` `dfs and similar` `trees` `*1300` | Dec/26/2020 01:22 | 
+951 | [A - Xor-tree](https://codeforces.com/contest/429/problem/A) | [Python 3](./codeforces/429/A.py) | `dfs and similar` `trees` `*1300` | Dec/26/2020 01:15 | 
+950 | [A - Balanced Rating Changes](https://codeforces.com/contest/1237/problem/A) | [PyPy 3](./codeforces/1237/A.py) | `implementation` `math` `*1000` | Dec/25/2020 22:58 | 
+949 | [A - Good ol' Numbers Coloring](https://codeforces.com/contest/1245/problem/A) | [PyPy 3](./codeforces/1245/A.py) | `math` `number theory` `*1000` | Dec/25/2020 22:44 | 
+948 | [A - Plus Minus](https://atcoder.jp/contests/arc104/tasks/arc104_a) | [PyPy3 (7.3.0)](./atcoder/arc104/A.py) | `AtCoder` `*100` | Dec/25/2020 02:09 | 
+947 | [D - Add to Neighbour and Remove](https://codeforces.com/contest/1462/problem/D) | [PyPy 3](./codeforces/1462/D.py) | `greedy` `math` `number theory` `*1400` | Dec/24/2020 02:58 | 
+946 | [B - Most socially-distanced subsequence](https://codeforces.com/contest/1364/problem/B) | [PyPy 3](./codeforces/1364/B.py) | `greedy` `two pointers` `*1300` | Dec/21/2020 02:03 | 
+945 | [B - Fair Numbers](https://codeforces.com/contest/1465/problem/B) | [PyPy 3](./codeforces/1465/B.py) | `brute force` `math` `number theory` `*1000` | Dec/20/2020 23:42 | 
+944 | [A - In-game Chat](https://codeforces.com/contest/1465/problem/A) | [PyPy 3](./codeforces/1465/A.py) | `implementation` `strings` `*800` | Dec/20/2020 23:42 | 
+943 | [D - Sum of difference](https://atcoder.jp/contests/abc186/tasks/abc186_d) | [PyPy3 (7.3.0)](./atcoder/abc186/D.py) | `AtCoder` `*400` | Dec/19/2020 17:59 | 
+942 | [C - Unlucky 7](https://atcoder.jp/contests/abc186/tasks/abc186_c) | [PyPy3 (7.3.0)](./atcoder/abc186/C.py) | `AtCoder` `*300` | Dec/19/2020 17:40 | 
+941 | [B - Blocks on Grid](https://atcoder.jp/contests/abc186/tasks/abc186_b) | [PyPy3 (7.3.0)](./atcoder/abc186/B.py) | `AtCoder` `*200` | Dec/19/2020 17:33 | 
+940 | [A - Brick](https://atcoder.jp/contests/abc186/tasks/abc186_a) | [PyPy3 (7.3.0)](./atcoder/abc186/A.py) | `AtCoder` `*100` | Dec/19/2020 17:30 | 
+939 | [C - Row GCD](https://codeforces.com/contest/1459/problem/C) | [PyPy 3](./codeforces/1459/C.py) | `math` `number theory` `*1600` | Dec/19/2020 16:28 | 
+938 | [B - Move and Turn](https://codeforces.com/contest/1459/problem/B) | [PyPy 3](./codeforces/1459/B.py) | `dp` `math` `*1300` | Dec/19/2020 16:06 | 
+937 | [A - Red-Blue Shuffle](https://codeforces.com/contest/1459/problem/A) | [PyPy 3](./codeforces/1459/A.py) | `math` `probabilities` `*800` | Dec/19/2020 15:13 | 
+936 | [C - Factors of Factorial](https://atcoder.jp/contests/abc052/tasks/arc067_a) | [PyPy3 (7.3.0)](./atcoder/abc052/C.py) | `AtCoder` `*300` | Dec/18/2020 19:26 | 
+935 | [B - Sum of Three Integers](https://atcoder.jp/contests/abc051/tasks/abc051_b) | [PyPy3 (7.3.0)](./atcoder/abc051/B.py) | `AtCoder` `*200` | Dec/18/2020 02:20 | 
+934 | [A - Haiku](https://atcoder.jp/contests/abc051/tasks/abc051_a) | [PyPy3 (7.3.0)](./atcoder/abc051/A.py) | `AtCoder` `*100` | Dec/18/2020 02:15 | 
+933 | [B - Make Them Equal](https://codeforces.com/contest/1154/problem/B) | [PyPy 3](./codeforces/1154/B.py) | `math` `*1200` | Dec/18/2020 02:09 | 
+932 | [B - Ehab Is an Odd Person](https://codeforces.com/contest/1174/problem/B) | [PyPy 3](./codeforces/1174/B.py) | `sortings` `*1200` | Dec/18/2020 01:33 | 
+931 | [B - Good String](https://codeforces.com/contest/1140/problem/B) | [PyPy 3](./codeforces/1140/B.py) | `implementation` `strings` `*1200` | Dec/18/2020 00:49 | 
+930 | [A - Dungeon](https://codeforces.com/contest/1463/problem/A) | [PyPy 3](./codeforces/1463/A.py) | `binary search` `math` `*1100` | Dec/17/2020 23:14 | 
+929 | [B - Find The Array](https://codeforces.com/contest/1463/problem/B) | [PyPy 3](./codeforces/1463/B.py) | `bitmasks` `constructive algorithms` `greedy` `*1400` | Dec/17/2020 22:43 | 
+928 | [B - Fridge Lockers](https://codeforces.com/contest/1255/problem/B) | [PyPy 3](./codeforces/1255/B.py) | `graphs` `implementation` `*1100` | Dec/16/2020 23:32 | 
+927 | [A - 2048 Game](https://codeforces.com/contest/1221/problem/A) | [PyPy 3](./codeforces/1221/A.py) | `brute force` `greedy` `math` `*1000` | Dec/16/2020 23:17 | 
+926 | [E2 - Close Tuples (hard version)](https://codeforces.com/contest/1462/problem/E2) | [PyPy 3](./codeforces/1462/E2.py) | `binary search` `combinatorics` `implementation` `math` `sortings` `two pointers` `*1700` | Dec/16/2020 19:25 | 
+925 | [E1 - Close Tuples (easy version)](https://codeforces.com/contest/1462/problem/E1) | [PyPy 3](./codeforces/1462/E1.py) | `binary search` `combinatorics` `math` `sortings` `two pointers` `*1500` | Dec/16/2020 17:04 | 
+924 | [A - Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | [PyPy 3](./codeforces/1462/A.py) | `implementation` `two pointers` `*800` | Dec/15/2020 22:48 | 
+923 | [B - Last Year's Substring](https://codeforces.com/contest/1462/problem/B) | [PyPy 3](./codeforces/1462/B.py) | `dp` `implementation` `strings` `*800` | Dec/15/2020 22:48 | 
+922 | [C - Unique Number](https://codeforces.com/contest/1462/problem/C) | [PyPy 3](./codeforces/1462/C.py) | `brute force` `greedy` `math` `*900` | Dec/15/2020 22:48 | 
+921 | [D - Valid BFS?](https://codeforces.com/contest/1037/problem/D) | [PyPy 3](./codeforces/1037/D.py) | `dfs and similar` `graphs` `shortest paths` `trees` `*1700` | Dec/14/2020 23:39 | 
+920 | [F - Consecutive Subsequence](https://codeforces.com/contest/977/problem/F) | [PyPy 3](./codeforces/977/F.py) | `dp` `*1700` | Dec/14/2020 01:31 | 
+919 | [C - Perform the Combo](https://codeforces.com/contest/1311/problem/C) | [PyPy 3](./codeforces/1311/C.py) | `brute force` `*1300` | Dec/14/2020 00:45 | 
+918 | [F - Range Xor Query](https://atcoder.jp/contests/abc185/tasks/abc185_f) | [PyPy3 (7.3.0)](./atcoder/abc185/F.py) | `AtCoder` `*600` | Dec/13/2020 20:15 | 
+917 | [D - Stamp](https://atcoder.jp/contests/abc185/tasks/abc185_d) | [PyPy3 (7.3.0)](./atcoder/abc185/D.py) | `AtCoder` `*400` | Dec/13/2020 19:03 | 
+916 | [C - Duodecim Ferra](https://atcoder.jp/contests/abc185/tasks/abc185_c) | [PyPy3 (7.3.0)](./atcoder/abc185/C.py) | `AtCoder` `*300` | Dec/13/2020 18:32 | 
+915 | [B - Smartphone Addiction](https://atcoder.jp/contests/abc185/tasks/abc185_b) | [PyPy3 (7.3.0)](./atcoder/abc185/B.py) | `AtCoder` `*200` | Dec/13/2020 17:45 | 
+914 | [A - ABC Preparation](https://atcoder.jp/contests/abc185/tasks/abc185_a) | [PyPy3 (7.3.0)](./atcoder/abc185/A.py) | `AtCoder` `*100` | Dec/13/2020 17:30 | 
+913 | [C - Two Teams Composing](https://codeforces.com/contest/1335/problem/C) | [PyPy 3](./codeforces/1335/C.py) | `binary search` `greedy` `implementation` `sortings` `*1100` | Dec/13/2020 16:39 | 
+912 | [B - K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) | [PyPy 3](./codeforces/1328/B.py) | `binary search` `brute force` `combinatorics` `implementation` `math` `*1300` | Dec/13/2020 01:42 | 
+911 | [B - Polycarp and Letters](https://codeforces.com/contest/864/problem/B) | [PyPy 3](./codeforces/864/B.py) | `brute force` `implementation` `strings` `*1000` | Dec/12/2020 15:58 | 
+910 | [C - Yet Another Array Restoration](https://codeforces.com/contest/1409/problem/C) | [PyPy 3](./codeforces/1409/C.py) | `brute force` `math` `number theory` `*1200` | Dec/12/2020 13:04 | 
+909 | [A - Best Subsegment](https://codeforces.com/contest/1117/problem/A) | [PyPy 3](./codeforces/1117/A.py) | `implementation` `math` `*1100` | Dec/12/2020 01:54 | 
+908 | [B - Emotes](https://codeforces.com/contest/1117/problem/B) | [PyPy 3](./codeforces/1117/B.py) | `greedy` `math` `sortings` `*1000` | Dec/12/2020 01:47 | 
+907 | [C - Random Events](https://codeforces.com/contest/1461/problem/C) | [PyPy 3](./codeforces/1461/C.py) | `dp` `math` `probabilities` `*1500` | Dec/11/2020 21:32 | 
+906 | [B - Find the Spruce](https://codeforces.com/contest/1461/problem/B) | [PyPy 3](./codeforces/1461/B.py) | `brute force` `dp` `implementation` `*1400` | Dec/11/2020 20:41 | 
+905 | [A - String Generation](https://codeforces.com/contest/1461/problem/A) | [PyPy 3](./codeforces/1461/A.py) | `constructive algorithms` `greedy` `*800` | Dec/11/2020 20:18 | 
+904 | [B - Digits Sequence (Hard Edition)](https://codeforces.com/contest/1177/problem/B) | [PyPy 3](./codeforces/1177/B.py) | `binary search` `divide and conquer` `implementation` `*1800` | Dec/10/2020 19:40 | 
+903 | [D - Constant Palindrome Sum](https://codeforces.com/contest/1343/problem/D) | [PyPy 3](./codeforces/1343/D.py) | `brute force` `data structures` `greedy` `two pointers` `*1700` | Dec/10/2020 00:19 | 
+902 | [B - Polycarp Training](https://codeforces.com/contest/1165/problem/B) | [PyPy 3](./codeforces/1165/B.py) | `data structures` `greedy` `sortings` `*1000` | Dec/08/2020 23:14 | 
+901 | [A - Redundant Redundancy](https://atcoder.jp/contests/arc110/tasks/arc110_a) | [PyPy3 (7.3.0)](./atcoder/arc110/A.py) | `AtCoder` `*300` | Dec/08/2020 23:00 | 
+900 | [B - Pillars](https://codeforces.com/contest/1197/problem/B) | [PyPy 3](./codeforces/1197/B.py) | `greedy` `implementation` `*1000` | Dec/08/2020 22:33 | 
+899 | [B - Canvas Frames](https://codeforces.com/contest/127/problem/B) | [PyPy 3](./codeforces/127/B.py) | `implementation` `*1000` | Dec/08/2020 20:07 | 
+898 | [A - Two distinct points](https://codeforces.com/contest/1108/problem/A) | [PyPy 3](./codeforces/1108/A.py) | `implementation` `*800` | Dec/08/2020 19:58 | 
+897 | [A - Distinct Digits](https://codeforces.com/contest/1228/problem/A) | [PyPy 3](./codeforces/1228/A.py) | `brute force` `implementation` `*800` | Dec/08/2020 19:32 | 
+896 | [B - Strings Equalization](https://codeforces.com/contest/1223/problem/B) | [PyPy 3](./codeforces/1223/B.py) | `strings` `*1000` | Dec/08/2020 19:22 | 
+895 | [B2 - TV Subscriptions (Hard Version)](https://codeforces.com/contest/1225/problem/B2) | [PyPy 3](./codeforces/1225/B2.py) | `implementation` `two pointers` `*1300` | Dec/08/2020 19:14 | 
+894 | [B1 - TV Subscriptions (Easy Version)](https://codeforces.com/contest/1225/problem/B1) | [PyPy 3](./codeforces/1225/B1.py) | `implementation` `*1000` | Dec/08/2020 19:13 | 
+893 | [B - Ania and Minimizing](https://codeforces.com/contest/1230/problem/B) | [PyPy 3](./codeforces/1230/B.py) | `greedy` `implementation` `*1000` | Dec/08/2020 18:58 | 
+892 | [B - Burglar and Matches](https://codeforces.com/contest/16/problem/B) | [PyPy 3](./codeforces/16/B.py) | `greedy` `implementation` `sortings` `*900` | Dec/08/2020 18:49 | 
+891 | [B - Squares](https://codeforces.com/contest/263/problem/B) | [PyPy 3](./codeforces/263/B.py) | `greedy` `implementation` `sortings` `*900` | Dec/08/2020 18:18 | 
+890 | [B - Ksusha the Squirrel](https://codeforces.com/contest/299/problem/B) | [PyPy 3](./codeforces/299/B.py) | `brute force` `implementation` `*900` | Dec/08/2020 18:10 | 
+889 | [B - Network Configuration](https://codeforces.com/contest/412/problem/B) | [PyPy 3](./codeforces/412/B.py) | `greedy` `sortings` `*900` | Dec/08/2020 18:00 | 
+888 | [B - The Time](https://codeforces.com/contest/622/problem/B) | [PyPy 3](./codeforces/622/B.py) | `implementation` `*900` | Dec/08/2020 16:32 | 
+887 | [B - Decoding](https://codeforces.com/contest/746/problem/B) | [PyPy 3](./codeforces/746/B.py) | `implementation` `strings` `*900` | Dec/08/2020 16:25 | 
+886 | [B - Mammoth's Genome Decoding](https://codeforces.com/contest/747/problem/B) | [PyPy 3](./codeforces/747/B.py) | `implementation` `strings` `*900` | Dec/08/2020 16:12 | 
+885 | [B - Fafa and the Gates](https://codeforces.com/contest/935/problem/B) | [PyPy 3](./codeforces/935/B.py) | `implementation` `*900` | Dec/08/2020 15:45 | 
+884 | [A - Avoid Trygub](https://codeforces.com/contest/1450/problem/A) | [PyPy 3](./codeforces/1450/A.py) | `constructive algorithms` `sortings` `*800` | Dec/07/2020 19:48 | 
+883 | [B - Balls of Steel](https://codeforces.com/contest/1450/problem/B) | [PyPy 3](./codeforces/1450/B.py) | `brute force` `geometry` `greedy` `*1000` | Dec/07/2020 19:48 | 
+882 | [B - Duff in Love](https://codeforces.com/contest/588/problem/B) | [PyPy 3](./codeforces/588/B.py) | `math` `*1300` | Dec/06/2020 00:38 | 
+881 | [B - Queries on a String](https://codeforces.com/contest/598/problem/B) | [PyPy 3](./codeforces/598/B.py) | `implementation` `strings` `*1300` | Dec/06/2020 00:33 | 
+880 | [B - Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | [PyPy 3](./codeforces/600/B.py) | `binary search` `data structures` `sortings` `two pointers` `*1300` | Dec/06/2020 00:22 | 
+879 | [B - Getting an A](https://codeforces.com/contest/991/problem/B) | [PyPy 3](./codeforces/991/B.py) | `greedy` `sortings` `*900` | Dec/05/2020 23:08 | 
+878 | [B - Suffix Operations](https://codeforces.com/contest/1453/problem/B) | [PyPy 3](./codeforces/1453/B.py) | `constructive algorithms` `implementation` `*1400` | Dec/04/2020 19:20 | 
+877 | [A - Cancel the Trains](https://codeforces.com/contest/1453/problem/A) | [PyPy 3](./codeforces/1453/A.py) | `implementation` `*800` | Dec/04/2020 18:42 | 
+876 | [B2 - Social Network (hard version)](https://codeforces.com/contest/1234/problem/B2) | [PyPy 3](./codeforces/1234/B2.py) | `data structures` `implementation` `*1300` | Dec/04/2020 02:12 | 
+875 | [B1 - Social Network (easy version)](https://codeforces.com/contest/1234/problem/B1) | [PyPy 3](./codeforces/1234/B1.py) | `implementation` `*1000` | Dec/04/2020 01:11 | 
+874 | [B - Rooms and Staircases](https://codeforces.com/contest/1244/problem/B) | [PyPy 3](./codeforces/1244/B.py) | `brute force` `implementation` `*1000` | Dec/04/2020 01:01 | 
+873 | [B - Discounts](https://codeforces.com/contest/1132/problem/B) | [PyPy 3](./codeforces/1132/B.py) | `greedy` `sortings` `*900` | Dec/03/2020 23:55 | 
+872 | [C - Prefix Sum Primes](https://codeforces.com/contest/1150/problem/C) | [PyPy 3](./codeforces/1150/C.py) | `constructive algorithms` `greedy` `math` `number theory` `*1200` | Dec/03/2020 23:47 | 
+871 | [A - Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | [PyPy 3](./codeforces/1149/A.py) | `constructive algorithms` `greedy` `math` `number theory` `*1200` | Dec/03/2020 23:45 | 
+870 | [B - Tiling Challenge](https://codeforces.com/contest/1150/problem/B) | [PyPy 3](./codeforces/1150/B.py) | `greedy` `implementation` `*900` | Dec/03/2020 23:33 | 
+869 | [B - Shooting](https://codeforces.com/contest/1216/problem/B) | [PyPy 3](./codeforces/1216/B.py) | `greedy` `implementation` `sortings` `*900` | Dec/03/2020 23:10 | 
+868 | [B - Grow The Tree](https://codeforces.com/contest/1248/problem/B) | [PyPy 3](./codeforces/1248/B.py) | `greedy` `math` `sortings` `*900` | Dec/03/2020 23:04 | 
+867 | [B - Keyboard Layouts](https://codeforces.com/contest/831/problem/B) | [PyPy 3](./codeforces/831/B.py) | `implementation` `strings` `*800` | Dec/03/2020 22:48 | 
+866 | [B - Teams Forming](https://codeforces.com/contest/1092/problem/B) | [PyPy 3](./codeforces/1092/B.py) | `sortings` `*800` | Dec/03/2020 22:41 | 
+865 | [B - Dice Tower](https://codeforces.com/contest/1266/problem/B) | [PyPy 3](./codeforces/1266/B.py) | `constructive algorithms` `math` `*1000` | Dec/03/2020 16:44 | 
+864 | [D - Secret Passwords](https://codeforces.com/contest/1263/problem/D) | [PyPy 3](./codeforces/1263/D.py) | `dfs and similar` `dsu` `graphs` `*1500` | Dec/03/2020 01:48 | 
+863 | [A - Maze](https://codeforces.com/contest/377/problem/A) | [PyPy 3](./codeforces/377/A.py) | `dfs and similar` `*1600` | Dec/02/2020 23:24 | 
+862 | [C - Lose it!](https://codeforces.com/contest/1176/problem/C) | [PyPy 3](./codeforces/1176/C.py) | `dp` `greedy` `implementation` `*1300` | Dec/02/2020 15:42 | 
+861 | [B - Merge it!](https://codeforces.com/contest/1176/problem/B) | [PyPy 3](./codeforces/1176/B.py) | `math` `*1100` | Dec/02/2020 14:59 | 
+860 | [A - Learning Languages](https://codeforces.com/contest/277/problem/A) | [PyPy 3](./codeforces/277/A.py) | `dfs and similar` `dsu` `*1400` | Dec/01/2020 00:22 | 
+859 | [D - Sequence and Swaps](https://codeforces.com/contest/1455/problem/D) | [PyPy 3](./codeforces/1455/D.py) | `dp` `greedy` `sortings` `*1600` | Nov/30/2020 22:20 | 
+858 | [B - Jumps](https://codeforces.com/contest/1455/problem/B) | [PyPy 3](./codeforces/1455/B.py) | `constructive algorithms` `math` `*1200` | Nov/30/2020 22:19 | 
+857 | [C - Ping-pong](https://codeforces.com/contest/1455/problem/C) | [PyPy 3](./codeforces/1455/C.py) | `constructive algorithms` `games` `math` `*1100` | Nov/30/2020 22:19 | 
+856 | [A - Strange Functions](https://codeforces.com/contest/1455/problem/A) | [PyPy 3](./codeforces/1455/A.py) | `math` `number theory` `*800` | Nov/30/2020 22:18 | 
+855 | [A - Hands](https://atcoder.jp/contests/arc109/tasks/arc109_a) | [PyPy3 (7.3.0)](./atcoder/arc109/A.py) | `AtCoder` `*300` | Nov/30/2020 01:48 | 
+854 | [B - GCD Compression](https://codeforces.com/contest/1370/problem/B) | [PyPy 3](./codeforces/1370/B.py) | `constructive algorithms` `math` `number theory` `*1100` | Nov/30/2020 00:57 | 
+853 | [C - Bouncing Ball](https://codeforces.com/contest/1457/problem/C) | [PyPy 3](./codeforces/1457/C.py) | `dp` `implementation` `*1400` | Nov/29/2020 23:05 | 
+852 | [B - Repainting Street](https://codeforces.com/contest/1457/problem/B) | [PyPy 3](./codeforces/1457/B.py) | `brute force` `greedy` `*1100` | Nov/29/2020 13:09 | 
+851 | [A - Prison Break](https://codeforces.com/contest/1457/problem/A) | [PyPy 3](./codeforces/1457/A.py) | `brute force` `math` `*800` | Nov/29/2020 12:51 | 
+850 | [C - Books Queries](https://codeforces.com/contest/1066/problem/C) | [PyPy 3](./codeforces/1066/C.py) | `implementation` `*1400` | Nov/27/2020 13:59 | 
+849 | [C - Tile Painting](https://codeforces.com/contest/1243/problem/C) | [PyPy 3](./codeforces/1243/C.py) | `number theory` `*1500` | Nov/27/2020 13:25 | 
+848 | [B - Sum is Multiple](https://atcoder.jp/contests/acl1/tasks/acl1_b) | [PyPy3 (7.3.0)](./atcoder/acl1/B.py) | `AtCoder` `*600` | Nov/27/2020 01:12 | 
+847 | [H - Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h) | [PyPy3 (7.3.0)](./atcoder/dp/H.py) | `AtCoder` `*100` | Nov/26/2020 00:20 | 
+846 | [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | [PyPy3 (7.3.0)](./atcoder/dp/F.py) | `AtCoder` `*100` | Nov/25/2020 23:57 | 
+845 | [B1 - Character Swap (Easy Version)](https://codeforces.com/contest/1243/problem/B1) | [PyPy 3](./codeforces/1243/B1.py) | `strings` `*1000` | Nov/25/2020 23:11 | 
+844 | [A - Maximum Square](https://codeforces.com/contest/1243/problem/A) | [PyPy 3](./codeforces/1243/A.py) | `implementation` `*800` | Nov/25/2020 22:51 | 
+843 | [B - Arpa’s obvious problem and Mehrdad’s terrible solution](https://codeforces.com/contest/742/problem/B) | [PyPy 3](./codeforces/742/B.py) | `brute force` `math` `number theory` `*1500` | Nov/25/2020 01:32 | 
+842 | [A - Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | [PyPy 3](./codeforces/342/A.py) | `greedy` `implementation` `*1200` | Nov/25/2020 00:41 | 
+841 | [D - Number into Sequence](https://codeforces.com/contest/1454/problem/D) | [PyPy 3](./codeforces/1454/D.py) | `constructive algorithms` `math` `number theory` `*1300` | Nov/24/2020 21:59 | 
+840 | [C - Sequence Transformation](https://codeforces.com/contest/1454/problem/C) | [PyPy 3](./codeforces/1454/C.py) | `greedy` `implementation` `*1200` | Nov/24/2020 21:01 | 
+839 | [B - Unique Bid Auction](https://codeforces.com/contest/1454/problem/B) | [PyPy 3](./codeforces/1454/B.py) | `implementation` `*800` | Nov/24/2020 20:15 | 
+838 | [A - Special Permutation](https://codeforces.com/contest/1454/problem/A) | [PyPy 3](./codeforces/1454/A.py) | `constructive algorithms` `probabilities` `*800` | Nov/24/2020 20:09 | 
+837 | [B - Divisors of Two Integers](https://codeforces.com/contest/1108/problem/B) | [PyPy 3](./codeforces/1108/B.py) | `brute force` `greedy` `math` `number theory` `*1100` | Nov/24/2020 03:18 | 
+836 | [E1 - Bitwise Queries (Easy Version)](https://codeforces.com/contest/1451/problem/E1) | [PyPy 3](./codeforces/1451/E1.py) | `bitmasks` `constructive algorithms` `interactive` `math` `*2000` | Nov/23/2020 01:05 | 
+835 | [C - Super Ryuma](https://atcoder.jp/contests/abc184/tasks/abc184_c) | [PyPy3 (7.3.0)](./atcoder/abc184/C.py) | `AtCoder` `*300` | Nov/23/2020 00:17 | 
+834 | [B - Quizzes](https://atcoder.jp/contests/abc184/tasks/abc184_b) | [PyPy3 (7.3.0)](./atcoder/abc184/B.py) | `AtCoder` `*200` | Nov/22/2020 23:51 | 
+833 | [A - Determinant](https://atcoder.jp/contests/abc184/tasks/abc184_a) | [PyPy3 (7.3.0)](./atcoder/abc184/A.py) | `AtCoder` `*100` | Nov/22/2020 23:49 | 
+832 | [B - Abbreviate Fox](https://atcoder.jp/contests/arc108/tasks/arc108_b) | [PyPy3 (7.3.0)](./atcoder/arc108/B.py) | `AtCoder` `*400` | Nov/22/2020 03:00 | 
+831 | [A - Sum and Product](https://atcoder.jp/contests/arc108/tasks/arc108_a) | [PyPy3 (7.3.0)](./atcoder/arc108/A.py) | `AtCoder` `*300` | Nov/22/2020 02:42 | 
+830 | [C - String Equality](https://codeforces.com/contest/1451/problem/C) | [PyPy 3](./codeforces/1451/C.py) | `dp` `greedy` `hashing` `implementation` `strings` `*1400` | Nov/21/2020 21:02 | 
+829 | [B - Non-Substring Subsequence](https://codeforces.com/contest/1451/problem/B) | [PyPy 3](./codeforces/1451/B.py) | `dp` `greedy` `implementation` `strings` `*900` | Nov/21/2020 20:35 | 
+828 | [A - Subtract or Divide](https://codeforces.com/contest/1451/problem/A) | [PyPy 3](./codeforces/1451/A.py) | `greedy` `math` `*800` | Nov/21/2020 20:16 | 
+827 | [F1 - Tree Cutting (Easy Version)](https://codeforces.com/contest/1118/problem/F1) | [PyPy 3](./codeforces/1118/F1.py) | `dfs and similar` `trees` `*1800` | Nov/21/2020 02:48 | 
+826 | [E - Special Elements](https://codeforces.com/contest/1352/problem/E) | [PyPy 3](./codeforces/1352/E.py) | `brute force` `implementation` `two pointers` `*1500` | Nov/21/2020 02:28 | 
+825 | [C - Palindromic Matrix](https://codeforces.com/contest/1118/problem/C) | [PyPy 3](./codeforces/1118/C.py) | `constructive algorithms` `implementation` `*1700` | Nov/21/2020 00:46 | 
+824 | [D - Radio Towers](https://codeforces.com/contest/1452/problem/D) | [PyPy 3](./codeforces/1452/D.py) | `combinatorics` `dp` `math` `*1600` | Nov/20/2020 01:18 | 
+823 | [B - Toy Blocks](https://codeforces.com/contest/1452/problem/B) | [PyPy 3](./codeforces/1452/B.py) | `binary search` `greedy` `math` `sortings` `*1400` | Nov/19/2020 21:44 | 
+822 | [A - Robot Program](https://codeforces.com/contest/1452/problem/A) | [PyPy 3](./codeforces/1452/A.py) | `math` `*800` | Nov/19/2020 20:20 | 
+821 | [C - Two Brackets](https://codeforces.com/contest/1452/problem/C) | [PyPy 3](./codeforces/1452/C.py) | `greedy` `*800` | Nov/19/2020 20:12 | 
+820 | [G - Special Permutation](https://codeforces.com/contest/1352/problem/G) | [PyPy 3](./codeforces/1352/G.py) | `constructive algorithms` `*1600` | Nov/19/2020 15:58 | 
+819 | [B - Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | [Python 3](./codeforces/492/B.py) | `binary search` `implementation` `math` `sortings` `*1200` | Nov/19/2020 14:04 | 
+818 | [A - Integer Points](https://codeforces.com/contest/1248/problem/A) | [Python 3](./codeforces/1248/A.py) | `geometry` `math` `*1000` | Nov/19/2020 02:57 | 
+817 | [C1 - Binary Table (Easy Version)](https://codeforces.com/contest/1440/problem/C1) | [PyPy 3](./codeforces/1440/C1.py) | `constructive algorithms` `implementation` `*1500` | Nov/17/2020 23:14 | 
+816 | [B - Sum of Medians](https://codeforces.com/contest/1440/problem/B) | [PyPy 3](./codeforces/1440/B.py) | `greedy` `math` `*900` | Nov/17/2020 20:57 | 
+815 | [A - Buy the String](https://codeforces.com/contest/1440/problem/A) | [PyPy 3](./codeforces/1440/A.py) | `implementation` `math` `*800` | Nov/17/2020 20:18 | 
+814 | [A - Competitive Programmer](https://codeforces.com/contest/1266/problem/A) | [PyPy 3](./codeforces/1266/A.py) | `chinese remainder theorem` `math` `*1000` | Nov/17/2020 01:12 | 
+813 | [A - Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | [PyPy 3](./codeforces/1251/A.py) | `brute force` `strings` `two pointers` `*1000` | Nov/17/2020 00:52 | 
+812 | [C - Travel](https://atcoder.jp/contests/abc183/tasks/abc183_c) | [PyPy3 (7.3.0)](./atcoder/abc183/C.py) | `AtCoder` `*300` | Nov/16/2020 23:52 | 
+811 | [B - Billiards](https://atcoder.jp/contests/abc183/tasks/abc183_b) | [PyPy3 (7.3.0)](./atcoder/abc183/B.py) | `AtCoder` `*200` | Nov/16/2020 23:51 | 
+810 | [B - Numbers Box](https://codeforces.com/contest/1447/problem/B) | [PyPy 3](./codeforces/1447/B.py) | `greedy` `math` `*1000` | Nov/15/2020 23:27 | 
+809 | [C - Knapsack](https://codeforces.com/contest/1447/problem/C) | [PyPy 3](./codeforces/1447/C.py) | `constructive algorithms` `greedy` `math` `sortings` `*1300` | Nov/15/2020 23:14 | 
+808 | [A - Add Candies](https://codeforces.com/contest/1447/problem/A) | [PyPy 3](./codeforces/1447/A.py) | `constructive algorithms` `math` `*800` | Nov/15/2020 23:08 | 
+807 | [A - ReLU](https://atcoder.jp/contests/abc183/tasks/abc183_a) | [PyPy3 (7.3.0)](./atcoder/abc183/A.py) | `AtCoder` `*100` | Nov/15/2020 17:30 | 
+806 | [B - Substring Removal](https://codeforces.com/contest/1096/problem/B) | [PyPy 3](./codeforces/1096/B.py) | `combinatorics` `math` `strings` `*1300` | Nov/15/2020 15:44 | 
+805 | [B - Traffic Lights](https://codeforces.com/contest/29/problem/B) | [PyPy 3](./codeforces/29/B.py) | `implementation` `*1500` | Nov/14/2020 22:07 | 
+804 | [A - Bear and Three Balls](https://codeforces.com/contest/653/problem/A) | [PyPy 3](./codeforces/653/A.py) | `brute force` `implementation` `sortings` `*900` | Nov/14/2020 22:05 | 
+803 | [C - Engineer Artem](https://codeforces.com/contest/1438/problem/C) | [PyPy 3](./codeforces/1438/C.py) | `2-sat` `chinese remainder theorem` `constructive algorithms` `fft` `flows` `*2000` | Nov/13/2020 23:25 | 
+802 | [B - Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | [PyPy 3](./codeforces/1438/B.py) | `constructive algorithms` `data structures` `greedy` `sortings` `*1000` | Nov/13/2020 20:20 | 
+801 | [A - Specific Tastes of Andre ](https://codeforces.com/contest/1438/problem/A) | [PyPy 3](./codeforces/1438/A.py) | `constructive algorithms` `implementation` `*800` | Nov/13/2020 20:06 | 
+800 | [J - Lonely Numbers](https://codeforces.com/contest/1424/problem/J) | [PyPy 3](./codeforces/1424/J.py) | `math` `*1600` | Nov/10/2020 02:59 | 
+799 | [D - Wandering](https://atcoder.jp/contests/abc182/tasks/abc182_d) | [PyPy3 (7.3.0)](./atcoder/abc182/D.py) | `AtCoder` `*400` | Nov/08/2020 23:30 | 
+798 | [C - To 3](https://atcoder.jp/contests/abc182/tasks/abc182_c) | [PyPy3 (7.3.0)](./atcoder/abc182/C.py) | `AtCoder` `*300` | Nov/08/2020 23:17 | 
+797 | [B - Almost GCD](https://atcoder.jp/contests/abc182/tasks/abc182_b) | [PyPy3 (7.3.0)](./atcoder/abc182/B.py) | `AtCoder` `*200` | Nov/08/2020 22:52 | 
+796 | [A - twiblr](https://atcoder.jp/contests/abc182/tasks/abc182_a) | [PyPy3 (7.3.0)](./atcoder/abc182/A.py) | `AtCoder` `*100` | Nov/08/2020 22:36 | 
+795 | [C - Football](https://codeforces.com/contest/417/problem/C) | [PyPy 3](./codeforces/417/C.py) | `constructive algorithms` `graphs` `implementation` `*1400` | Nov/06/2020 14:41 | 
+794 | [B - MAX-=min](https://atcoder.jp/contests/arc105/tasks/arc105_b) | [PyPy3 (7.3.0)](./atcoder/arc105/B.py) | `AtCoder` `*300` | Nov/05/2020 01:06 | 
+793 | [A - Sleuth](https://codeforces.com/contest/49/problem/A) | [PyPy 3](./codeforces/49/A.py) | `implementation` `*800` | Nov/05/2020 00:12 | 
+792 | [A - Rewards](https://codeforces.com/contest/448/problem/A) | [PyPy 3](./codeforces/448/A.py) | `implementation` `*800` | Nov/04/2020 23:30 | 
+791 | [A - CME](https://codeforces.com/contest/1223/problem/A) | [PyPy 3](./codeforces/1223/A.py) | `math` `*800` | Nov/04/2020 23:26 | 
+790 | [B - Borze](https://codeforces.com/contest/32/problem/B) | [PyPy 3](./codeforces/32/B.py) | `expression parsing` `implementation` `*800` | Nov/04/2020 23:20 | 
+789 | [D - Anti-Sudoku](https://codeforces.com/contest/1335/problem/D) | [PyPy 3](./codeforces/1335/D.py) | `constructive algorithms` `implementation` `*1300` | Nov/04/2020 23:02 | 
+788 | [A - Jeff and Digits](https://codeforces.com/contest/352/problem/A) | [PyPy 3](./codeforces/352/A.py) | `brute force` `implementation` `math` `*1000` | Nov/04/2020 13:39 | 
+787 | [A - Love Triangle](https://codeforces.com/contest/939/problem/A) | [PyPy 3](./codeforces/939/A.py) | `graphs` `*800` | Nov/04/2020 00:45 | 
+786 | [A - Compote](https://codeforces.com/contest/746/problem/A) | [PyPy 3](./codeforces/746/A.py) | `implementation` `math` `*800` | Nov/04/2020 00:41 | 
+785 | [A - Little C Loves 3 I](https://codeforces.com/contest/1047/problem/A) | [PyPy 3](./codeforces/1047/A.py) | `math` `*800` | Nov/04/2020 00:28 | 
+784 | [A - Pupils Redistribution](https://codeforces.com/contest/779/problem/A) | [PyPy 3](./codeforces/779/A.py) | `constructive algorithms` `math` `*1000` | Nov/04/2020 00:04 | 
+783 | [A - Balloons](https://codeforces.com/contest/998/problem/A) | [PyPy 3](./codeforces/998/A.py) | `constructive algorithms` `implementation` `*1000` | Nov/03/2020 23:36 | 
+782 | [C - Find Amir](https://codeforces.com/contest/805/problem/C) | [PyPy 3](./codeforces/805/C.py) | `constructive algorithms` `*1000` | Nov/03/2020 23:28 | 
+781 | [A - Find Amir](https://codeforces.com/contest/804/problem/A) | [PyPy 3](./codeforces/804/A.py) | `constructive algorithms` `greedy` `math` `*1000` | Nov/03/2020 23:26 | 
+780 | [A - Mike and palindrome](https://codeforces.com/contest/798/problem/A) | [PyPy 3](./codeforces/798/A.py) | `brute force` `constructive algorithms` `strings` `*1000` | Nov/03/2020 23:17 | 
+779 | [B - Nastya Is Playing Computer Games](https://codeforces.com/contest/1136/problem/B) | [PyPy 3](./codeforces/1136/B.py) | `constructive algorithms` `math` `*1000` | Nov/03/2020 23:12 | 
+778 | [A - Ehab Fails to Be Thanos](https://codeforces.com/contest/1174/problem/A) | [PyPy 3](./codeforces/1174/A.py) | `constructive algorithms` `greedy` `sortings` `*1000` | Nov/03/2020 23:02 | 
 777 | [A - Simple Math](https://atcoder.jp/contests/arc107/tasks/arc107_a) | [PyPy3 (7.3.0)](./atcoder/arc107/A.py) | `AtCoder` `*300` | Nov/03/2020 00:18 | 
 776 | [C - The Delivery Dilemma](https://codeforces.com/contest/1443/problem/C) | [PyPy 3](./codeforces/1443/C.py) | `binary search` `greedy` `sortings` `*1400` | Nov/02/2020 21:36 | 
 775 | [B - Saving the City](https://codeforces.com/contest/1443/problem/B) | [PyPy 3](./codeforces/1443/B.py) | `dp` `greedy` `math` `sortings` `*1300` | Nov/02/2020 21:32 | 

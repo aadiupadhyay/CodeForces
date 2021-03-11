@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1049 | [E - Enemy is weak](https://codeforces.com/contest/61/problem/E) | [PyPy 3](./codeforces/61/E.py) | `data structures` `trees` `*1900` | Mar/12/2021 02:49 | 
 1048 | [C - Squared Error](https://atcoder.jp/contests/abc194/tasks/abc194_c) | [PyPy3 (7.3.0)](./atcoder/abc194/C.py) | `AtCoder` `*300` | Mar/12/2021 02:00 | 
 1047 | [B - Fenwick Tree](https://atcoder.jp/contests/practice2/tasks/practice2_b) | [PyPy3 (7.3.0)](./atcoder/practice2/B.py) | `AtCoder` `*100` | Mar/11/2021 16:04 | 
 1046 | [F - Range Set Query](https://atcoder.jp/contests/abc174/tasks/abc174_f) | [PyPy3 (7.3.0)](./atcoder/abc174/F.py) | `AtCoder` `*600` | Mar/08/2021 01:21 | 

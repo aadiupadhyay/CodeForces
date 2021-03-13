@@ -6243,6 +6243,22 @@
     ],
     "timestamp": "Mar/12/2021 02:49"
   },
+  "CF109924569": {
+    "contest_id": 1492,
+    "language": "PyPy 3",
+    "path": "codeforces\\1492\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Three swimmers",
+    "problem_url": "https://codeforces.com/contest/1492/problem/A",
+    "submission_id": "CF109924569",
+    "submission_url": "https://codeforces.com/contest/1492/submission/109924569",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/14/2021 02:25"
+  },
   "CF110569813": {
     "contest_id": 1497,
     "language": "PyPy 3",

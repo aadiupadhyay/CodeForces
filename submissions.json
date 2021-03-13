@@ -3471,6 +3471,22 @@
     ],
     "timestamp": "Mar/12/2021 02:00"
   },
+  "AC20880284": {
+    "contest_id": "abc195",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc195\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Comma",
+    "problem_url": "https://atcoder.jp/contests/abc195/tasks/abc195_c",
+    "submission_id": "AC20880284",
+    "submission_url": "https://atcoder.jp/contests/abc195/submissions/20880284",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/13/2021 17:48"
+  },
   "AC21133789": {
     "contest_id": "abc196",
     "language": "PyPy3 (7.3.0)",

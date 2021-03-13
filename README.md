@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1053 | [C - Doubled](https://atcoder.jp/contests/abc196/tasks/abc196_c) | [PyPy3 (7.3.0)](./atcoder/abc196/C.py) | `AtCoder` `*300` | Mar/21/2021 15:31 | 
-1052 | [B - Round Down](https://atcoder.jp/contests/abc196/tasks/abc196_b) | [PyPy3 (7.3.0)](./atcoder/abc196/B.py) | `AtCoder` `*200` | Mar/21/2021 15:25 | 
-1051 | [A - Difference Max](https://atcoder.jp/contests/abc196/tasks/abc196_a) | [PyPy3 (7.3.0)](./atcoder/abc196/A.py) | `AtCoder` `*100` | Mar/21/2021 15:23 | 
-1050 | [C - Comma](https://atcoder.jp/contests/abc195/tasks/abc195_c) | [PyPy3 (7.3.0)](./atcoder/abc195/C.py) | `AtCoder` `*300` | Mar/13/2021 17:48 | 
+1054 | [C - Doubled](https://atcoder.jp/contests/abc196/tasks/abc196_c) | [PyPy3 (7.3.0)](./atcoder/abc196/C.py) | `AtCoder` `*300` | Mar/21/2021 15:31 | 
+1053 | [B - Round Down](https://atcoder.jp/contests/abc196/tasks/abc196_b) | [PyPy3 (7.3.0)](./atcoder/abc196/B.py) | `AtCoder` `*200` | Mar/21/2021 15:25 | 
+1052 | [A - Difference Max](https://atcoder.jp/contests/abc196/tasks/abc196_a) | [PyPy3 (7.3.0)](./atcoder/abc196/A.py) | `AtCoder` `*100` | Mar/21/2021 15:23 | 
+1051 | [C - Comma](https://atcoder.jp/contests/abc195/tasks/abc195_c) | [PyPy3 (7.3.0)](./atcoder/abc195/C.py) | `AtCoder` `*300` | Mar/13/2021 17:48 | 
+1050 | [A - Health M Death](https://atcoder.jp/contests/abc195/tasks/abc195_a) | [PyPy3 (7.3.0)](./atcoder/abc195/A.py) | `AtCoder` `*100` | Mar/13/2021 17:31 | 
 1049 | [E - Enemy is weak](https://codeforces.com/contest/61/problem/E) | [PyPy 3](./codeforces/61/E.py) | `data structures` `trees` `*1900` | Mar/12/2021 02:49 | 
 1048 | [C - Squared Error](https://atcoder.jp/contests/abc194/tasks/abc194_c) | [PyPy3 (7.3.0)](./atcoder/abc194/C.py) | `AtCoder` `*300` | Mar/12/2021 02:00 | 
 1047 | [B - Fenwick Tree](https://atcoder.jp/contests/practice2/tasks/practice2_b) | [PyPy3 (7.3.0)](./atcoder/practice2/B.py) | `AtCoder` `*100` | Mar/11/2021 16:04 | 

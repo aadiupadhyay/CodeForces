@@ -3471,6 +3471,22 @@
     ],
     "timestamp": "Mar/12/2021 02:00"
   },
+  "AC20870270": {
+    "contest_id": "abc195",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc195\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Health M Death",
+    "problem_url": "https://atcoder.jp/contests/abc195/tasks/abc195_a",
+    "submission_id": "AC20870270",
+    "submission_url": "https://atcoder.jp/contests/abc195/submissions/20870270",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/13/2021 17:31"
+  },
   "AC20880284": {
     "contest_id": "abc195",
     "language": "PyPy3 (7.3.0)",

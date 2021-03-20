@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1054 | [C - Doubled](https://atcoder.jp/contests/abc196/tasks/abc196_c) | [PyPy3 (7.3.0)](./atcoder/abc196/C.py) | `AtCoder` `*300` | Mar/21/2021 15:31 | 
-1053 | [B - Round Down](https://atcoder.jp/contests/abc196/tasks/abc196_b) | [PyPy3 (7.3.0)](./atcoder/abc196/B.py) | `AtCoder` `*200` | Mar/21/2021 15:25 | 
-1052 | [A - Difference Max](https://atcoder.jp/contests/abc196/tasks/abc196_a) | [PyPy3 (7.3.0)](./atcoder/abc196/A.py) | `AtCoder` `*100` | Mar/21/2021 15:23 | 
+1055 | [C - Doubled](https://atcoder.jp/contests/abc196/tasks/abc196_c) | [PyPy3 (7.3.0)](./atcoder/abc196/C.py) | `AtCoder` `*300` | Mar/21/2021 15:31 | 
+1054 | [B - Round Down](https://atcoder.jp/contests/abc196/tasks/abc196_b) | [PyPy3 (7.3.0)](./atcoder/abc196/B.py) | `AtCoder` `*200` | Mar/21/2021 15:25 | 
+1053 | [A - Difference Max](https://atcoder.jp/contests/abc196/tasks/abc196_a) | [PyPy3 (7.3.0)](./atcoder/abc196/A.py) | `AtCoder` `*100` | Mar/21/2021 15:23 | 
+1052 | [C2 - k-LCM (hard version)](https://codeforces.com/contest/1497/problem/C2) | [PyPy 3](./codeforces/1497/C2.py) | `constructive algorithms` `math` `*1600` | Mar/21/2021 01:26 | 
 1051 | [C - Comma](https://atcoder.jp/contests/abc195/tasks/abc195_c) | [PyPy3 (7.3.0)](./atcoder/abc195/C.py) | `AtCoder` `*300` | Mar/13/2021 17:48 | 
 1050 | [A - Health M Death](https://atcoder.jp/contests/abc195/tasks/abc195_a) | [PyPy3 (7.3.0)](./atcoder/abc195/A.py) | `AtCoder` `*100` | Mar/13/2021 17:31 | 
 1049 | [E - Enemy is weak](https://codeforces.com/contest/61/problem/E) | [PyPy 3](./codeforces/61/E.py) | `data structures` `trees` `*1900` | Mar/12/2021 02:49 | 

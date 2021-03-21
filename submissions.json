@@ -3471,6 +3471,22 @@
     ],
     "timestamp": "Mar/12/2021 02:00"
   },
+  "AC21134043": {
+    "contest_id": "abc196",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc196\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Doubled",
+    "problem_url": "https://atcoder.jp/contests/abc196/tasks/abc196_c",
+    "submission_id": "AC21134043",
+    "submission_url": "https://atcoder.jp/contests/abc196/submissions/21134043",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/21/2021 15:31"
+  },
   "CF100054430": {
     "contest_id": 1455,
     "language": "PyPy 3",

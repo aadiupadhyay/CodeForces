@@ -3471,6 +3471,22 @@
     ],
     "timestamp": "Mar/12/2021 02:00"
   },
+  "AC21133789": {
+    "contest_id": "abc196",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc196\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Difference Max",
+    "problem_url": "https://atcoder.jp/contests/abc196/tasks/abc196_a",
+    "submission_id": "AC21133789",
+    "submission_url": "https://atcoder.jp/contests/abc196/submissions/21133789",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/21/2021 15:23"
+  },
   "AC21133864": {
     "contest_id": "abc196",
     "language": "PyPy3 (7.3.0)",

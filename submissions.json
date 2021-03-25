@@ -6398,6 +6398,22 @@
     ],
     "timestamp": "Mar/21/2021 01:26"
   },
+  "CF111063768": {
+    "contest_id": 1506,
+    "language": "PyPy 3",
+    "path": "codeforces\\1506\\D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Epic Transformation",
+    "problem_url": "https://codeforces.com/contest/1506/problem/D",
+    "submission_id": "CF111063768",
+    "submission_url": "https://codeforces.com/contest/1506/submission/111063768",
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "timestamp": "Mar/25/2021 22:21"
+  },
   "CF111063846": {
     "contest_id": 1506,
     "language": "PyPy 3",

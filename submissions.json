@@ -6398,6 +6398,21 @@
     ],
     "timestamp": "Mar/21/2021 01:26"
   },
+  "CF111063970": {
+    "contest_id": 1506,
+    "language": "PyPy 3",
+    "path": "codeforces\\1506\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Strange Table",
+    "problem_url": "https://codeforces.com/contest/1506/problem/A",
+    "submission_id": "CF111063970",
+    "submission_url": "https://codeforces.com/contest/1506/submission/111063970",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Mar/25/2021 22:22"
+  },
   "CF111070976": {
     "contest_id": 1506,
     "language": "PyPy 3",

@@ -6398,6 +6398,21 @@
     ],
     "timestamp": "Mar/21/2021 01:26"
   },
+  "CF111077898": {
+    "contest_id": 1484,
+    "language": "PyPy 3",
+    "path": "codeforces\\1484\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prison Break",
+    "problem_url": "https://codeforces.com/contest/1484/problem/A",
+    "submission_id": "CF111077898",
+    "submission_url": "https://codeforces.com/contest/1484/submission/111077898",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "Mar/26/2021 01:00"
+  },
   "CF111081055": {
     "contest_id": 1494,
     "language": "PyPy 3",

@@ -6398,6 +6398,24 @@
     ],
     "timestamp": "Mar/21/2021 01:26"
   },
+  "CF111070976": {
+    "contest_id": 1506,
+    "language": "PyPy 3",
+    "path": "codeforces\\1506\\E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Restoring the Permutation",
+    "problem_url": "https://codeforces.com/contest/1506/problem/E",
+    "submission_id": "CF111070976",
+    "submission_url": "https://codeforces.com/contest/1506/submission/111070976",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dsu",
+      "greedy"
+    ],
+    "timestamp": "Mar/25/2021 23:27"
+  },
   "CF111072981": {
     "contest_id": 1506,
     "language": "PyPy 3",

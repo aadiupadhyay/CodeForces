@@ -6398,6 +6398,23 @@
     ],
     "timestamp": "Mar/21/2021 01:26"
   },
+  "CF111081850": {
+    "contest_id": 1493,
+    "language": "PyPy 3",
+    "path": "codeforces\\1493\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anti-knapsack",
+    "problem_url": "https://codeforces.com/contest/1493/problem/A",
+    "submission_id": "CF111081850",
+    "submission_url": "https://codeforces.com/contest/1493/submission/111081850",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Mar/26/2021 02:13"
+  },
   "CF75976293": {
     "contest_id": 615,
     "language": "Python 3",

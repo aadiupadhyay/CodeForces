@@ -6532,6 +6532,25 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111412030": {
+    "contest_id": 1498,
+    "language": "PyPy 3",
+    "path": "codeforces\\1498\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Box Fitting",
+    "problem_url": "https://codeforces.com/contest/1498/problem/B",
+    "submission_id": "CF111412030",
+    "submission_url": "https://codeforces.com/contest/1498/submission/111412030",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Mar/29/2021 23:44"
+  },
   "CF111416521": {
     "contest_id": 1498,
     "language": "PyPy 3",

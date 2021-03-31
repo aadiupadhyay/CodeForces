@@ -31,11 +31,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 1072 | [B - Photo to Remember](https://codeforces.com/contest/522/problem/B) | [PyPy 3](./codeforces/522/B.py) | `*special problem` `data structures` `dp` `implementation` `*1100` | Apr/03/2021 15:09 | 
 1071 | [B - Card Constructions](https://codeforces.com/contest/1345/problem/B) | [PyPy 3](./codeforces/1345/B.py) | `binary search` `brute force` `dp` `math` `*1100` | Apr/01/2021 16:35 | 
 1070 | [B - Sequential Nim](https://codeforces.com/contest/1382/problem/B) | [PyPy 3](./codeforces/1382/B.py) | `dp` `games` `*1100` | Apr/01/2021 16:16 | 
-1069 | [A - Anti-knapsack](https://codeforces.com/contest/1493/problem/A) | [PyPy 3](./codeforces/1493/A.py) | `constructive algorithms` `greedy` `*800` | Mar/26/2021 02:13 | 
-1068 | [A - ABC String](https://codeforces.com/contest/1494/problem/A) | [PyPy 3](./codeforces/1494/A.py) | `bitmasks` `brute force` `implementation` `*900` | Mar/26/2021 01:55 | 
-1067 | [A - Prison Break](https://codeforces.com/contest/1484/problem/A) | [PyPy 3](./codeforces/1484/A.py) | `constructive algorithms` | Mar/26/2021 01:00 | 
-1066 | [B - Partial Replacement](https://codeforces.com/contest/1506/problem/B) | [PyPy 3](./codeforces/1506/B.py) | `dp` `greedy` `implementation` | Mar/25/2021 23:50 | 
-1065 | [E - Restoring the Permutation](https://codeforces.com/contest/1506/problem/E) | [PyPy 3](./codeforces/1506/E.py) | `constructive algorithms` `data structures` `dsu` `greedy` | Mar/25/2021 23:27 | 
+1069 | [E - Restoring the Permutation](https://codeforces.com/contest/1506/problem/E) | [PyPy 3](./codeforces/1506/E.py) | `constructive algorithms` `implementation` `*1500` | Apr/01/2021 02:22 | 
+1068 | [A - Anti-knapsack](https://codeforces.com/contest/1493/problem/A) | [PyPy 3](./codeforces/1493/A.py) | `constructive algorithms` `greedy` `*800` | Mar/26/2021 02:13 | 
+1067 | [A - ABC String](https://codeforces.com/contest/1494/problem/A) | [PyPy 3](./codeforces/1494/A.py) | `bitmasks` `brute force` `implementation` `*900` | Mar/26/2021 01:55 | 
+1066 | [A - Prison Break](https://codeforces.com/contest/1484/problem/A) | [PyPy 3](./codeforces/1484/A.py) | `constructive algorithms` | Mar/26/2021 01:00 | 
+1065 | [B - Partial Replacement](https://codeforces.com/contest/1506/problem/B) | [PyPy 3](./codeforces/1506/B.py) | `dp` `greedy` `implementation` | Mar/25/2021 23:50 | 
 1064 | [A - Strange Table](https://codeforces.com/contest/1506/problem/A) | [PyPy 3](./codeforces/1506/A.py) | `math` | Mar/25/2021 22:22 | 
 1063 | [D - Epic Transformation](https://codeforces.com/contest/1506/problem/D) | [PyPy 3](./codeforces/1506/D.py) | `constructive algorithms` `greedy` | Mar/25/2021 22:21 | 
 1062 | [C - Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | [PyPy 3](./codeforces/1506/C.py) | `brute force` `dp` `hashing` `strings` | Mar/25/2021 22:21 | 

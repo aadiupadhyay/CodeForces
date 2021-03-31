@@ -6532,6 +6532,23 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111542306": {
+    "contest_id": 368,
+    "language": "PyPy 3",
+    "path": "codeforces\\368\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sereja and Suffixes",
+    "problem_url": "https://codeforces.com/contest/368/problem/B",
+    "submission_id": "CF111542306",
+    "submission_url": "https://codeforces.com/contest/368/submission/111542306",
+    "tags": [
+      "data structures",
+      "dp",
+      "*1100"
+    ],
+    "timestamp": "Mar/31/2021 14:52"
+  },
   "CF111543150": {
     "contest_id": 313,
     "language": "PyPy 3",

@@ -6532,6 +6532,19 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111595452": {
+    "contest_id": 1506,
+    "language": "PyPy 3",
+    "path": "codeforces\\1506\\E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Restoring the Permutation",
+    "problem_url": "https://codeforces.com/contest/1506/problem/E",
+    "submission_id": "CF111595452",
+    "submission_url": "https://codeforces.com/contest/1506/submission/111595452",
+    "tags": [],
+    "timestamp": "Apr/01/2021 02:21"
+  },
   "CF111595542": {
     "contest_id": 1506,
     "language": "PyPy 3",

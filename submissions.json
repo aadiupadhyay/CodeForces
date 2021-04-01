@@ -6532,6 +6532,25 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111635980": {
+    "contest_id": 1345,
+    "language": "PyPy 3",
+    "path": "codeforces\\1345\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Card Constructions",
+    "problem_url": "https://codeforces.com/contest/1345/problem/B",
+    "submission_id": "CF111635980",
+    "submission_url": "https://codeforces.com/contest/1345/submission/111635980",
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Apr/01/2021 16:35"
+  },
   "CF111850028": {
     "contest_id": 522,
     "language": "PyPy 3",

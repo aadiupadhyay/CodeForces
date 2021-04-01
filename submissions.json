@@ -6532,6 +6532,23 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111634452": {
+    "contest_id": 1382,
+    "language": "PyPy 3",
+    "path": "codeforces\\1382\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sequential Nim",
+    "problem_url": "https://codeforces.com/contest/1382/problem/B",
+    "submission_id": "CF111634452",
+    "submission_url": "https://codeforces.com/contest/1382/submission/111634452",
+    "tags": [
+      "dp",
+      "games",
+      "*1100"
+    ],
+    "timestamp": "Apr/01/2021 16:16"
+  },
   "CF111635980": {
     "contest_id": 1345,
     "language": "PyPy 3",

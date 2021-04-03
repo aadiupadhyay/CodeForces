@@ -6532,6 +6532,25 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111850028": {
+    "contest_id": 522,
+    "language": "PyPy 3",
+    "path": "codeforces\\522\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Photo to Remember",
+    "problem_url": "https://codeforces.com/contest/522/problem/B",
+    "submission_id": "CF111850028",
+    "submission_url": "https://codeforces.com/contest/522/submission/111850028",
+    "tags": [
+      "*special problem",
+      "data structures",
+      "dp",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Apr/03/2021 15:09"
+  },
   "CF111851023": {
     "contest_id": 1499,
     "language": "PyPy 3",

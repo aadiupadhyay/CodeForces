@@ -6532,6 +6532,24 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111948840": {
+    "contest_id": 1029,
+    "language": "PyPy 3",
+    "path": "codeforces\\1029\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Creating the Contest",
+    "problem_url": "https://codeforces.com/contest/1029/problem/B",
+    "submission_id": "CF111948840",
+    "submission_url": "https://codeforces.com/contest/1029/submission/111948840",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Apr/04/2021 01:04"
+  },
   "CF111949476": {
     "contest_id": 1245,
     "language": "PyPy 3",

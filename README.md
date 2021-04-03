@@ -13,16 +13,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1080 | [B - Vitamins](https://codeforces.com/contest/1042/problem/B) | [PyPy 3](./codeforces/1042/B.py) | `bitmasks` `brute force` `dp` `implementation` `*1200` | Apr/04/2021 16:26 | 
-1079 | [B - Cutting](https://codeforces.com/contest/998/problem/B) | [PyPy 3](./codeforces/998/B.py) | `dp` `greedy` `sortings` `*1200` | Apr/04/2021 15:48 | 
-1078 | [D - Minimum Triangulation](https://codeforces.com/contest/1140/problem/D) | [PyPy 3](./codeforces/1140/D.py) | `dp` `greedy` `math` `*1200` | Apr/04/2021 02:12 | 
-1077 | [B - Lecture Sleep](https://codeforces.com/contest/961/problem/B) | [PyPy 3](./codeforces/961/B.py) | `data structures` `dp` `implementation` `two pointers` `*1200` | Apr/04/2021 02:06 | 
-1076 | [B - Block Adventure](https://codeforces.com/contest/1200/problem/B) | [PyPy 3](./codeforces/1200/B.py) | `dp` `greedy` `*1200` | Apr/04/2021 01:57 | 
-1075 | [B - Restricted RPS](https://codeforces.com/contest/1245/problem/B) | [PyPy 3](./codeforces/1245/B.py) | `constructive algorithms` `dp` `greedy` `*1200` | Apr/04/2021 01:23 | 
-1074 | [B - Creating the Contest](https://codeforces.com/contest/1029/problem/B) | [PyPy 3](./codeforces/1029/B.py) | `dp` `greedy` `math` `*1200` | Apr/04/2021 01:04 | 
-1073 | [B - Flip the Bits](https://codeforces.com/contest/1504/problem/B) | [PyPy 3](./codeforces/1504/B.py) | `constructive algorithms` `greedy` `implementation` `math` `*1200` | Apr/04/2021 00:36 | 
-1072 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [PyPy 3](./codeforces/1504/A.py) | `constructive algorithms` `strings` `*800` | Apr/04/2021 00:35 | 
-1071 | [D - 3-Coloring](https://codeforces.com/contest/1504/problem/D) | [PyPy 3](./codeforces/1504/D.py) | `constructive algorithms` `games` `graphs` `interactive` `*1700` | Apr/04/2021 00:17 | 
+1081 | [B - Vitamins](https://codeforces.com/contest/1042/problem/B) | [PyPy 3](./codeforces/1042/B.py) | `bitmasks` `brute force` `dp` `implementation` `*1200` | Apr/04/2021 16:26 | 
+1080 | [B - Cutting](https://codeforces.com/contest/998/problem/B) | [PyPy 3](./codeforces/998/B.py) | `dp` `greedy` `sortings` `*1200` | Apr/04/2021 15:48 | 
+1079 | [D - Minimum Triangulation](https://codeforces.com/contest/1140/problem/D) | [PyPy 3](./codeforces/1140/D.py) | `dp` `greedy` `math` `*1200` | Apr/04/2021 02:12 | 
+1078 | [B - Lecture Sleep](https://codeforces.com/contest/961/problem/B) | [PyPy 3](./codeforces/961/B.py) | `data structures` `dp` `implementation` `two pointers` `*1200` | Apr/04/2021 02:06 | 
+1077 | [B - Block Adventure](https://codeforces.com/contest/1200/problem/B) | [PyPy 3](./codeforces/1200/B.py) | `dp` `greedy` `*1200` | Apr/04/2021 01:57 | 
+1076 | [B - Restricted RPS](https://codeforces.com/contest/1245/problem/B) | [PyPy 3](./codeforces/1245/B.py) | `constructive algorithms` `dp` `greedy` `*1200` | Apr/04/2021 01:23 | 
+1075 | [B - Creating the Contest](https://codeforces.com/contest/1029/problem/B) | [PyPy 3](./codeforces/1029/B.py) | `dp` `greedy` `math` `*1200` | Apr/04/2021 01:04 | 
+1074 | [B - Flip the Bits](https://codeforces.com/contest/1504/problem/B) | [PyPy 3](./codeforces/1504/B.py) | `constructive algorithms` `greedy` `implementation` `math` `*1200` | Apr/04/2021 00:36 | 
+1073 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [PyPy 3](./codeforces/1504/A.py) | `constructive algorithms` `strings` `*800` | Apr/04/2021 00:35 | 
+1072 | [D - 3-Coloring](https://codeforces.com/contest/1504/problem/D) | [PyPy 3](./codeforces/1504/D.py) | `constructive algorithms` `games` `graphs` `interactive` `*1700` | Apr/04/2021 00:17 | 
+1071 | [B - Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | [PyPy 3](./codeforces/1097/B.py) | `bitmasks` `brute force` `dp` `*1200` | Apr/03/2021 19:24 | 
 1070 | [A - Anti-knapsack](https://codeforces.com/contest/1493/problem/A) | [PyPy 3](./codeforces/1493/A.py) | `constructive algorithms` `greedy` `*800` | Mar/26/2021 02:13 | 
 1069 | [A - ABC String](https://codeforces.com/contest/1494/problem/A) | [PyPy 3](./codeforces/1494/A.py) | `bitmasks` `brute force` `implementation` `*900` | Mar/26/2021 01:55 | 
 1068 | [A - Prison Break](https://codeforces.com/contest/1484/problem/A) | [PyPy 3](./codeforces/1484/A.py) | `constructive algorithms` | Mar/26/2021 01:00 | 

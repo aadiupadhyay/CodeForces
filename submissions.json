@@ -6532,6 +6532,24 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111868583": {
+    "contest_id": 1097,
+    "language": "PyPy 3",
+    "path": "codeforces\\1097\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Petr and a Combination Lock",
+    "problem_url": "https://codeforces.com/contest/1097/problem/B",
+    "submission_id": "CF111868583",
+    "submission_url": "https://codeforces.com/contest/1097/submission/111868583",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "*1200"
+    ],
+    "timestamp": "Apr/03/2021 19:24"
+  },
   "CF111946163": {
     "contest_id": 1504,
     "language": "PyPy 3",

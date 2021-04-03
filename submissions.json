@@ -6532,6 +6532,24 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111951707": {
+    "contest_id": 1140,
+    "language": "PyPy 3",
+    "path": "codeforces\\1140\\D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Minimum Triangulation",
+    "problem_url": "https://codeforces.com/contest/1140/problem/D",
+    "submission_id": "CF111951707",
+    "submission_url": "https://codeforces.com/contest/1140/submission/111951707",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Apr/04/2021 02:12"
+  },
   "CF111990055": {
     "contest_id": 998,
     "language": "PyPy 3",

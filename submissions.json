@@ -6532,6 +6532,23 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111951104": {
+    "contest_id": 1200,
+    "language": "PyPy 3",
+    "path": "codeforces\\1200\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Block Adventure",
+    "problem_url": "https://codeforces.com/contest/1200/problem/B",
+    "submission_id": "CF111951104",
+    "submission_url": "https://codeforces.com/contest/1200/submission/111951104",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Apr/04/2021 01:57"
+  },
   "CF111951485": {
     "contest_id": 961,
     "language": "PyPy 3",

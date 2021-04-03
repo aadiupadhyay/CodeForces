@@ -6532,6 +6532,25 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111947385": {
+    "contest_id": 1504,
+    "language": "PyPy 3",
+    "path": "codeforces\\1504\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Flip the Bits",
+    "problem_url": "https://codeforces.com/contest/1504/problem/B",
+    "submission_id": "CF111947385",
+    "submission_url": "https://codeforces.com/contest/1504/submission/111947385",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Apr/04/2021 00:36"
+  },
   "CF111948840": {
     "contest_id": 1029,
     "language": "PyPy 3",

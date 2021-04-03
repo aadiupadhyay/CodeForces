@@ -6532,6 +6532,24 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111867772": {
+    "contest_id": 433,
+    "language": "PyPy 3",
+    "path": "codeforces\\433\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kuriyama Mirai's Stones",
+    "problem_url": "https://codeforces.com/contest/433/problem/B",
+    "submission_id": "CF111867772",
+    "submission_url": "https://codeforces.com/contest/433/submission/111867772",
+    "tags": [
+      "dp",
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Apr/03/2021 19:12"
+  },
   "CF111868583": {
     "contest_id": 1097,
     "language": "PyPy 3",

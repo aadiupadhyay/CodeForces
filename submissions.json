@@ -6532,6 +6532,25 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111851781": {
+    "contest_id": 651,
+    "language": "PyPy 3",
+    "path": "codeforces\\651\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Joysticks",
+    "problem_url": "https://codeforces.com/contest/651/problem/A",
+    "submission_id": "CF111851781",
+    "submission_url": "https://codeforces.com/contest/651/submission/111851781",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Apr/03/2021 15:34"
+  },
   "CF111853715": {
     "contest_id": 1354,
     "language": "PyPy 3",

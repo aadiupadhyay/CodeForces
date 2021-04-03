@@ -6532,6 +6532,25 @@
     ],
     "timestamp": "Mar/26/2021 02:13"
   },
+  "CF111946163": {
+    "contest_id": 1504,
+    "language": "PyPy 3",
+    "path": "codeforces\\1504\\D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "3-Coloring",
+    "problem_url": "https://codeforces.com/contest/1504/problem/D",
+    "submission_id": "CF111946163",
+    "submission_url": "https://codeforces.com/contest/1504/submission/111946163",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "graphs",
+      "interactive",
+      "*1700"
+    ],
+    "timestamp": "Apr/04/2021 00:17"
+  },
   "CF111947356": {
     "contest_id": 1504,
     "language": "PyPy 3",

@@ -7184,6 +7184,23 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF112007977": {
+    "contest_id": 1178,
+    "language": "PyPy 3",
+    "path": "codeforces\\1178\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "WOW Factor",
+    "problem_url": "https://codeforces.com/contest/1178/problem/B",
+    "submission_id": "CF112007977",
+    "submission_url": "https://codeforces.com/contest/1178/submission/112007977",
+    "tags": [
+      "dp",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Apr/04/2021 19:29"
+  },
   "CF112010086": {
     "contest_id": 870,
     "language": "PyPy 3",

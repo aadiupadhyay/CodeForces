@@ -7184,6 +7184,25 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF112002969": {
+    "contest_id": 1360,
+    "language": "PyPy 3",
+    "path": "codeforces\\1360\\E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Polygon",
+    "problem_url": "https://codeforces.com/contest/1360/problem/E",
+    "submission_id": "CF112002969",
+    "submission_url": "https://codeforces.com/contest/1360/submission/112002969",
+    "tags": [
+      "dp",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*1300"
+    ],
+    "timestamp": "Apr/04/2021 18:22"
+  },
   "CF112005310": {
     "contest_id": 1037,
     "language": "PyPy 3",

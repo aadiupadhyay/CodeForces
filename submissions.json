@@ -7184,6 +7184,23 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF111998732": {
+    "contest_id": 729,
+    "language": "PyPy 3",
+    "path": "codeforces\\729\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Spotlights",
+    "problem_url": "https://codeforces.com/contest/729/problem/B",
+    "submission_id": "CF111998732",
+    "submission_url": "https://codeforces.com/contest/729/submission/111998732",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Apr/04/2021 17:33"
+  },
   "CF111999932": {
     "contest_id": 1472,
     "language": "PyPy 3",

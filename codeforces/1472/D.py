@@ -1,87 +1,66 @@
-'''
-Aaditya Upadhyay
-                              _,add8ba,
-                            ,d888888888b,
-                           d8888888888888b                        _,ad8ba,_
-                          d888888888888888)                     ,d888888888b,
-                          I8888888888888888 _________          ,8888888888888b
-                __________`Y88888888888888P"""""""""""baaa,__ ,888888888888888,
-            ,adP"""""""""""9888888888P""^                 ^""Y8888888888888888I
-         ,a8"^           ,d888P"888P^                           ^"Y8888888888P'
-       ,a8^            ,d8888'                                     ^Y8888888P'
-      a88'           ,d8888P'                                        I88P"^
-    ,d88'           d88888P'                                          "b,
-   ,d88'           d888888'                                            `b,
-  ,d88'           d888888I                                              `b,
-  d88I           ,8888888'            ___                                `b,
- ,888'           d8888888          ,d88888b,              ____            `b,
- d888           ,8888888I         d88888888b,           ,d8888b,           `b
-,8888           I8888888I        d8888888888I          ,88888888b           8,
-I8888           88888888b       d88888888888'          8888888888b          8I
-d8886           888888888       Y888888888P'           Y8888888888,        ,8b
-88888b          I88888888b      `Y8888888^             `Y888888888I        d88,
-Y88888b         `888888888b,      `""""^                `Y8888888P'       d888I
-`888888b         88888888888b,                           `Y8888P^        d88888
- Y888888b       ,8888888888888ba,_          _______        `""^        ,d888888
- I8888888b,    ,888888888888888888ba,_     d88888888b               ,ad8888888I
- `888888888b,  I8888888888888888888888b,    ^"Y888P"^      ____.,ad88888888888I
-  88888888888b,`888888888888888888888888b,     ""      ad888888888888888888888'
-  8888888888888698888888888888888888888888b_,ad88ba,_,d88888888888888888888888
-  88888888888888888888888888888888888888888b,`"""^ d8888888888888888888888888I
-  8888888888888888888888888888888888888888888baaad888888888888888888888888888'
-  Y8888888888888888888888888888888888888888888888888888888888888888888888888P
-  I888888888888888888888888888888888888888888888P^  ^Y8888888888888888888888'
-  `Y88888888888888888P88888888888888888888888888'     ^88888888888888888888I
-   `Y8888888888888888 `8888888888888888888888888       8888888888888888888P'
-    `Y888888888888888  `888888888888888888888888,     ,888888888888888888P'
-     `Y88888888888888b  `88888888888888888888888I     I888888888888888888'
-       "Y8888888888888b  `8888888888888888888888I     I88888888888888888'
-         "Y88888888888P   `888888888888888888888b     d8888888888888888'
-            ^""""""""^     `Y88888888888888888888,    888888888888888P'
-                            "8888888888888888888b,   Y888888888888P^
-                             `Y888888888888888888b   `Y8888888P"^
-                                "Y8888888888888888P     `""""^
-                                  `"YY88888888888P'
-                                       ^""""""""'
-'''
-
-from sys import stdin, stdout
-from collections import *
+# aadiupadhyay
+import os.path
 from math import gcd, floor, ceil
-def st(): return list(stdin.readline().strip())
-
-
-def li(): return list(map(int, stdin.readline().split()))
-def mp(): return map(int, stdin.readline().split())
-def inp(): return int(stdin.readline())
-def pr(n): return stdout.write(str(n)+"\n")
-
-
+from collections import *
+import sys
 mod = 1000000007
 INF = float('inf')
+def st(): return list(sys.stdin.readline().strip())
+def li(): return list(map(int, sys.stdin.readline().split()))
+def mp(): return map(int, sys.stdin.readline().split())
+def inp(): return int(sys.stdin.readline())
+def pr(n): return sys.stdout.write(str(n)+"\n")
+def prl(n): return sys.stdout.write(str(n)+" ")
+
+
+if os.path.exists('input.txt'):
+    sys.stdin = open('input.txt', 'r')
+    sys.stdout = open('output.txt', 'w')
 
 
 def solve():
     n = inp()
     l = li()
-    l.sort(reverse=True)
-    a = l[::2]
-    b = l[1::2]
-    x, y = 0, 0
-    for i in a:
-        if i % 2 == 0:
-            x += i
-    for i in b:
+    odd = []
+    even = []
+    l.sort()
+    f, s = 0, 0
+    for i in l:
         if i & 1:
-            y += i
-    #print(x, y)
-    if x < y:
-        pr('Bob')
-        return
-    if x > y:
+            odd.append(i)
+        else:
+            even.append(i)
+    turn = 1
+    while odd and even:
+        if turn:
+            if even[-1] > odd[-1]:
+                f += even[-1]
+                even.pop()
+            else:
+                odd.pop()
+        else:
+            if odd[-1] > even[-1]:
+                s += odd[-1]
+                odd.pop()
+            else:
+                even.pop()
+        turn ^= 1
+    while even:
+        if turn:
+            f += even[-1]
+        turn ^= 1
+        even.pop()
+    while odd:
+        if not turn:
+            s += odd[-1]
+        turn ^= 1
+        odd.pop()
+    if f == s:
+        pr('Tie')
+    elif f > s:
         pr('Alice')
-        return
-    pr('Tie')
+    else:
+        pr('Bob')
 
 
 for _ in range(inp()):

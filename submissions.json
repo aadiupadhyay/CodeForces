@@ -7184,6 +7184,24 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF112005310": {
+    "contest_id": 1037,
+    "language": "PyPy 3",
+    "path": "codeforces\\1037\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Equalize",
+    "problem_url": "https://codeforces.com/contest/1037/problem/C",
+    "submission_id": "CF112005310",
+    "submission_url": "https://codeforces.com/contest/1037/submission/112005310",
+    "tags": [
+      "dp",
+      "greedy",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Apr/04/2021 18:52"
+  },
   "CF112007977": {
     "contest_id": 1178,
     "language": "PyPy 3",

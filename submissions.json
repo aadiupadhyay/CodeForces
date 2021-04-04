@@ -7184,6 +7184,24 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF112033862": {
+    "contest_id": 1485,
+    "language": "PyPy 3",
+    "path": "codeforces\\1485\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Replace and Keep Sorted",
+    "problem_url": "https://codeforces.com/contest/1485/problem/B",
+    "submission_id": "CF112033862",
+    "submission_url": "https://codeforces.com/contest/1485/submission/112033862",
+    "tags": [
+      "dp",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Apr/05/2021 02:47"
+  },
   "CF112100895": {
     "contest_id": 234,
     "language": "PyPy 3",

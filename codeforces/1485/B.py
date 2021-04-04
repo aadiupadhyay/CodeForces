@@ -1,69 +1,32 @@
-'''
-Aaditya Upadhyay
-                          ud$$$**$$$$$$bc.
-                       u@**"        4$$$$$$Nu
-                     J                ""#$$$$$r
-                    @                       $$$b
-                  .F                        ^*3$$$
-                 :% 4                         J$$N
-                 $  :F                       :$$$$$
-                4F  9                       J$$$$$$$
-                4$   k             4$$$bed$$$$$$$$$
-                $r  'F            $$$$$$$$$$$$$$$$r
-                $$$   b.           $$$$$$$$$$$$$$$$N
-                $$$$k 3eeed$b    $$Euec."$$$$$$$$$
- .@$**N.        $$$$$" $$$$$F'L $$$$$$$$$$$  $$$$$$$
- :$L  'L       $$$$$ 4$$$$$$  * $$$$$$$$$F  $$$$$F         edNc
-@$$$N  ^k      $$$$$  3$$$$*%   F4$$$$$$$   $$$$$"        d"  zN
-$$$$$$   ^k     '$$$"   #$$F   .$  $$$$c.u@$$$          J"  @$$$r
-$$$$$$b   *u    ^L            $$  $$$$$$$$$$$u@       $$  d$$$$$$
- ^$$$$$$.    "NL   "N. z@*     $$$  $$$$$$$$$$$$P      P  d$$$$$$$
-    ^"*$$$b   '*L   9E      4$$$  d$$$$$$$$$$$"     d*   J$$$$r
-         ^$$$u  '$.  $$L     "#" d$$$$$$".@$$    .@$"  z$$$$*"
-           ^$$$$. ^N.3$$$       4u$$$$$$$ 4$$$  u$*" z$$$"
-             '*$$$$$$$$ *b      J$$$$$$b u$P $"  d$P
-                #$$$$$$ 4$ 3*$"$*$ $"$'c@@$$$$ .u@$$P
-                  "$$$$  ""F~$ uNr$$$^&J$$$F $$$$#
-                    "$$    "$$bd$.W$$$$$$$F $$"
-                      ?k         ?$$$$$$$$$$F'*
-                       9$bL     z$$$$$$$$$$F
-                        $$$$    $$$$$$$$$$$$$
-                         '#$c  '$$$$$$$$$"
-                          .@"#$$$$$$$$$$$b
-                        z*      $$$$$$$$$$$N.
-                      e"      z$$"  #$$k  '*$$.
-                  .u*      u@P"      '#$c   "$c
-           u@$*"""       d$$"            "$$u  ^*$b.
-         :F           JP"                ^$$c   '"$$$$$bL
-        d$$  ..      @$#                      #$b         '#$
-        9$$$$$b   4$$                          ^$k         '$
-         "$""b u$$                             '$    d$$$$P
-           'F $$$$$"                              ^b  ^$$$b$
-            'W$$$$"                                'b@$$$$"
-                                                     ^$$$*
-'''
-from sys import stdin, stdout
+# aadiupadhyay
+import sys
 from collections import *
-from math import gcd, floor, ceil
-def st(): return list(stdin.readline().strip())
-
-
-def li(): return list(map(int, stdin.readline().split()))
-def mp(): return map(int, stdin.readline().split())
-def inp(): return int(stdin.readline())
-def pr(n): return stdout.write(str(n)+"\n")
-
-
+import os.path
 mod = 1000000007
 INF = float('inf')
+def st(): return list(sys.stdin.readline().strip())
+def li(): return list(map(int, sys.stdin.readline().split()))
+def mp(): return map(int, sys.stdin.readline().split())
+def inp(): return int(sys.stdin.readline())
+def pr(n): return sys.stdout.write(str(n)+"\n")
+def prl(n): return sys.stdout.write(str(n)+" ")
+
+
+if os.path.exists('input.txt'):
+    sys.stdin = open('input.txt', 'r')
+    sys.stdout = open('output.txt', 'w')
 
 
 def solve():
     n, q, k = mp()
-    A = li()
+    l = li()
+    A = []
     for i in range(q):
-        l, r = mp()
-        pr(k - (r - l + 1) + (A[r - 1] - A[l - 1] + 1 - (r - l + 1)))
+        a, b = mp()
+        size = b-a+1
+        ans = l[b-1] - l[a-1] + k - 2*size + 1
+        A.append(ans)
+    print(*A, sep='\n')
 
-for _ in range(1):
-    solve()
+
+solve()

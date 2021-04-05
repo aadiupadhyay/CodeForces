@@ -7184,6 +7184,22 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF112102043": {
+    "contest_id": 628,
+    "language": "PyPy 3",
+    "path": "codeforces\\628\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Skateboard",
+    "problem_url": "https://codeforces.com/contest/628/problem/B",
+    "submission_id": "CF112102043",
+    "submission_url": "https://codeforces.com/contest/628/submission/112102043",
+    "tags": [
+      "dp",
+      "*1300"
+    ],
+    "timestamp": "Apr/06/2021 00:25"
+  },
   "CF112180756": {
     "contest_id": 665,
     "language": "PyPy 3",

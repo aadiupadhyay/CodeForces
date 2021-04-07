@@ -7184,6 +7184,25 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF112254752": {
+    "contest_id": 1480,
+    "language": "PyPy 3",
+    "path": "codeforces\\1480\\D1.py",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Painting the Array I",
+    "problem_url": "https://codeforces.com/contest/1480/problem/D1",
+    "submission_id": "CF112254752",
+    "submission_url": "https://codeforces.com/contest/1480/submission/112254752",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Apr/08/2021 00:19"
+  },
   "CF112258285": {
     "contest_id": 1503,
     "language": "PyPy 3",

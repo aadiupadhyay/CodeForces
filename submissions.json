@@ -7184,6 +7184,23 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF112258285": {
+    "contest_id": 1503,
+    "language": "PyPy 3",
+    "path": "codeforces\\1503\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Balance the Bits",
+    "problem_url": "https://codeforces.com/contest/1503/problem/A",
+    "submission_id": "CF112258285",
+    "submission_url": "https://codeforces.com/contest/1503/submission/112258285",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Apr/08/2021 01:25"
+  },
   "CF112258305": {
     "contest_id": 1504,
     "language": "PyPy 3",

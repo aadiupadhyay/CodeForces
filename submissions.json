@@ -7184,6 +7184,23 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF112294914": {
+    "contest_id": 1469,
+    "language": "PyPy 3",
+    "path": "codeforces\\1469\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Red and Blue",
+    "problem_url": "https://codeforces.com/contest/1469/problem/B",
+    "submission_id": "CF112294914",
+    "submission_url": "https://codeforces.com/contest/1469/submission/112294914",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Apr/08/2021 16:31"
+  },
   "CF112339012": {
     "contest_id": 1505,
     "language": "PyPy 3",

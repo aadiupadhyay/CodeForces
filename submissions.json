@@ -7184,6 +7184,22 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF112339440": {
+    "contest_id": 1505,
+    "language": "PyPy 3",
+    "path": "codeforces\\1505\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Is it rated - 2",
+    "problem_url": "https://codeforces.com/contest/1505/problem/A",
+    "submission_id": "CF112339440",
+    "submission_url": "https://codeforces.com/contest/1505/submission/112339440",
+    "tags": [
+      "implementation",
+      "interactive"
+    ],
+    "timestamp": "Apr/09/2021 02:28"
+  },
   "CF112339611": {
     "contest_id": 1505,
     "language": "PyPy 3",

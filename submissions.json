@@ -7184,6 +7184,21 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF112339611": {
+    "contest_id": 1505,
+    "language": "PyPy 3",
+    "path": "codeforces\\1505\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fibonacci Words",
+    "problem_url": "https://codeforces.com/contest/1505/problem/C",
+    "submission_id": "CF112339611",
+    "submission_url": "https://codeforces.com/contest/1505/submission/112339611",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Apr/09/2021 02:33"
+  },
   "CF112364121": {
     "contest_id": 798,
     "language": "PyPy 3",

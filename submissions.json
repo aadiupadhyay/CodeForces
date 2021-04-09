@@ -3551,6 +3551,22 @@
     ],
     "timestamp": "Mar/21/2021 15:31"
   },
+  "AC21593918": {
+    "contest_id": "abc176",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc176\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Wizard in Maze",
+    "problem_url": "https://atcoder.jp/contests/abc176/tasks/abc176_d",
+    "submission_id": "AC21593918",
+    "submission_url": "https://atcoder.jp/contests/abc176/submissions/21593918",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Apr/10/2021 02:17"
+  },
   "AC21631246": {
     "contest_id": "arc116",
     "language": "PyPy3 (7.3.0)",

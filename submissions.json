@@ -7184,6 +7184,24 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF112364121": {
+    "contest_id": 798,
+    "language": "PyPy 3",
+    "path": "codeforces\\798\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mike and strings",
+    "problem_url": "https://codeforces.com/contest/798/problem/B",
+    "submission_id": "CF112364121",
+    "submission_url": "https://codeforces.com/contest/798/submission/112364121",
+    "tags": [
+      "brute force",
+      "dp",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Apr/09/2021 14:24"
+  },
   "CF112417265": {
     "contest_id": 877,
     "language": "PyPy 3",

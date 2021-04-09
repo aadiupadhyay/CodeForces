@@ -1,6 +1,5 @@
 # aadiupadhyay
 import os.path
-# testing extension
 from math import gcd, floor, ceil
 from collections import *
 import sys

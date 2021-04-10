@@ -7184,6 +7184,21 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF112566443": {
+    "contest_id": 1512,
+    "language": "PyPy 3",
+    "path": "codeforces\\1512\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Almost Rectangle",
+    "problem_url": "https://codeforces.com/contest/1512/problem/B",
+    "submission_id": "CF112566443",
+    "submission_url": "https://codeforces.com/contest/1512/submission/112566443",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Apr/10/2021 22:48"
+  },
   "CF112571404": {
     "contest_id": 1512,
     "language": "PyPy 3",

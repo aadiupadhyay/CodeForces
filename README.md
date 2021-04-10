@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1100 | [B - Visibility](https://atcoder.jp/contests/abc197/tasks/abc197_b) | [PyPy3 (7.3.0)](./atcoder/abc197/B.py) | `AtCoder` `*200` | Apr/11/2021 15:55 | 
-1099 | [A - Rotate](https://atcoder.jp/contests/abc197/tasks/abc197_a) | [PyPy3 (7.3.0)](./atcoder/abc197/A.py) | `AtCoder` `*100` | Apr/11/2021 15:49 | 
-1098 | [A - Odd vs Even](https://atcoder.jp/contests/arc116/tasks/arc116_a) | [PyPy3 (7.3.0)](./atcoder/arc116/A.py) | `AtCoder` `*300` | Apr/11/2021 15:42 | 
+1101 | [B - Visibility](https://atcoder.jp/contests/abc197/tasks/abc197_b) | [PyPy3 (7.3.0)](./atcoder/abc197/B.py) | `AtCoder` `*200` | Apr/11/2021 15:55 | 
+1100 | [A - Rotate](https://atcoder.jp/contests/abc197/tasks/abc197_a) | [PyPy3 (7.3.0)](./atcoder/abc197/A.py) | `AtCoder` `*100` | Apr/11/2021 15:49 | 
+1099 | [A - Odd vs Even](https://atcoder.jp/contests/arc116/tasks/arc116_a) | [PyPy3 (7.3.0)](./atcoder/arc116/A.py) | `AtCoder` `*300` | Apr/11/2021 15:42 | 
+1098 | [G - Short Task](https://codeforces.com/contest/1512/problem/G) | [GNU C++14](./codeforces/1512/G.cpp) | `brute force` `dp` `math` `number theory` | Apr/11/2021 01:10 | 
 1097 | [D - Wizard in Maze](https://atcoder.jp/contests/abc176/tasks/abc176_d) | [PyPy3 (7.3.0)](./atcoder/abc176/D.py) | `AtCoder` `*400` | Apr/10/2021 02:17 | 
 1096 | [B - Vitamins](https://codeforces.com/contest/1042/problem/B) | [PyPy 3](./codeforces/1042/B.py) | `bitmasks` `brute force` `dp` `implementation` `*1200` | Apr/04/2021 16:26 | 
 1095 | [B - Cutting](https://codeforces.com/contest/998/problem/B) | [PyPy 3](./codeforces/998/B.py) | `dp` `greedy` `sortings` `*1200` | Apr/04/2021 15:48 | 

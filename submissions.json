@@ -7184,6 +7184,22 @@
     ],
     "timestamp": "Apr/04/2021 16:26"
   },
+  "CF112564896": {
+    "contest_id": 1512,
+    "language": "PyPy 3",
+    "path": "codeforces\\1512\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Spy Detected!",
+    "problem_url": "https://codeforces.com/contest/1512/problem/A",
+    "submission_id": "CF112564896",
+    "submission_url": "https://codeforces.com/contest/1512/submission/112564896",
+    "tags": [
+      "brute force",
+      "implementation"
+    ],
+    "timestamp": "Apr/10/2021 22:36"
+  },
   "CF112566443": {
     "contest_id": 1512,
     "language": "PyPy 3",

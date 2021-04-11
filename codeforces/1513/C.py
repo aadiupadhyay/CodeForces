@@ -30,8 +30,9 @@ for i in range(1, maxN+1):
 def solve():
     n, m = mp()
     ans = 0
-    for i in str(n):
-        a = int(i)
+    while n:
+        a = n % 10
+        n //= 10
         ans = (ans % mod + dp[m][a] % mod) % mod
     pr(ans)
 

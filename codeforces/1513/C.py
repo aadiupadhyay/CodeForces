@@ -24,7 +24,7 @@ for i in range(10):
 for i in range(1, maxN+1):
     for j in range(9):
         dp[i][j] = dp[i-1][j+1]
-    dp[i][9] = (dp[i-1][0] + dp[i-1][1]) % mod
+    dp[i][9] = (dp[i-1][0] % mod + dp[i-1][1] % mod) % mod
 
 
 def solve():
@@ -32,7 +32,7 @@ def solve():
     ans = 0
     for i in str(n):
         a = int(i)
-        ans = (ans + dp[m][a]) % mod
+        ans = (ans % mod + dp[m][a] % mod) % mod
     pr(ans)
 
 

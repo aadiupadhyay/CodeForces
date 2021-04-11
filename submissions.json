@@ -7872,6 +7872,24 @@
     ],
     "timestamp": "Apr/11/2021 01:10"
   },
+  "CF112721500": {
+    "contest_id": 1512,
+    "language": "PyPy 3",
+    "path": "codeforces\\1512\\E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Permutation by Sum",
+    "problem_url": "https://codeforces.com/contest/1512/problem/E",
+    "submission_id": "CF112721500",
+    "submission_url": "https://codeforces.com/contest/1512/submission/112721500",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Apr/12/2021 00:28"
+  },
   "CF112721575": {
     "contest_id": 1512,
     "language": "PyPy 3",

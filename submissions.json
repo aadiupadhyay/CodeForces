@@ -3615,6 +3615,22 @@
     ],
     "timestamp": "Apr/11/2021 15:55"
   },
+  "AC21703072": {
+    "contest_id": "abc198",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc198\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Palindrome with leading zeros",
+    "problem_url": "https://atcoder.jp/contests/abc198/tasks/abc198_b",
+    "submission_id": "AC21703072",
+    "submission_url": "https://atcoder.jp/contests/abc198/submissions/21703072",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Apr/12/2021 02:11"
+  },
   "AC21873029": {
     "contest_id": "arc117",
     "language": "PyPy3 (7.3.0)",

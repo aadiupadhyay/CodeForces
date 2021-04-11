@@ -3551,6 +3551,22 @@
     ],
     "timestamp": "Mar/21/2021 15:31"
   },
+  "AC21631481": {
+    "contest_id": "abc197",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc197\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Visibility",
+    "problem_url": "https://atcoder.jp/contests/abc197/tasks/abc197_b",
+    "submission_id": "AC21631481",
+    "submission_url": "https://atcoder.jp/contests/abc197/submissions/21631481",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Apr/11/2021 15:55"
+  },
   "CF100054430": {
     "contest_id": 1455,
     "language": "PyPy 3",

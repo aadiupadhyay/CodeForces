@@ -3551,6 +3551,22 @@
     ],
     "timestamp": "Mar/21/2021 15:31"
   },
+  "AC21631348": {
+    "contest_id": "abc197",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc197\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Rotate",
+    "problem_url": "https://atcoder.jp/contests/abc197/tasks/abc197_a",
+    "submission_id": "AC21631348",
+    "submission_url": "https://atcoder.jp/contests/abc197/submissions/21631348",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Apr/11/2021 15:49"
+  },
   "AC21631481": {
     "contest_id": "abc197",
     "language": "PyPy3 (7.3.0)",

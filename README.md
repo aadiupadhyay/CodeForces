@@ -13,40 +13,41 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1160 | [F1 - Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1) | [PyPy 3](./codeforces/1520/F1.py) | `binary search` `interactive` | May/06/2021 02:38 | 
-1159 | [E - Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | [PyPy 3](./codeforces/1520/E.py) | `greedy` `math` | May/06/2021 02:37 | 
-1158 | [D - Same Differences](https://codeforces.com/contest/1520/problem/D) | [PyPy 3](./codeforces/1520/D.py) | `data structures` `hashing` `math` | May/06/2021 02:37 | 
-1157 | [C - Not Adjacent Matrix](https://codeforces.com/contest/1520/problem/C) | [PyPy 3](./codeforces/1520/C.py) | `constructive algorithms` | May/06/2021 02:36 | 
-1156 | [B - Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | [PyPy 3](./codeforces/1520/B.py) | `brute force` `math` `number theory` | May/06/2021 02:35 | 
-1155 | [A - Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | [PyPy 3](./codeforces/1520/A.py) | `brute force` `implementation` | May/06/2021 02:34 | 
-1154 | [C - Phoenix and Towers](https://codeforces.com/contest/1515/problem/C) | [PyPy 3](./codeforces/1515/C.py) | `constructive algorithms` `data structures` `greedy` `*1400` | May/03/2021 02:28 | 
-1153 | [B - Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B) | [PyPy 3](./codeforces/1515/B.py) | `brute force` `geometry` `math` `number theory` `*1000` | May/03/2021 02:27 | 
-1152 | [A - Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) | [PyPy 3](./codeforces/1515/A.py) | `constructive algorithms` `math` `*800` | May/03/2021 02:27 | 
-1151 | [D - Pair of Topics](https://codeforces.com/contest/1324/problem/D) | [PyPy 3](./codeforces/1324/D.py) | `binary search` `data structures` `sortings` `two pointers` `*1400` | May/02/2021 00:02 | 
-1150 | [A - Square Inequality](https://atcoder.jp/contests/abc199/tasks/abc199_a) | [PyPy3 (7.3.0)](./atcoder/abc199/A.py) | `AtCoder` `*100` | Apr/25/2021 01:26 | 
-1149 | [C - IPFL](https://atcoder.jp/contests/abc199/tasks/abc199_c) | [PyPy3 (7.3.0)](./atcoder/abc199/C.py) | `AtCoder` `*300` | Apr/25/2021 00:56 | 
-1148 | [B - Intersection](https://atcoder.jp/contests/abc199/tasks/abc199_b) | [PyPy3 (7.3.0)](./atcoder/abc199/B.py) | `AtCoder` `*200` | Apr/25/2021 00:44 | 
-1147 | [C - Fillomino 2](https://codeforces.com/contest/1517/problem/C) | [PyPy 3](./codeforces/1517/C.py) | `constructive algorithms` `dfs and similar` `greedy` `implementation` `*1400` | Apr/24/2021 01:14 | 
-1146 | [B - Morning Jogging](https://codeforces.com/contest/1517/problem/B) | [PyPy 3](./codeforces/1517/B.py) | `constructive algorithms` `greedy` `sortings` `*1200` | Apr/23/2021 23:55 | 
-1145 | [A - Sum of 2050](https://codeforces.com/contest/1517/problem/A) | [PyPy 3](./codeforces/1517/A.py) | `greedy` `math` `*800` | Apr/23/2021 23:21 | 
-1144 | [C - Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | [PyPy 3](./codeforces/5/C.py) | `constructive algorithms` `data structures` `dp` `greedy` `sortings` `strings` `*1900` | Apr/22/2021 00:37 | 
-1143 | [D - Flowers](https://codeforces.com/contest/474/problem/D) | [PyPy 3](./codeforces/474/D.py) | `dp` `*1700` | Apr/21/2021 23:25 | 
-1142 | [B - AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | [PyPy 3](./codeforces/1516/B.py) | `bitmasks` `brute force` `dp` `greedy` `*1500` | Apr/21/2021 23:00 | 
-1141 | [A - Tit for Tat](https://codeforces.com/contest/1516/problem/A) | [PyPy 3](./codeforces/1516/A.py) | `greedy` `*800` | Apr/21/2021 21:42 | 
-1140 | [C - Baby Ehab Partitions Again](https://codeforces.com/contest/1516/problem/C) | [PyPy 3](./codeforces/1516/C.py) | `bitmasks` `constructive algorithms` `dp` `math` `*1700` | Apr/21/2021 21:40 | 
-1139 | [D - Caesar's Legions](https://codeforces.com/contest/118/problem/D) | [PyPy 3](./codeforces/118/D.py) | `dp` `*1700` | Apr/21/2021 01:18 | 
-1138 | [C - Product 1 Modulo N](https://codeforces.com/contest/1514/problem/C) | [PyPy 3](./codeforces/1514/C.py) | `greedy` `number theory` `*1600` | Apr/19/2021 23:56 | 
-1137 | [B - AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | [PyPy 3](./codeforces/1514/B.py) | `bitmasks` `combinatorics` `math` `*1200` | Apr/19/2021 23:51 | 
-1136 | [A - Perfectly Imperfect Array](https://codeforces.com/contest/1514/problem/A) | [PyPy 3](./codeforces/1514/A.py) | `math` `number theory` `*800` | Apr/19/2021 23:49 | 
-1135 | [A - God Sequence](https://atcoder.jp/contests/arc117/tasks/arc117_a) | [PyPy3 (7.3.0)](./atcoder/arc117/A.py) | `AtCoder` `*200` | Apr/18/2021 19:40 | 
-1134 | [A - Average Height](https://codeforces.com/contest/1509/problem/A) | [PyPy 3](./codeforces/1509/A.py) | `constructive algorithms` `*800` | Apr/16/2021 22:47 | 
-1133 | [B - TMT Document](https://codeforces.com/contest/1509/problem/B) | [PyPy 3](./codeforces/1509/B.py) | `greedy` `*1100` | Apr/16/2021 22:43 | 
-1132 | [C - Match Points](https://codeforces.com/contest/1156/problem/C) | [PyPy 3](./codeforces/1156/C.py) | `binary search` `greedy` `sortings` `ternary search` `two pointers` `*2000` | Apr/16/2021 15:31 | 
-1131 | [B - Obsession with Robots](https://codeforces.com/contest/8/problem/B) | [PyPy 3](./codeforces/8/B.py) | `constructive algorithms` `graphs` `implementation` `*1400` | Apr/14/2021 23:31 | 
-1130 | [B - Mr. Kitayuta's Colorful Graph](https://codeforces.com/contest/505/problem/B) | [PyPy 3](./codeforces/505/B.py) | `dfs and similar` `dp` `dsu` `graphs` `*1400` | Apr/14/2021 16:22 | 
-1129 | [C - Array Destruction](https://codeforces.com/contest/1474/problem/C) | [PyPy 3](./codeforces/1474/C.py) | `brute force` `constructive algorithms` `data structures` `greedy` `implementation` `sortings` `*1700` | Apr/14/2021 15:35 | 
-1128 | [C - Dividing the numbers](https://codeforces.com/contest/899/problem/C) | [PyPy 3](./codeforces/899/C.py) | `constructive algorithms` `graphs` `math` `*1300` | Apr/13/2021 16:55 | 
-1127 | [C - Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | [PyPy 3](./codeforces/1511/C.py) | `brute force` `data structures` `implementation` `trees` `*1100` | Apr/12/2021 22:42 | 
+1161 | [F1 - Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1) | [PyPy 3](./codeforces/1520/F1.py) | `binary search` `interactive` | May/06/2021 02:38 | 
+1160 | [E - Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | [PyPy 3](./codeforces/1520/E.py) | `greedy` `math` | May/06/2021 02:37 | 
+1159 | [D - Same Differences](https://codeforces.com/contest/1520/problem/D) | [PyPy 3](./codeforces/1520/D.py) | `data structures` `hashing` `math` | May/06/2021 02:37 | 
+1158 | [C - Not Adjacent Matrix](https://codeforces.com/contest/1520/problem/C) | [PyPy 3](./codeforces/1520/C.py) | `constructive algorithms` | May/06/2021 02:36 | 
+1157 | [B - Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | [PyPy 3](./codeforces/1520/B.py) | `brute force` `math` `number theory` | May/06/2021 02:35 | 
+1156 | [A - Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | [PyPy 3](./codeforces/1520/A.py) | `brute force` `implementation` | May/06/2021 02:34 | 
+1155 | [C - Phoenix and Towers](https://codeforces.com/contest/1515/problem/C) | [PyPy 3](./codeforces/1515/C.py) | `constructive algorithms` `data structures` `greedy` `*1400` | May/03/2021 02:28 | 
+1154 | [B - Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B) | [PyPy 3](./codeforces/1515/B.py) | `brute force` `geometry` `math` `number theory` `*1000` | May/03/2021 02:27 | 
+1153 | [A - Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) | [PyPy 3](./codeforces/1515/A.py) | `constructive algorithms` `math` `*800` | May/03/2021 02:27 | 
+1152 | [D - Pair of Topics](https://codeforces.com/contest/1324/problem/D) | [PyPy 3](./codeforces/1324/D.py) | `binary search` `data structures` `sortings` `two pointers` `*1400` | May/02/2021 00:02 | 
+1151 | [A - Square Inequality](https://atcoder.jp/contests/abc199/tasks/abc199_a) | [PyPy3 (7.3.0)](./atcoder/abc199/A.py) | `AtCoder` `*100` | Apr/25/2021 01:26 | 
+1150 | [C - IPFL](https://atcoder.jp/contests/abc199/tasks/abc199_c) | [PyPy3 (7.3.0)](./atcoder/abc199/C.py) | `AtCoder` `*300` | Apr/25/2021 00:56 | 
+1149 | [B - Intersection](https://atcoder.jp/contests/abc199/tasks/abc199_b) | [PyPy3 (7.3.0)](./atcoder/abc199/B.py) | `AtCoder` `*200` | Apr/25/2021 00:44 | 
+1148 | [C - Fillomino 2](https://codeforces.com/contest/1517/problem/C) | [PyPy 3](./codeforces/1517/C.py) | `constructive algorithms` `dfs and similar` `greedy` `implementation` `*1400` | Apr/24/2021 01:14 | 
+1147 | [B - Morning Jogging](https://codeforces.com/contest/1517/problem/B) | [PyPy 3](./codeforces/1517/B.py) | `constructive algorithms` `greedy` `sortings` `*1200` | Apr/23/2021 23:55 | 
+1146 | [A - Sum of 2050](https://codeforces.com/contest/1517/problem/A) | [PyPy 3](./codeforces/1517/A.py) | `greedy` `math` `*800` | Apr/23/2021 23:21 | 
+1145 | [C - Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | [PyPy 3](./codeforces/5/C.py) | `constructive algorithms` `data structures` `dp` `greedy` `sortings` `strings` `*1900` | Apr/22/2021 00:37 | 
+1144 | [D - Flowers](https://codeforces.com/contest/474/problem/D) | [PyPy 3](./codeforces/474/D.py) | `dp` `*1700` | Apr/21/2021 23:25 | 
+1143 | [B - AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | [PyPy 3](./codeforces/1516/B.py) | `bitmasks` `brute force` `dp` `greedy` `*1500` | Apr/21/2021 23:00 | 
+1142 | [A - Tit for Tat](https://codeforces.com/contest/1516/problem/A) | [PyPy 3](./codeforces/1516/A.py) | `greedy` `*800` | Apr/21/2021 21:42 | 
+1141 | [C - Baby Ehab Partitions Again](https://codeforces.com/contest/1516/problem/C) | [PyPy 3](./codeforces/1516/C.py) | `bitmasks` `constructive algorithms` `dp` `math` `*1700` | Apr/21/2021 21:40 | 
+1140 | [D - Caesar's Legions](https://codeforces.com/contest/118/problem/D) | [PyPy 3](./codeforces/118/D.py) | `dp` `*1700` | Apr/21/2021 01:18 | 
+1139 | [C - Product 1 Modulo N](https://codeforces.com/contest/1514/problem/C) | [PyPy 3](./codeforces/1514/C.py) | `greedy` `number theory` `*1600` | Apr/19/2021 23:56 | 
+1138 | [B - AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | [PyPy 3](./codeforces/1514/B.py) | `bitmasks` `combinatorics` `math` `*1200` | Apr/19/2021 23:51 | 
+1137 | [A - Perfectly Imperfect Array](https://codeforces.com/contest/1514/problem/A) | [PyPy 3](./codeforces/1514/A.py) | `math` `number theory` `*800` | Apr/19/2021 23:49 | 
+1136 | [A - God Sequence](https://atcoder.jp/contests/arc117/tasks/arc117_a) | [PyPy3 (7.3.0)](./atcoder/arc117/A.py) | `AtCoder` `*200` | Apr/18/2021 19:40 | 
+1135 | [A - Average Height](https://codeforces.com/contest/1509/problem/A) | [PyPy 3](./codeforces/1509/A.py) | `constructive algorithms` `*800` | Apr/16/2021 22:47 | 
+1134 | [B - TMT Document](https://codeforces.com/contest/1509/problem/B) | [PyPy 3](./codeforces/1509/B.py) | `greedy` `*1100` | Apr/16/2021 22:43 | 
+1133 | [C - Match Points](https://codeforces.com/contest/1156/problem/C) | [PyPy 3](./codeforces/1156/C.py) | `binary search` `greedy` `sortings` `ternary search` `two pointers` `*2000` | Apr/16/2021 15:31 | 
+1132 | [B - Obsession with Robots](https://codeforces.com/contest/8/problem/B) | [PyPy 3](./codeforces/8/B.py) | `constructive algorithms` `graphs` `implementation` `*1400` | Apr/14/2021 23:31 | 
+1131 | [B - Mr. Kitayuta's Colorful Graph](https://codeforces.com/contest/505/problem/B) | [PyPy 3](./codeforces/505/B.py) | `dfs and similar` `dp` `dsu` `graphs` `*1400` | Apr/14/2021 16:22 | 
+1130 | [C - Array Destruction](https://codeforces.com/contest/1474/problem/C) | [PyPy 3](./codeforces/1474/C.py) | `brute force` `constructive algorithms` `data structures` `greedy` `implementation` `sortings` `*1700` | Apr/14/2021 15:35 | 
+1129 | [C - Dividing the numbers](https://codeforces.com/contest/899/problem/C) | [PyPy 3](./codeforces/899/C.py) | `constructive algorithms` `graphs` `math` `*1300` | Apr/13/2021 16:55 | 
+1128 | [C - Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | [PyPy 3](./codeforces/1511/C.py) | `brute force` `data structures` `implementation` `trees` `*1100` | Apr/12/2021 22:42 | 
+1127 | [B - GCD Length](https://codeforces.com/contest/1511/problem/B) | [PyPy 3](./codeforces/1511/B.py) | `constructive algorithms` `math` `number theory` `*1100` | Apr/12/2021 22:41 | 
 1126 | [B - Palindrome with leading zeros](https://atcoder.jp/contests/abc198/tasks/abc198_b) | [PyPy3 (7.3.0)](./atcoder/abc198/B.py) | `AtCoder` `*200` | Apr/12/2021 02:11 | 
 1125 | [A - Div](https://atcoder.jp/contests/abc198/tasks/abc198_a) | [PyPy3 (7.3.0)](./atcoder/abc198/A.py) | `AtCoder` `*100` | Apr/12/2021 02:04 | 
 1124 | [B - Visibility](https://atcoder.jp/contests/abc197/tasks/abc197_b) | [PyPy3 (7.3.0)](./atcoder/abc197/B.py) | `AtCoder` `*200` | Apr/11/2021 15:55 | 

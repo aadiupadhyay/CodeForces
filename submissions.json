@@ -7872,6 +7872,23 @@
     ],
     "timestamp": "Apr/11/2021 01:10"
   },
+  "CF112771728": {
+    "contest_id": 1076,
+    "language": "PyPy 3",
+    "path": "codeforces\\1076\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Meme Problem",
+    "problem_url": "https://codeforces.com/contest/1076/problem/C",
+    "submission_id": "CF112771728",
+    "submission_url": "https://codeforces.com/contest/1076/submission/112771728",
+    "tags": [
+      "binary search",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Apr/12/2021 17:09"
+  },
   "CF112862208": {
     "contest_id": 1511,
     "language": "PyPy 3",

@@ -48,15 +48,14 @@ l = [li() for i in range(n)]
 for i in range(n):
     now = 0
     for j in range(m):
-        if l[i][j] not in d:
-            cur = BS(l[i][j])
-            d[l[i][j]] = prime[cur]-l[i][j]
-        now += d[l[i][j]]
+        cur = BS(l[i][j])
+        d[(i, j)] = prime[cur]-l[i][j]
+        now += prime[cur] - l[i][j]
     ans = min(ans, now)
 
 for i in range(m):
     now = 0
     for j in range(n):
-        now += d[l[j][i]]
+        now += d[(j, i)]
     ans = min(ans, now)
 pr(ans)

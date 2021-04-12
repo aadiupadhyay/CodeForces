@@ -7872,6 +7872,25 @@
     ],
     "timestamp": "Apr/11/2021 01:10"
   },
+  "CF112769757": {
+    "contest_id": 271,
+    "language": "PyPy 3",
+    "path": "codeforces\\271\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prime Matrix",
+    "problem_url": "https://codeforces.com/contest/271/problem/B",
+    "submission_id": "CF112769757",
+    "submission_url": "https://codeforces.com/contest/271/submission/112769757",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Apr/12/2021 16:47"
+  },
   "CF112769913": {
     "contest_id": 271,
     "language": "PyPy 3",

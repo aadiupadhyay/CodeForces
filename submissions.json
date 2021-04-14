@@ -7872,6 +7872,25 @@
     ],
     "timestamp": "Apr/11/2021 01:10"
   },
+  "CF113000514": {
+    "contest_id": 505,
+    "language": "PyPy 3",
+    "path": "codeforces\\505\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mr. Kitayuta's Colorful Graph",
+    "problem_url": "https://codeforces.com/contest/505/problem/B",
+    "submission_id": "CF113000514",
+    "submission_url": "https://codeforces.com/contest/505/submission/113000514",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "*1400"
+    ],
+    "timestamp": "Apr/14/2021 16:22"
+  },
   "CF113035252": {
     "contest_id": 8,
     "language": "PyPy 3",

@@ -3615,6 +3615,22 @@
     ],
     "timestamp": "Apr/11/2021 15:55"
   },
+  "AC21873029": {
+    "contest_id": "arc117",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\arc117\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "God Sequence",
+    "problem_url": "https://atcoder.jp/contests/arc117/tasks/arc117_a",
+    "submission_id": "AC21873029",
+    "submission_url": "https://atcoder.jp/contests/arc117/submissions/21873029",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Apr/18/2021 19:40"
+  },
   "AC22046312": {
     "contest_id": "abc199",
     "language": "PyPy3 (7.3.0)",

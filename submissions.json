@@ -7872,6 +7872,23 @@
     ],
     "timestamp": "Apr/11/2021 01:10"
   },
+  "CF113549418": {
+    "contest_id": 1514,
+    "language": "PyPy 3",
+    "path": "codeforces\\1514\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Product 1 Modulo N",
+    "problem_url": "https://codeforces.com/contest/1514/problem/C",
+    "submission_id": "CF113549418",
+    "submission_url": "https://codeforces.com/contest/1514/submission/113549418",
+    "tags": [
+      "greedy",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Apr/19/2021 23:56"
+  },
   "CF113648341": {
     "contest_id": 118,
     "language": "PyPy 3",

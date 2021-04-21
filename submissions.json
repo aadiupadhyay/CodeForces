@@ -7872,6 +7872,25 @@
     ],
     "timestamp": "Apr/11/2021 01:10"
   },
+  "CF113792505": {
+    "contest_id": 1516,
+    "language": "PyPy 3",
+    "path": "codeforces\\1516\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Baby Ehab Partitions Again",
+    "problem_url": "https://codeforces.com/contest/1516/problem/C",
+    "submission_id": "CF113792505",
+    "submission_url": "https://codeforces.com/contest/1516/submission/113792505",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Apr/21/2021 21:40"
+  },
   "CF113792810": {
     "contest_id": 1516,
     "language": "PyPy 3",

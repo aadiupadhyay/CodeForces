@@ -7872,6 +7872,22 @@
     ],
     "timestamp": "Apr/11/2021 01:10"
   },
+  "CF113803312": {
+    "contest_id": 474,
+    "language": "PyPy 3",
+    "path": "codeforces\\474\\D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Flowers",
+    "problem_url": "https://codeforces.com/contest/474/problem/D",
+    "submission_id": "CF113803312",
+    "submission_url": "https://codeforces.com/contest/474/submission/113803312",
+    "tags": [
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "Apr/21/2021 23:25"
+  },
   "CF113808705": {
     "contest_id": 5,
     "language": "PyPy 3",

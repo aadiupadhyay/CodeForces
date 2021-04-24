@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1125 | [A - Square Inequality](https://atcoder.jp/contests/abc199/tasks/abc199_a) | [PyPy3 (7.3.0)](./atcoder/abc199/A.py) | `AtCoder` `*100` | Apr/25/2021 01:26 | 
 1124 | [B - Visibility](https://atcoder.jp/contests/abc197/tasks/abc197_b) | [PyPy3 (7.3.0)](./atcoder/abc197/B.py) | `AtCoder` `*200` | Apr/11/2021 15:55 | 
 1123 | [A - Rotate](https://atcoder.jp/contests/abc197/tasks/abc197_a) | [PyPy3 (7.3.0)](./atcoder/abc197/A.py) | `AtCoder` `*100` | Apr/11/2021 15:49 | 
 1122 | [A - Odd vs Even](https://atcoder.jp/contests/arc116/tasks/arc116_a) | [PyPy3 (7.3.0)](./atcoder/arc116/A.py) | `AtCoder` `*300` | Apr/11/2021 15:42 | 
@@ -29,8 +30,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 1111 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [PyPy 3](./codeforces/1469/B.py) | `dp` `greedy` `*1000` | Apr/08/2021 16:31 | 
 1110 | [B - Labyrinth](https://codeforces.com/contest/1063/problem/B) | [PyPy 3](./codeforces/1063/B.py) | `graphs` `shortest paths` `*1800` | Apr/08/2021 16:17 | 
 1109 | [A - Cut Ribbon](https://codeforces.com/contest/189/problem/A) | [PyPy 3](./codeforces/189/A.py) | `brute force` `dp` `*1300` | Apr/08/2021 15:51 | 
-1108 | [C - Balance the Bits](https://codeforces.com/contest/1504/problem/C) | [PyPy 3](./codeforces/1504/C.py) | `brute force` `constructive algorithms` `greedy` `*1600` | Apr/08/2021 01:25 | 
-1107 | [A - Balance the Bits](https://codeforces.com/contest/1503/problem/A) | [PyPy 3](./codeforces/1503/A.py) | `constructive algorithms` `greedy` `*1600` | Apr/08/2021 01:25 | 
+1108 | [A - Balance the Bits](https://codeforces.com/contest/1503/problem/A) | [PyPy 3](./codeforces/1503/A.py) | `constructive algorithms` `greedy` `*1600` | Apr/08/2021 01:25 | 
+1107 | [C - Balance the Bits](https://codeforces.com/contest/1504/problem/C) | [PyPy 3](./codeforces/1504/C.py) | `brute force` `constructive algorithms` `greedy` `*1600` | Apr/08/2021 01:25 | 
 1106 | [D1 - Painting the Array I](https://codeforces.com/contest/1480/problem/D1) | [PyPy 3](./codeforces/1480/D1.py) | `data structures` `dp` `greedy` `implementation` `*1900` | Apr/08/2021 00:19 | 
 1105 | [B - Cards](https://codeforces.com/contest/626/problem/B) | [PyPy 3](./codeforces/626/B.py) | `constructive algorithms` `dp` `math` `*1300` | Apr/07/2021 23:16 | 
 1104 | [C - Simple Strings](https://codeforces.com/contest/665/problem/C) | [Python 3](./codeforces/665/C.py) | `dp` `greedy` `strings` `*1300` | Apr/07/2021 02:59 | 

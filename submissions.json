@@ -7872,6 +7872,22 @@
     ],
     "timestamp": "Apr/11/2021 01:10"
   },
+  "CF115356976": {
+    "contest_id": 1520,
+    "language": "PyPy 3",
+    "path": "codeforces\\1520\\E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Arranging The Sheep",
+    "problem_url": "https://codeforces.com/contest/1520/problem/E",
+    "submission_id": "CF115356976",
+    "submission_url": "https://codeforces.com/contest/1520/submission/115356976",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "May/06/2021 02:37"
+  },
   "CF115357031": {
     "contest_id": 1520,
     "language": "PyPy 3",

@@ -7872,6 +7872,21 @@
     ],
     "timestamp": "Apr/11/2021 01:10"
   },
+  "CF115356924": {
+    "contest_id": 1520,
+    "language": "PyPy 3",
+    "path": "codeforces\\1520\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Not Adjacent Matrix",
+    "problem_url": "https://codeforces.com/contest/1520/problem/C",
+    "submission_id": "CF115356924",
+    "submission_url": "https://codeforces.com/contest/1520/submission/115356924",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "May/06/2021 02:36"
+  },
   "CF115356947": {
     "contest_id": 1520,
     "language": "PyPy 3",

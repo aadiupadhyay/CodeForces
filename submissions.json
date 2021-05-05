@@ -7872,6 +7872,22 @@
     ],
     "timestamp": "Apr/11/2021 01:10"
   },
+  "CF115356863": {
+    "contest_id": 1520,
+    "language": "PyPy 3",
+    "path": "codeforces\\1520\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Do Not Be Distracted!",
+    "problem_url": "https://codeforces.com/contest/1520/problem/A",
+    "submission_id": "CF115356863",
+    "submission_url": "https://codeforces.com/contest/1520/submission/115356863",
+    "tags": [
+      "brute force",
+      "implementation"
+    ],
+    "timestamp": "May/06/2021 02:34"
+  },
   "CF115356887": {
     "contest_id": 1520,
     "language": "PyPy 3",

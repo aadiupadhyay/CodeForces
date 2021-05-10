@@ -13,15 +13,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1179 | [B - 0-1 MST](https://codeforces.com/contest/1242/problem/B) | [PyPy 3](./codeforces/1242/B.py) | `dfs and similar` `dsu` `graphs` `sortings` `*1900` | May/12/2021 00:05 | 
-1178 | [E - Counter Attack](https://codeforces.com/contest/190/problem/E) | [GNU C++14](./codeforces/190/E.cpp) | `data structures` `dsu` `graphs` `hashing` `sortings` `*2100` | May/11/2021 23:25 | 
-1177 | [E - Connected Components?](https://codeforces.com/contest/920/problem/E) | [PyPy 3](./codeforces/920/E.py) | `data structures` `dfs and similar` `dsu` `graphs` `*2100` | May/11/2021 23:05 | 
-1176 | [C - Fox And Names](https://codeforces.com/contest/510/problem/C) | [PyPy 3](./codeforces/510/C.py) | `dfs and similar` `graphs` `sortings` `*1600` | May/11/2021 22:02 | 
-1175 | [G - SCC](https://atcoder.jp/contests/practice2/tasks/practice2_g) | [PyPy3 (7.3.0)](./atcoder/practice2/G.py) | `AtCoder` `*100` | May/11/2021 15:38 | 
-1174 | [J - Segment Tree](https://atcoder.jp/contests/practice2/tasks/practice2_j) | [PyPy3 (7.3.0)](./atcoder/practice2/J.py) | `AtCoder` `*100` | May/11/2021 14:02 | 
-1173 | [C - Ringo's Favorite Numbers 2](https://atcoder.jp/contests/abc200/tasks/abc200_c) | [PyPy3 (7.3.0)](./atcoder/abc200/C.py) | `AtCoder` `*300` | May/11/2021 00:17 | 
-1172 | [B - 200th ABC-200](https://atcoder.jp/contests/abc200/tasks/abc200_b) | [PyPy3 (7.3.0)](./atcoder/abc200/B.py) | `AtCoder` `*200` | May/10/2021 23:52 | 
-1171 | [A - Century](https://atcoder.jp/contests/abc200/tasks/abc200_a) | [PyPy3 (7.3.0)](./atcoder/abc200/A.py) | `AtCoder` `*100` | May/10/2021 23:47 | 
+1180 | [B - 0-1 MST](https://codeforces.com/contest/1242/problem/B) | [PyPy 3](./codeforces/1242/B.py) | `dfs and similar` `dsu` `graphs` `sortings` `*1900` | May/12/2021 00:05 | 
+1179 | [E - Counter Attack](https://codeforces.com/contest/190/problem/E) | [GNU C++14](./codeforces/190/E.cpp) | `data structures` `dsu` `graphs` `hashing` `sortings` `*2100` | May/11/2021 23:25 | 
+1178 | [E - Connected Components?](https://codeforces.com/contest/920/problem/E) | [PyPy 3](./codeforces/920/E.py) | `data structures` `dfs and similar` `dsu` `graphs` `*2100` | May/11/2021 23:05 | 
+1177 | [C - Fox And Names](https://codeforces.com/contest/510/problem/C) | [PyPy 3](./codeforces/510/C.py) | `dfs and similar` `graphs` `sortings` `*1600` | May/11/2021 22:02 | 
+1176 | [G - SCC](https://atcoder.jp/contests/practice2/tasks/practice2_g) | [PyPy3 (7.3.0)](./atcoder/practice2/G.py) | `AtCoder` `*100` | May/11/2021 15:38 | 
+1175 | [J - Segment Tree](https://atcoder.jp/contests/practice2/tasks/practice2_j) | [PyPy3 (7.3.0)](./atcoder/practice2/J.py) | `AtCoder` `*100` | May/11/2021 14:02 | 
+1174 | [C - Ringo's Favorite Numbers 2](https://atcoder.jp/contests/abc200/tasks/abc200_c) | [PyPy3 (7.3.0)](./atcoder/abc200/C.py) | `AtCoder` `*300` | May/11/2021 00:17 | 
+1173 | [B - 200th ABC-200](https://atcoder.jp/contests/abc200/tasks/abc200_b) | [PyPy3 (7.3.0)](./atcoder/abc200/B.py) | `AtCoder` `*200` | May/10/2021 23:52 | 
+1172 | [A - Century](https://atcoder.jp/contests/abc200/tasks/abc200_a) | [PyPy3 (7.3.0)](./atcoder/abc200/A.py) | `AtCoder` `*100` | May/10/2021 23:47 | 
+1171 | [G - University Classes](https://codeforces.com/contest/847/problem/G) | [PyPy 3](./codeforces/847/G.py) | `implementation` `*900` | May/10/2021 19:33 | 
 1170 | [F1 - Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1) | [PyPy 3](./codeforces/1520/F1.py) | `binary search` `interactive` | May/06/2021 02:38 | 
 1169 | [D - Same Differences](https://codeforces.com/contest/1520/problem/D) | [PyPy 3](./codeforces/1520/D.py) | `data structures` `hashing` `math` | May/06/2021 02:37 | 
 1168 | [E - Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | [PyPy 3](./codeforces/1520/E.py) | `greedy` `math` | May/06/2021 02:37 | 

@@ -8782,6 +8782,22 @@
     ],
     "timestamp": "May/06/2021 02:38"
   },
+  "CF115870678": {
+    "contest_id": 847,
+    "language": "PyPy 3",
+    "path": "codeforces\\847\\G.py",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "University Classes",
+    "problem_url": "https://codeforces.com/contest/847/problem/G",
+    "submission_id": "CF115870678",
+    "submission_url": "https://codeforces.com/contest/847/submission/115870678",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "May/10/2021 19:33"
+  },
   "CF115963930": {
     "contest_id": 510,
     "language": "PyPy 3",

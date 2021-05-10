@@ -3727,6 +3727,22 @@
     ],
     "timestamp": "Apr/25/2021 01:26"
   },
+  "AC22508548": {
+    "contest_id": "abc200",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc200\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Ringo's Favorite Numbers 2",
+    "problem_url": "https://atcoder.jp/contests/abc200/tasks/abc200_c",
+    "submission_id": "AC22508548",
+    "submission_url": "https://atcoder.jp/contests/abc200/submissions/22508548",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/11/2021 00:17"
+  },
   "AC22517468": {
     "contest_id": "practice2",
     "language": "PyPy3 (7.3.0)",

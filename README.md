@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1171 | [G - SCC](https://atcoder.jp/contests/practice2/tasks/practice2_g) | [PyPy3 (7.3.0)](./atcoder/practice2/G.py) | `AtCoder` `*100` | May/11/2021 15:38 | 
+1172 | [G - SCC](https://atcoder.jp/contests/practice2/tasks/practice2_g) | [PyPy3 (7.3.0)](./atcoder/practice2/G.py) | `AtCoder` `*100` | May/11/2021 15:38 | 
+1171 | [J - Segment Tree](https://atcoder.jp/contests/practice2/tasks/practice2_j) | [PyPy3 (7.3.0)](./atcoder/practice2/J.py) | `AtCoder` `*100` | May/11/2021 14:02 | 
 1170 | [F1 - Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1) | [PyPy 3](./codeforces/1520/F1.py) | `binary search` `interactive` | May/06/2021 02:38 | 
 1169 | [D - Same Differences](https://codeforces.com/contest/1520/problem/D) | [PyPy 3](./codeforces/1520/D.py) | `data structures` `hashing` `math` | May/06/2021 02:37 | 
 1168 | [E - Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | [PyPy 3](./codeforces/1520/E.py) | `greedy` `math` | May/06/2021 02:37 | 

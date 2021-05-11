@@ -3727,6 +3727,22 @@
     ],
     "timestamp": "Apr/25/2021 01:26"
   },
+  "AC22517468": {
+    "contest_id": "practice2",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\practice2\\J.py",
+    "platform": "AtCoder",
+    "problem_index": "J",
+    "problem_name": "Segment Tree",
+    "problem_url": "https://atcoder.jp/contests/practice2/tasks/practice2_j",
+    "submission_id": "AC22517468",
+    "submission_url": "https://atcoder.jp/contests/practice2/submissions/22517468",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "May/11/2021 14:02"
+  },
   "AC22519307": {
     "contest_id": "practice2",
     "language": "PyPy3 (7.3.0)",

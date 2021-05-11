@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1176 | [B - 0-1 MST](https://codeforces.com/contest/1242/problem/B) | [PyPy 3](./codeforces/1242/B.py) | `dfs and similar` `dsu` `graphs` `sortings` `*1900` | May/12/2021 00:05 | 
 1175 | [G - SCC](https://atcoder.jp/contests/practice2/tasks/practice2_g) | [PyPy3 (7.3.0)](./atcoder/practice2/G.py) | `AtCoder` `*100` | May/11/2021 15:38 | 
 1174 | [J - Segment Tree](https://atcoder.jp/contests/practice2/tasks/practice2_j) | [PyPy3 (7.3.0)](./atcoder/practice2/J.py) | `AtCoder` `*100` | May/11/2021 14:02 | 
 1173 | [C - Ringo's Favorite Numbers 2](https://atcoder.jp/contests/abc200/tasks/abc200_c) | [PyPy3 (7.3.0)](./atcoder/abc200/C.py) | `AtCoder` `*300` | May/11/2021 00:17 | 

@@ -8782,6 +8782,25 @@
     ],
     "timestamp": "May/06/2021 02:38"
   },
+  "CF115971396": {
+    "contest_id": 1242,
+    "language": "PyPy 3",
+    "path": "codeforces\\1242\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "0-1 MST",
+    "problem_url": "https://codeforces.com/contest/1242/problem/B",
+    "submission_id": "CF115971396",
+    "submission_url": "https://codeforces.com/contest/1242/submission/115971396",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "May/12/2021 00:05"
+  },
   "CF75976293": {
     "contest_id": 615,
     "language": "Python 3",

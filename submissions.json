@@ -3727,6 +3727,22 @@
     ],
     "timestamp": "Apr/25/2021 01:26"
   },
+  "AC22519307": {
+    "contest_id": "practice2",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\practice2\\G.py",
+    "platform": "AtCoder",
+    "problem_index": "G",
+    "problem_name": "SCC",
+    "problem_url": "https://atcoder.jp/contests/practice2/tasks/practice2_g",
+    "submission_id": "AC22519307",
+    "submission_url": "https://atcoder.jp/contests/practice2/submissions/22519307",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "May/11/2021 15:38"
+  },
   "CF100054430": {
     "contest_id": 1455,
     "language": "PyPy 3",
